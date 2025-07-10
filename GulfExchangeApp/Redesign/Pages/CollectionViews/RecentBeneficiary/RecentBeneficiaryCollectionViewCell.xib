@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="22505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22504"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Poppins-Medium.ttf">
+            <string>Poppins-Medium</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="RecentBeneficiaryCollectionViewCell" customModule="GulfExchangeApp" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="80" height="80"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="80" height="80"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="xJI-Tm-GpX">
+                        <rect key="frame" x="15" y="0.0" width="50" height="50"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="profile_nselected" translatesAutoresizingMaskIntoConstraints="NO" id="EEy-d9-Vck">
+                                <rect key="frame" x="0.0" y="0.0" width="50" height="50"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="0.90196078431372551" green="0.90196078431372551" blue="0.90196078431372551" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="bottom" secondItem="EEy-d9-Vck" secondAttribute="bottom" id="3oj-yA-qP4"/>
+                            <constraint firstItem="EEy-d9-Vck" firstAttribute="top" secondItem="xJI-Tm-GpX" secondAttribute="top" id="5Ub-vd-9jn"/>
+                            <constraint firstAttribute="height" constant="50" id="NL4-nX-a31"/>
+                            <constraint firstItem="EEy-d9-Vck" firstAttribute="leading" secondItem="xJI-Tm-GpX" secondAttribute="leading" id="SQg-oC-r9u"/>
+                            <constraint firstAttribute="width" constant="50" id="bEG-hh-sqO"/>
+                            <constraint firstAttribute="trailing" secondItem="EEy-d9-Vck" secondAttribute="trailing" id="t4F-bq-upo"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="25"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="----" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="WFB-iz-rw2">
+                        <rect key="frame" x="0.0" y="50" width="80" height="30"/>
+                        <fontDescription key="fontDescription" name="Poppins-Medium" family="Poppins" pointSize="12"/>
+                        <color key="textColor" name="color_light_gray"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="u73-Gs-dXQ">
+                        <rect key="frame" x="0.0" y="0.0" width="80" height="80"/>
+                        <state key="normal" title="Button"/>
+                        <buttonConfiguration key="configuration" style="plain" title="Button"/>
+                        <connections>
+                            <action selector="selectionBtnTapped:" destination="gTV-IL-0wX" eventType="touchUpInside" id="qjo-Vw-PoF"/>
+                        </connections>
+                    </button>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="u73-Gs-dXQ" secondAttribute="trailing" id="5MO-Zd-Y9h"/>
+                <constraint firstAttribute="bottom" secondItem="u73-Gs-dXQ" secondAttribute="bottom" id="5u6-w6-2bN"/>
+                <constraint firstItem="u73-Gs-dXQ" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="8YL-5L-8GQ"/>
+                <constraint firstItem="WFB-iz-rw2" firstAttribute="top" secondItem="xJI-Tm-GpX" secondAttribute="bottom" id="PPF-nn-tUg"/>
+                <constraint firstItem="xJI-Tm-GpX" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="RFb-do-AQL"/>
+                <constraint firstItem="u73-Gs-dXQ" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="hOb-GL-QjX"/>
+                <constraint firstItem="xJI-Tm-GpX" firstAttribute="centerX" secondItem="gTV-IL-0wX" secondAttribute="centerX" id="nEd-5g-kVm"/>
+                <constraint firstItem="WFB-iz-rw2" firstAttribute="centerX" secondItem="xJI-Tm-GpX" secondAttribute="centerX" id="quL-xE-av7"/>
+                <constraint firstItem="WFB-iz-rw2" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="rt7-r0-TnE"/>
+                <constraint firstAttribute="bottom" secondItem="WFB-iz-rw2" secondAttribute="bottom" id="sD5-ze-Dxn"/>
+            </constraints>
+            <size key="customSize" width="104" height="113"/>
+            <connections>
+                <outlet property="imageBgView" destination="xJI-Tm-GpX" id="DRF-Yn-ZZW"/>
+                <outlet property="profileImgView" destination="EEy-d9-Vck" id="hDC-7k-HAz"/>
+                <outlet property="selectionBtn" destination="u73-Gs-dXQ" id="9dB-oN-WFO"/>
+                <outlet property="userNameLbl" destination="WFB-iz-rw2" id="q3X-f9-GAP"/>
+            </connections>
+            <point key="canvasLocation" x="119.08396946564885" y="41.901408450704224"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="profile_nselected" width="24" height="24"/>
+        <namedColor name="color_light_gray">
+            <color red="0.54509803921568623" green="0.54509803921568623" blue="0.54509803921568623" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>

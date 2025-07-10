@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="22505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22504"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="40" id="KGk-i7-Jjw" customClass="CountryDropDownTableViewCell" customModule="GulfExchangeApp" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="439" height="40"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="439" height="40"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="tPO-rl-szu">
+                        <rect key="frame" x="15" y="0.0" width="50" height="40"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="50" id="yg3-01-rw8"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="India" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="beW-jt-pWD">
+                        <rect key="frame" x="80" y="0.0" width="349" height="40"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <color key="textColor" red="0.50196078430000002" green="0.5568627451" blue="0.6588235294" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4vp-Ok-8Zk">
+                        <rect key="frame" x="0.0" y="0.0" width="439" height="40"/>
+                        <state key="normal" title="Button"/>
+                        <buttonConfiguration key="configuration" style="plain"/>
+                    </button>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="beW-jt-pWD" secondAttribute="trailing" constant="10" id="0E0-aE-hLI"/>
+                    <constraint firstItem="4vp-Ok-8Zk" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="2xR-eq-9Sh"/>
+                    <constraint firstAttribute="trailing" secondItem="4vp-Ok-8Zk" secondAttribute="trailing" id="9Tp-Zn-5LQ"/>
+                    <constraint firstAttribute="bottom" secondItem="beW-jt-pWD" secondAttribute="bottom" id="9fz-uf-96D"/>
+                    <constraint firstItem="tPO-rl-szu" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="15" id="D8C-bq-rw6"/>
+                    <constraint firstAttribute="bottom" secondItem="4vp-Ok-8Zk" secondAttribute="bottom" id="Eaf-aO-rI9"/>
+                    <constraint firstAttribute="bottom" secondItem="tPO-rl-szu" secondAttribute="bottom" id="Gy3-Zu-xRv"/>
+                    <constraint firstItem="beW-jt-pWD" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="Tin-cG-WnH"/>
+                    <constraint firstItem="4vp-Ok-8Zk" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="VJL-ba-hMm"/>
+                    <constraint firstItem="beW-jt-pWD" firstAttribute="leading" secondItem="tPO-rl-szu" secondAttribute="trailing" constant="15" id="Yaf-xx-R3n"/>
+                    <constraint firstItem="tPO-rl-szu" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="zI7-fm-mxA"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="countryLbl" destination="beW-jt-pWD" id="ZMr-3W-snE"/>
+                <outlet property="flagImgView" destination="tPO-rl-szu" id="2lu-Ce-wq1"/>
+                <outlet property="selectionBtn" destination="4vp-Ok-8Zk" id="BFU-HI-7os"/>
+            </connections>
+            <point key="canvasLocation" x="261.83206106870227" y="9.8591549295774659"/>
+        </tableViewCell>
+    </objects>
+</document>

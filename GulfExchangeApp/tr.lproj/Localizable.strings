@@ -1,0 +1,776 @@
+"app_name" = "Gulf Exchange App";
+    "about_us" = "Gulf Exchange Katar ve Orta Doğunun ISO 27001:2013 sertifikalı önde gelen döviz mübadelesi
+        firmalarından olup kurulduğu 1977 tarihinden beri sunduğu hizmetleri 1.4 milyondan fazla bireysel ve kurumsal müşterisine
+        sunmayı başarmıştır. Kurucusu ve İdari Müdürü olan Ali Jaafar Al-Sarraf’ın liderliğinde dünyanın her yanında döviz
+        mübadelesi, altın alım ve satımı ile uluslararası para transferleri alanında ilk tercih edilen firma olmayı başararak
+        gelişmesini sürdürmüştür. \n\n Müşteri deneyimi iş dünyası için bir hedef olmayı sürdürürken Gulf Exchange için bir
+        gerçekliktir. 10 şubemizde 135,00 müşterimize 20 farklı dilde kişiselleştirilmiş hizmet sunmaktayız. Dünya çapındaki
+        geniş partner ağımız sayesinde müşterilerimize en uygun oranları sunabilmekteyiz. Buna ek olarak, 1991 yılından beri en
+        yeni finans teknolojilerini kullanan öncü bir finans kuruluşu olmakla gururlanmaktayız. \n\n İnsan kaynaklarımıza yatırım
+        yaparak, küresel ağımızı genişleterek ve müşterilerimizin her yerde yanında olabilmek için dağıtım kanallarımızı genişleterek
+        müşterilerimizin benzersiz bir deneyim yaşamasını sağlıyoruz.";
+    "message_from_ge" = "Gulf Exchange insan odaklı bir şirket olmakla gurur duymakta. Çalışanlarımızın bağlılığı,
+        müşteri memnuniyeti ve toplumsal refahın her türlü başarı ve sürdürülebilir iş modeli için temel sütunlar olduğunu
+        düşünmekteyiz.\n\nGulf Exchange’de siz değerli müşterilerimize eşsiz bir hizmet sağlamayı amaçlamaktayız. Sorumluluğumuzun
+        bilincinde olarak kendini adamış, deneyimli ve çok dil bilen profesyonel kadromuzla 9 şubemizde ve alternatif kanallarımızla
+        müşterilerimize dünya standartlarında bir hizmet sunmaktayız.\n\nAylık 135,000 müşterisine hizmet veren Gulf Exchange’i
+        önder döviz değişim şirketi olarak konumlandıran müşterilerimizin güven ve itimadınızdan güç alıyoruz. Bunu başarmak için
+        siz değerli müşterilerimize kusursuz hizmet sunabilmek amacıyla sürekli olarak keşfetmeye, yaratmaya ve yenilikçi çözümler
+        bulmaya çabalıyoruz.\n\nHer zaman için kendisini işine adamış olan çalışanlarımıza ve paydaşlarımıza müşterilerimizle
+        dünyanın her yerinde ilgilenebilmek için gösterdikleri gayret nedeniyle minnettarız.";
+    "mission_ge" = "Döviz değişimi işini dürüstlük, bağlılık ve tutku ile yerine getirmek ve çalışanlarımız için daha iyi bir iş ortamı oluşturmak.";
+    "vision_ge" = "Yenilikçi finansal çözümler ve eşsiz bir hizmet deneyimi ile insanları birbirine bağlamak.";
+    "values_ge" = "\n \u2022  Dürüstlük \n \u2022  Bağlılık \n \u2022  Müşteri Mükemmelliği \n \u2022  İşbirliği
+        \n \u2022  İlgi";
+    "compliance" = "GULF EXCHANGE Şti 1977 kurulanKatar devletinin önde gelen döviz değişimi şirketlerinden birisidir
+        ve Katar Merkez Bankasınca verilen MS 2/82 sayılı lisans ile faaliyetlerini sürdürmektedir.\n\n 1995 tarih ve 36 sayılı
+        Döviz Mübadelesi İşlemlerinin Düzenlenmesi Hakkındaki Kanun gereği şirketimiz yabancı döviz, elektronik global fon
+        transferleri, banknot ve külçe altın alım satımı dahil havale işlemlerini gerçekleştirmek için ruhsat sahibidir.
+        Gulf Exchange şirketinin Yönetim Kurulu deneyimli ve işinde uzman bir ekip desteğinde şirketimizin kara para aklama
+        ile mücadele çerçevesindeki faaliyetlerinden sorumlu bir Direktör atamıştır. Şirketimiz, “World-Check” gibi Uyumluluk
+        Risk Yönetimi Çözümleri, yaptırımları takip için en kapsamlı Yaptırımlar ve Siyasi Nüfuz Sahibi Kişiler veri tabanı ile
+        Word-Check Online” gibi tek kaynak araştırma araçlarını kullanmaktadır.\n\n Kara Para Aklama Nedir \n\n Bilerek ya
+        da bilmesi gerektiği halde para fonlarının gerçek kaynağı, doğası, konumları, tahsisi, mülkiyeti ya da haklarının el
+        değiştirmesini gizlemek ya da saklamak suç teşkil etmektedir. Kara Para Aklama üç aşamada gerçekleşmektedir: Yerleştirme,
+        Katmanlandırma ve Bütünleştirme.\n\n 1. Hedef ve Amaçlar \n\n Kara para Aklama ve Terörizmin Finansmanı ile
+        Mücadele Hakkındaki 2010 tarihli ve 4 sayılı kanun ile Katar Merkez Bankasının 15 Haziran 2010 tarihli Finans
+        Kurumlarınca Kara para Aklama ve Terörizmin Finansmanı ile Mücadele kapsamında alınması gereken önlemler
+        başlıklı sirküler yazısına istinaden, Gulf Exchange işbu politika ve prosedürleri ihdas etme kararı almıştır.\n\n
+        Katar Merkez Bankası, ulusal kanunlar ve Mali Eylem Görev Gücünün (Financial Action Task Force -(FATF)) ve Yabancı
+        Varlıkların Kontrolü Ofisinin (Office of Foreign Assets Control -(OFAC)), Birleşmiş Milletler, Avrupa Birliği ve diğer
+        kurumların tavsiyeleri ve uluslararası düzenlemeler temelinde Kara Para Aklama ve Terörizmin Finansmanı ile Mücadele
+        hususunda açık bir plan ortaya koymak suretiyle tüm finansal operasyonların kontrolü için açık ve net bir politika
+        izlemektedir.\n\n Bu noktadaki amaçlarımız şunlardır: Gulf Exchange ’in Kara Para Aklama ve Terörizmin Finansmanı ya da
+        diğer yasadışı faaliyetler için bir aracı olarak kullanılmasının önüne geçmek.\n\n Gulf Exchange ‘in FATF’nin tavsiye
+        kararları ile uyumlu olarak Kara Para Aklama ve Terörizmin Finansmanını önlemek, tespit etmek, kontrol etmek ve raporlamak
+        için net bir politika takip etmesini temin etmek. \n\n2. Müşteri Tanıma Sistemi - Know Your Customer (KYC) \n\n
+        KYC politikası Katar Merkez Bankasının talimatları gereği Gulf Exchange ‘in gündelik iş faaliyetleri için kullandığı en
+        önemli idari gereksinimlerden birisidir. Bu nedenle sürekli ya da ilk defa bizimle bireysel ya da kurumsal işlemleri için
+        parasal işlem yapan müşterilerin kimliğinin bilinmesi bir mecburiyettir. Tutarı ne olursa olsun herhangi bir işlemin
+        onaylanması için her müşterinin (gerçek ya da tüzel kişi) kimliğinin tespiti zorunludur.\n\n 3. Müşteri Durum Değerlendirmesi (Customer Due Diligence) ve Güçlendirilmiş Müşteri Durum
+            Değerlendirmesi \n\n Müşteri Durum Değerlendirmesi prensibi herhangi bir iş ilişkisine girmeden önce işletmeler
+        tarafından potansiyel müşterilerini nitelendirmek ve iş ilişkisi tesis edildikten sonra da nitelendirmeyi sürdürmek
+        amaçlı faaliyetler için kullanılan işlem ve prosedürleri tarif etmek için kullanılmaktadır.\n\n Güçlendirilmiş
+        Gerekli Özen ise olağan Müşteri Durum Değerlendirmesi tedbirlerine ek olarak alınan müşterinin daha yakından
+        tanınması ve işlemleri ile kullandığı fonların meşru ve suç ile ilişkili olmadığını doğrulamayı amaçlayan tedbirlere
+        denir. Gulf Exchange olarak her türlü kara para aklama ve terörizmin finansmanını tespit etmek ve raporlamak için
+        sıkı bir şekilde gerekli durum değerlendirmesi prosedürlerini takip etmekteyiz.\n\n 4. Risk Temelli Yaklaşım \n\n
+        Risk Temelli Yaklaşım, önceden yapılan veri analizi ve kara para aklama ve terörün finansmanı noktasında olası yüksek
+        risklerin tanınması ve tehlikelerin asgari düzeye indirilmesine imkân tanıyan bir yöntem olup Gulf Exchange tarafından
+        takip edilen bir süreçtir. Müşteri kimlik tespiti gibi mevcut yükümlülükler minimum alt çizgi olarak kullanılmaya
+        devam edilecektir.\n\n 5. Çalışanların Eğitimi \n\n
+        Kara Para Aklama ile mücadele eğitimi çalışanların kara para aklama süreçleri ve ilgili yasal mevzuat konularında bilgi
+        sahibi olmalarını amaçlamaktadır. Gulf Exchange ‘in üst düzey yöneticileri ve Yönetim Kurulu dâhil olmak üzere bütün
+        çalışanları kara para aklama ve terörün finansmanı ile mücadele eğitimlerine katılmakta ve şirketimizin kurum içi iyi
+        yönetim uygulamaları geliştirmesine katkıda bulunmaktadırlar.\n\n 6. Kayıt Tutma \n\n Olağandışı ya da potansiyel
+        olarak şüphe uyandıran işlemlerin iç ve dış raporlandırılması dâhil olmak üzere müşterinin kimliğini tespite yarayan
+        belgeler ve ilgili veriler, işlem verisi ve diğer ilgili belgeler ile ilgili eğitim materyalleri ve çalışanların
+        katılımını belgeleyen dokümanlar mali işlemin gerçekleştirildiği tarihten itibaren en az on beş(10) yıllık süreyle
+        saklanmalı ve muhafaza atına alınmalıdır.\n\n 7. Özel hayatın Gizliliği/Gizlilik \n\n Gulf Exchange ‘in müşteri
+        durum değerlendirmesi pratikleri gereği müşteriden toplanan kişisel, iş ve mali veriler ile önemli ve hassas veriler
+        dâhil olmak üzere müşterinin tim işlemlerinin gizliliğinin korunması Gulf Exchange şirketinin sorumluluğudur.";
+    "terms_conditions" = "<u>ŞARTLAR VE KOŞULLAR</u>";
+    "terms_conditions1" = "ŞARTLAR VE KOŞULLAR";
+    "title_activity_locations" = "harita";
+
+"terms_conditions2"  = "ŞARTLAR VE KOŞULLAR";
+
+    "capture" = "Ele geçirmek";
+    "camera_not_supported" = "Cihazınız Kamerayı Desteklemiyor.";
+    "capture_image_failed" = "Resim çekilemedi.";
+    "permission_message" = "Her iki izin de gereklidir. Lütfen her ikisinin de resim çekmesine izin verin.";
+    "cancel_message" = "Kullanıcı tarafından iptal edildi.";
+    "capture_deny_message" = "Yakalama resmi her iki izin olmadan çalışmaz.";
+
+
+    //about us
+    "about_gulf_exchange" = "Gulf Exchange Hakkında";
+    "message_from_management" = "YÖNETİCİNİN MESAJI";
+    "mission_vision_values" = "Misyon, Vizyon ve Değerler";
+    "our_mission" = "MİSYONUMUZ";
+    "our_vision" = "VİZYONUMUZ";
+    "our_values" = "DEĞERLERİMİZ";
+    "team_members" = "EKİBİMİZ";
+    "our_team" = "EKIBIMIZ";
+    "aml_compliance" = "KARA PARA AKLAMA İLE MÜCADELE VE TERÖRÜN FİNANSMANI İLE MÜCADELE POLİTİKASI";
+    "aml_compliance_policy" = "KARA PARA AKLAMA ILE MÜCADELE VE TERÖRÜN FINANSMANI ILE MÜCADELE POLITIKASI";
+    "about_us_title" = "Hakkımızda";
+
+    //change email
+    "password_not_valid" = "Şifre geçerli değil";
+    "pin_not_valid" = "PIN geçerli değil";
+    "fill_fields" = "Tüm alanları doldurun";
+    "email_mismatch" = "E-posta uyuşmazlığı";
+    "new_email_not_valid" = "Yeni E-posta geçerli değil";
+    "old_email_not_valid" = "Eski E-posta geçerli değil";
+    "something_went_wrong" = "Bir şeyler yanlış gitti. Tekrar deneyin…";
+    "check_internet" = "Lütfen internet bağlantınızı kontrol edin";
+    "unauthorized_access" = "Yetkisiz Erişim";
+    "server_error" = "Server hatası";
+    "network_error" = "Ağ hatası";
+    "parse_error" = "Ayrıştırma hatası";
+    "check_current_email" = "Mevcut E-posta kimliğinizi kontrol edin";
+    "new_email_existing" = "Yeni E-posta zaten var";
+    "check_pin" = "PIN\'inizi kontrol edin";
+    "email_reset_success" = "E-posta Kimliğiniz başarıyla sıfırlandı";
+    "change_email" = "E-posta Kimliğini Değiştir";
+    "loading" = "Yükleniyor…";
+    "type_old_email" = "Eski E-postayı yazın";
+    "type_new_email" = "Yeni E-posta yazın";
+    "re_type_new_email" = "Yeni E-postayı yeniden yazın";
+    "enter_pin" = "PIN girin";
+    "password" = "Parola";
+    "save_details" = "Ayrıntıları Kaydet";
+
+    //change mobile number
+    "type_old_mobile" = "Eski Mobil Numarayı yazın";
+    "type_new_mobile" = "Yeni Mobil Numara girin";
+    "retype_new_mobile" = "Yeni Mobil Numarayı yeniden yazın";
+    "enter_email" = "E-posta Girin";
+    "mobile_mismatch" = "Cep telefonu numarası uyuşmazlığı";
+    "email_not_valid" = "E-posta kimliği geçerli değil";
+    "search_phone_code" = "Telefon kodunu ara";
+    "check_current_mobile" = "Mevcut cep telefonu numaranızı kontrol edin";
+    "check_email" = "E-posta kimliğini kontrol et";
+    "mobile_already_registered" = "Bu Cep Telefonu numarası başka bir müşteri için zaten kayıtlı. Lütfen müşteri hizmetlerine başvurun";
+    "mobile_reset_success" = "Cep telefonu numaranız başarıyla sıfırlandı";
+    "mobile_not_reset" = "Cep telefonu numarası sıfırlanmadı ... Tekrar deneyin";
+    "change_mobile" = "Mobil Numarayı Değiştir";
+
+    //Change Pin
+    "type_old_pin" = "Eski PIN kodunu yazın";
+    "type_new_pin" = "Yeni PIN girin";
+    "retype_new_pin" = "Yeni PIN kodunu tekrar yazın";
+    "send_otp" = "OTP GÖNDER";
+    "we_have_sent" = "Adresine OTP gönderdik";
+    "email_mobile" = " kayıtlı e-postanız ve cep telefonu numaranız";
+    "enter_otp" = "OTP\'yi girin";
+    "resend_otp" = "OTP\'yi tekrar gönder";
+    "current_pin_invalid" = "Mevcut PIN geçersiz";
+    "pin_mismatch" = "PIN uyuşmazlığı";
+    "otp_resent" = "OTP yeniden gönderildi";
+    "error_otp" = "OTP gönderilirken hata oluştu ...";
+    "pin_reset_success" = "PIN\'iniz başarıyla sıfırlandı";
+    "login_again" = "Lütfen yeni kimlik bilgileriyle tekrar giriş yapın";
+    "yes" = "Evet";
+    "change_pin" = "Pin\'i değiştir";
+    "error_in_otp_sent" = "OTP gönderilirken hata oluştu ...";
+    "otp_expired" = "OTP\'nin süresi doldu ...";
+
+    //Change security question
+
+    "security_question" = "Güvenlik Sorusu";
+    "answer" = "Cevap";
+    "pin" = "TOPLU İĞNE";
+    "security_question_reset_success" = "Güvenlik sorunuz başarıyla sıfırlandı";
+    "check_password" = "Şifrenizi kontrol edin";
+    "invalid_token" = "Geçersiz simge";
+    "change_security_question" = "Güvenlik Sorusunu Değiştir";
+
+    // Currency converter
+    "transfer" = "Aktar";
+    "buy" = "Satın";
+    "sell" = "Satmak";
+    "enter_amount" = "Miktarı girin:";
+    "from" = "itibaren :";
+    "to" = "Alıcı :";
+    "qar" = "Katar Riyali";
+    "select" = "seçmek";
+    "convert" = "Para dönüştürme";
+    "sel_diff_currency" = "Farklı bir para birimi seçin";
+    "sel_rec_currency" = "Bir alıcı para birimi seçin";
+    "enter_an_amount" = "Bir tutar girin";
+    "not_available" = "Müsait değil";
+    "currency_converter" = "Döviz Çevirici";
+
+    //Forgot pin
+    "email" = "E-mail";
+    "confirm_email" = "E-posta Onayla";
+    "id_no" = "Kimlik Numarası";
+    "enter_id_no" = "Kimlik Numarasını Girin";
+    "enter_password" = "Parolanı Gir";
+    "confirm_password" = "Şifreyi Onayla";
+    "confirm" = "Onaylamak";
+    "password_mismatch" = "Şifre eşleşmiyor";
+    "email_not_registered" = "E-posta kayıtlı değil";
+    "check_email_cust_id" = "Mevcut E-posta kimliğinizi ve Müşteri Kimliğinizi kontrol edin";
+    "otp_expire" = "OTP\'nin süresi doldu ...";
+    "forgot_pin" = "PIN\'i unuttum";
+
+    //Homepage
+    "home" = "Ana Sayfa";
+    "profile" = "Profil";
+    "notification" = "Bildirim";
+    "settings" = "Ayarlar";
+    "logout" = "çıkış Yap";
+    "send_money" = "Para göndermek";
+    "my_transactions" = "İşlemlerim";
+    "track_transactions" = "İşlemi İzle";
+    "currency_rate" = "Döviz kuru";
+    "branches" = "Dallar";
+    "help" = "Yardım";
+    "want_to_logout" = "Gerçekten oturumu kapatmak istiyor musunuz?";
+    "no" = "Hayır";
+    "whatsapp_not_available" = "WhatsApp bu cihazda mevcut değil ...";
+    "whatsapp_not_installed" = "WhatsApp Yüklenmedi.";
+    "want_to_exit" = "Gerçekten çıkmak istiyor musun ?";
+    "account_under_verification" = "Hesabınız doğrulanıyor.\n Hesabınız etkinleştirildikten sonra işlemlere devam edebilirsiniz.\n Daha fazla bilgi için lütfen müşteri hizmetlerini arayın.";
+    "check_information" = "Kullanıcı bilgileri kontrol ediliyor ...";
+
+   "aboutus" = "Hakkımızda";
+   "faq" = "FAQ";
+   "currencyconverter" = "Döviz Çevirici";
+
+
+    //Register Page
+    "identification" = "kimlik";
+    "security" = "güvenlik";
+    "identification_details" = "kimlik ayrıntılar";
+    "id_issuer" = "Kimlik Veren";
+    "id_exp_date" = "Kimlik Sona Erme tarihi";
+    "visa_no" = "Visa numarası";
+    "visa_issued_date" = "Vize verildiği tarih";
+    "visa_exp_date" = "Vize Sona Erme tarihi";
+    "next" = "SONRAKİ";
+    "cancel" = "İPTAL ETMEK";
+    "cancel1" = "İPTAL ETMEK";
+    "personal_info" = "Kişisel bilgi";
+    "fullname_en" = "İngilizce tam adı";
+    "fullname_ar" = "Arapça tam adı (İsteğe bağlı)";
+    "dob" = "Doğum tarihi";
+    "nationality" = "milliyet";
+    "country_residence" = "İkamet edilen ülke";
+    "municipality" = "Belediye (Opsiyonel)";
+    "zone" = "Bölge (Opsiyonel)";
+    "home_addr" = "Ev Adresi (Katar'da Opsiyonel)";
+    "gender" = "Cinsiyet";
+    "mobile_no" = "Cep numarası";
+    "employer" = "İşveren";
+    "exp_income" = "Beklenen Gelir (Aylık)";
+    "work_address" = "İş adresi";
+    "occupation" = "Meslek";
+    "reg_code" = "Tescil kodu (mümkün ise)";
+    "sec_qu2" = "Güvenlik Sorusu 2";
+    "sec_qu3" = "Güvenlik Sorusu 3";
+    "pass_cap" = "Parola";
+    "pass_req" = "Parola gereksinimleri";
+    "characters" = "8-16 Karakter";
+    "uppercase" = "1 büyük harf";
+    "lowercase" = "1 küçük harf";
+    "num" = "1 Numara";
+    "retype_pass" = "Şifrenizi yeniden yazın";
+    "pin_num" = "PIN numarası (4 sayı basamağı)";
+    "i_agree" = "a katılıyorum";
+    "create_profile" = "Profil oluştur";
+    "read_terms" = "Şartlar ve koşulları okuyun";
+    "sel_sec_que" = "Lütfen güvenlik sorusu seçin";
+    "enter_answer" = "Lütfen soruya cevap girin";
+    "pass_length" = "Şifre uzunluğu 8-16 karakter olmalıdır";
+    "pass_must1" = "Şifre en az 1 Büyük Harf içermelidir";
+    "pass_must2" = "Şifre en az 1 Küçükƒ√ Harf içermelidir";
+    "pass_must3" = "Şifre en az 1 rakam içermelidir";
+    "pin_must" = "PIN 4 basamaklı bir sayı olmalıdır";
+    "agree_to_continue" = "Devam etmek için lütfen Şartlar ve Koşulları kabul edin";
+    "invalid_dob" = "Geçersiz doğum tarihi. Kullanıcı 18 yaşından büyük olmalıdır";
+    "sel_municipality" = "Bir belediye seçin";
+    "register" = "Kayıt ol";
+    "sel_id_type" = "Lütfen kimlik türünü seçin";
+    "sel_id_issuer" = "Lütfen kimlik yayıncısı seçin";
+    "enter_id_exp_date" = "Lütfen kimlik bitiş tarihini girin";
+    "enter_valid_qid" = "Lütfen geçerli bir QID girin";
+    "enter_visa_no" = "Lütfen vize numarasını girin";
+    "enter_visa_exp_date" = "Lütfen vize son kullanma tarihini girin";
+    "sel_visa_type" = "Lütfen vize türünü seçin";
+    "enter_fullname_en" = "Lütfen İngilizce tam adı girin";
+    "enter_valid_email" = "Lütfen geçerli bir E-posta Kimliği girin";
+    "enter_dob" = "Lütfen Doğum Tarihinizi giriniz";
+    "sel_nationality" = "Lütfen uyruk seçin";
+    "enter_addr" = "Lütfen adres girin";
+    "enter_city" = "Lütfen şehir girin";
+    "Select City" = "Select City";
+
+    "sel_country" = "Lütfen ülke seçin";
+    "sel_gender" = "Lütfen cinsiyet seç";
+    "sel_country_code" = "Lütfen ülke kodunu seçin";
+    "enter_mobile" = "Lütfen cep telefonu numarasını girin";
+    "enter_employer_name" = "Lütfen işveren adını girin";
+    "enter_occupation" = "Lütfen meslek girin";
+    "enter_working_address" = "Lütfen çalışma adresini girin";
+    "enter_exp_income" = "Lütfen beklenen geliri girin";
+    "enter_zone" = "Lütfen bölge girin";
+    "search_nationality" = "Uyruğu ara";
+    "search_country" = "Ülke ara";
+    "search_gcc" = "GCC ülkesinde ara";
+    "search" = "Arama";
+    "search_municipality" = "Belediyede ara";
+    "search_zone" = "Arama bölgesi";
+    "id_type" = "Kimlik Türü";
+    "visa_type" = "Vize tipi";
+    "cannot_sel_same_que" = "Aile Vizesi";
+    "no_other_keyboard" = "Başka klavye bulunamadı";
+    "validating" = "Doğrulanıyor ... Lütfen Bekleyin";
+    "id_exists" = "Bu Kimlik Numarası sistemimizde mevcut. Lütfen Kimlik Numaranızı ve şifrenizi kullanarak oturum açın";
+    "accept" = "Kabul etmek";
+    "Please enter valid name" = "Lütfen geçerli bir ad girin";
+    "Please enter valid home address" = "Lütfen geçerli bir ev adresi girin";
+    "Please enter valid employer" = "Lütfen geçerli bir işveren girin";
+    "Please enter valid working address" = "Lütfen geçerli bir çalışma adresi girin";
+    "Please enter valid address" = "Lütfen geçerli bir adres girin";
+
+    //Change Password
+    "type_old_password" = "Eski şifreyi yazın";
+    "password_requirements" = "Parola gereksinimleri";
+    "password_req1" = "8-16 Karakter";
+    "password_req2" = "1 Büyük harf";
+    "password_req3" = "1 Küçük harf";
+    "password_req4" = "1 Numara";
+    "type_new_password" = "Yeni şifre girin";
+    "re_type_new_password" = "Yeni şifrenizi tekrar yazınız";
+    "check_your_pin" = "PIN kodunuzu kontrol edin";
+    "fill_all_fields" = "Tüm alanları doldurun";
+    "password_fields_not_matching" = "Şifre alanları eşleşmiyor";
+    "something_went_wrong_try_again" = "Bir şeyler ters gitti. Tekrar deneyin ...";
+    "error_check_current_password" = "Hata ... Mevcut şifrenizi kontrol edin";
+    "error_check_current_email_id" = "Hata ... Mevcut E-posta kimliğinizi kontrol edin";
+    "change_password" = "Şifre değiştir";
+    //Currency rate
+    "transfer_column" = "Aktar :";
+    "we_sell" = "Satıyoruz :";
+    "we_buy" = "Alıyoruz :";
+
+    //Forgot password
+
+    "id_number" = "Kimlik Numarası";
+    "enter_id_number" = "Kimlik numarasını girin";
+    "we_have_send_otp_to_email_mob" = "Kayıtlı E-postanıza ve cep telefonu numaranıza OTP gönderdik";
+    "please_enter_otp" = "Lütfen OTP\'yi girin";
+    "emails_not_matching" = "E-postalar eşleşmiyor";
+    "check_current_email_customer_id" = "Hata ... Mevcut E-posta kimliğinizi ve Müşteri Kimliğinizi kontrol edin";
+    "error_try_again" = "Hata, tekrar dene";
+    "forgot_password" = "Parolanızı mı unuttunuz ?";
+    //Help page
+    "customer_support" = "Müşteri desteği";
+    "email_us" = "Bize e-posta gönderin";
+    "call_us" = "Bizi arayın";
+    "verification_location" = "Doğrulama Konumu";
+    "choose_email_client" = "Bir E-posta istemcisi seçin:";
+    "no_email_clients" = "Yüklü e-posta istemcisi yok";
+    "no_whatsapp_messenger" = "WhatsApp Messenger bu cihazda mevcut değil";
+    //Help page1
+    "please_call_cc" = "Lütfen müşteri hizmetleri numarasını arayın:";
+    "call" = "aramak";
+    "or_email" = "Veya bize e-posta gönderin:";
+    "send_email" = "eposta gönder";
+    "select_phone_number" = "Bir telefon numarası seçin";
+    //Locations
+    "locations" = "Mekanlar";
+    "turn_on_location" = "Konumu aç";
+    //Login
+    "already_customer" = "Zaten müşteri misiniz?";
+    "log_in" = "OTURUM AÇ";
+    "sign_in" = "OTURUM AÇ";
+    "forgot_pwd_click" = "Parolanızı mı unuttunuz ? Tıklayın ";
+    "forgot_pin_click" = "PIN\'inizi mi unuttunuz? Tıklayın ";
+    "here" = "BURAYA";
+    "or" = "VEYA";
+    "pls_register" = "Lütfen kaydolun";
+    "pls_enter_valid_pin" = "Lütfen geçerli bir PIN girin";
+    "do_you_want_exit" = "Gerçekten çıkmak istiyor musun ?";
+    "enable_network" = "Ağı etkinleştir";
+    "loc_settings_inadequate" = "Konum ayarları yetersiz ve burada düzeltilemez. Ayarlar\'da düzeltin.";
+    "checking_user_info" = "Kullanıcı bilgileri kontrol ediliyor ...";
+    "wrong_login_info" = "Üzgünüz, girdiğiniz bilgiler mevcut bilgilerimizle eşleşmiyor";
+    "try_after_ten" = "Çok fazla deneme, 10 dakika sonra deneyin";
+    "qatar_login_only" = "Afedersiniz! Çevrimiçi Para Transferi Hizmetlerimiz yalnızca Katar\'da kullanılabilir.";
+    "no_vpn_network" = "Afedersiniz! VPN özellikli ağ desteklenmez.";
+    "permanent_lock" = "Giriş hesabınız kalıcı olarak kilitlendi. Lütfen müşteri hizmetlerine başvurun";
+    "loc_not_available_error" = "Konumunuz kullanılamıyor.Konum servisinizi kontrol edip tekrar deneyin";
+    "multiple_login" = "Aynı kullanıcı zaten sistemde oturum açtı. Birden fazla cihazdan giriş yapamazsınız";
+    //My Transaction List
+    "from_date" = "İtibaren";
+    "to_date" = "Bugüne kadar";
+    "go" = "GİT";
+    "search_ref_no" = "Arama ReferansıHayır ...";
+    "no_transaction_available" = "İşlem yok";
+    "get_statement" = "BİLDİRİM AL";
+    "enter_valid_ref_no" = "Geçerli bir referans numarası girin";
+    "no_data_available" = "Veri yok";
+    //Notifications
+    "no_notifications" = "yeni bildirim yok";
+    "notifications" = "Bildirimler";
+    //Profile
+
+    "full_name_eng" = "İngilizce tam adı";
+    "full_name_arabic" = "Arapça tam adı";
+    "country_of_residence" = "İkamet edilen ülke";
+    "address" = "Adres";
+    "mob_no" = "Cep numarası";
+    "working_add" = "Çalışma Adresi";
+    "back" = "GERİ";
+    //Reset password
+    "re_type_password" = "Şifrenizi yeniden yazın";
+    "passwords_not_matching" = "Şifreler eşleşmiyor";
+    "password_reset_success" = "Parolanız başarıyla sıfırlandı";
+    "password_reset_fail" = "Parolanız sıfırlanmadı";
+    "reset_password" = "Şifreyi yenile";
+    //Reset PIN
+    "new_pin" = "Yeni pin";
+    "re_type_new_pin" = "Yeni PIN kodunu tekrar yazın";
+    "pin_reset_fail" = "PIN\'iniz sıfırlanmadı";
+    "reset_pin" = "PIN\'i sıfırla";
+    //Select Language
+    "select_language" = "Dil Seçin";
+    "select_cap" = "SEÇ";
+    //settings
+    "change_email_settings" = "Değişim e-posta";
+    "change_pin_settings" = "Pin'i değiştir";
+    "change_password_settings" = "Şifre değiştir";
+    "change_security_settings" = "Güvenlik Sorusunu Değiştir";
+    "change_mobile_settings" = "Mobil Numarayı Değiştir";
+
+    //Take Photo
+    "photo_id_front" = "Lütfen kimliğinizin bir fotoğrafını çekin (ön)";
+    "confirm_pic" = "ONAYLAMAK";
+    "discard_pic" = "İMHA";
+    "register_pic" = "Kayıt ol";
+    "permission_reqd" = "İzin Gerekli";
+    "cam_permission_reqd" = "İlerlemek için Camea izni gerekiyor.";
+    "loading_image" = "Resim yükleniyor ...";
+    "photo_id_back" = "Lütfen kimliğinizin fotoğrafını çekin (geri)";
+    "this_permission_reqd" = "Bu izin gerekli";
+    "photo_selfie" = "Lütfen kimliğinizi tutan bir selfie alın";
+    //Track Transaction
+    "tt_no" = "TT Hayır:";
+    "date" = "Tarih:";
+    "enter_ref_no" = "Lütfen referans numaranızı girin";
+    "track_transaction" = "İşlemi İzle";
+    //Transaction Details
+    "firstname" = "İsim";
+    "lastname" = "Soyadı";
+    "address1" = "Adres";
+    "city1" = "Kent";
+    "mob_no1" = "Telefon numarası";
+    "bank_name1" = "banka adı";
+    "branch_name1" = "Şube adı";
+    "acc_no_iban1" = "A/C NO / IBAN";
+    "swift_code1" = "SWIFT kodu";
+    "relationship1" = "ilişki";
+    "track1" = "IZLEMEK";
+    "transaction_details" = "ödeme detayları";
+    "firstname_sm" = "İsim";
+    "lastname_sm" = "Soyadı";
+    "address1_sm" = "Adres";
+    "city1_sm" = "Kent";
+    "mob_no1_sm" = "Telefon numarası";
+    "bank_name1_sm" = "banka adı";
+    "branch_name1_sm" = "Şube adı";
+    "acc_no_iban1_sm" = "A/C NO / IBAN";
+    "swift_code1_sm" = "SWIFT kodu";
+    "relationship1_sm" = "ilişki";
+    "track1_sm" = "IZLEMEK";
+    "transaction_details_sm" = "ödeme detayları";
+    //Other XML Layouts
+    "country_name" = "Ülke adı";
+    "search1" = "Arama";
+    "see_price" = "FİYATI GÖR";
+    "select_gender" = "Cinsiyet seç";
+    "male" = "Erkek";
+    "female" = "Kadın";
+    "ok" = "tamam";
+    "show_details" = "DETAYLARI GÖSTER";
+    "network_not_available" = "Ağ kullanılamıyor ...! \n Ağı Etkinleştir ve Tekrar Dene";
+
+
+    //Register Page1
+    "u_r_almost_done" = "Neredeyse bitti!";
+    "we_have_sent_otp" = "Kayıtlı E-posta ve Cep Numaranıza bir OTP gönderdik. Kayıt işlemini tamamlamak için lütfen Gelen Kutunuzu / Mesajlarınızı kontrol edin.";
+    "pls_enter_otp" = "Lütfen OTP Numarasını Girin";
+    "otp" = "OTP Numarası";
+    "getting_images" = "Resimler alınıyor ...";
+    "registering_customer" = "Yeni müşteri kaydediliyor ...";
+    "invalid_otp" = "Geçersiz OTP";
+
+    //Register Page2
+    "reg_request" = "Harika! Kayıt isteğiniz başarıyla başlatıldı";
+    "acc_verif" = "Hesabınız doğrulanıyor";
+    "acc_acti" = "Hesabınız etkinleştirildikten sonra, size e-posta ve bildirim gönderilir ve";
+    "u_will_able" = "işlemleri işleyebileceksiniz ";
+
+
+
+    //Remittance Page1
+    "sel_payment_mode" = "Ödeme Modunu Seçin";
+    "cash_pickup" = "Nakit Alım";
+    "acc_transfer" = "Hesap Transferi";
+    "enter_rece_info" = "Yeni alıcı bilgilerini girin";
+    "country" = "ülke";
+    "address_cap" = "adres";
+    "mobile_no1" = "Cep numarası";
+    "exch_compny" = "Borsa Şirketi veya Banka";
+    "enter_new_rece" = "Yeni alıcı bilgilerini girin";
+    "first_name1" = "Adı (bankaya göre)";
+    "lastname1" = "Soyadı (bankaya göre)";
+    "acc_no1" = "Hesap numarası";
+    "iban1" = "Uluslararası Banka Hesap Numarası";
+    "sort_code1" = "Sıralama kodu";
+    "routing_code1" = "YÖNLENDİRME kodu";
+    "ifsc_code1" = "IFSC kodu";
+    "other_info1" = "Diğer bilgiler";
+    "save_next" = "Kaydet ve sonraki";
+    "sel_bank" = "Lütfen Banka Seçiniz";
+    "enter_firstname" = "Lütfen Ad Girin";
+    "enter_lastname" = "Lütfen Soyadı Girin";
+    "enter_bank_name" = "Lütfen Banka Adını Girin";
+    "enter_branch_name" = "Lütfen Şube Adı Girin";
+    "enter_address" = "Lütfen Adres Girin";
+    "enter_account" = "Lütfen Hesap Numarasını Girin";
+    "enter_iban" = "Lütfen IBAN Girin";
+    "enter_swift_code" = "Lütfen Hızlı Kod Girin";
+    "enter_sort_code" = "Lütfen SORT Kodu Girin";
+    "enter_routing_code" = "Lütfen Yönlendirme Kodunu Girin";
+    "enter_ifsc" = "Lütfen IFSC Kodunu Girin";
+    "sel_source" = "Lütfen Fonun Kaynağını Seçiniz";
+    "sel_purpose" = "Lütfen İşlem Amacını Seçiniz";
+    "sel_relation" = "Lütfen İlişki Seçiniz";
+    "pls_agree" = "Lütfen Devam Etmek İçin Şartlar ve Koşulları Kabul Edin";
+    "remittance" = "Havale";
+    "sel_existing_rece" = "Mevcut bir alıcı seçin";
+    "no_ben_added" = "Hiçbir Faydalanıcı eklenmedi";
+    "no_country" = "Ülke Bulunamadı";
+    "no_bank" = "Banka Bulunamadı";
+    "source1" = "Sermaye temini";
+    "purpose1" = "İşlemin amacı";
+    "coming_soon" = "Çok yakında";
+    "Please enter valid account number" = "Lütfen geçerli bir hesap numarası girin";
+
+    "Please enter valid mobile number" = "Lütfen geçerli bir cep telefonu numarası girin";
+    
+    "entermiddlename" = "Lütfen Orta Adı Girin";
+    "GENDERR" = "CİNSİYET";
+    "nationalityy" = "MİLLİYET";
+
+   "SERVICEPROVIDER" = "SERVİS SAĞLAYICI";
+   "MOBILEOPERATOR" = "MOBİL OPERATÖR";
+
+"middlename1" = "ORTA AD (BANKA BAŞINA OLARAK)";
+"servicetype" = "SERVİS TİPİ";
+
+
+
+    //Remittance Page2
+
+    "sending_amount" = "Gönderme Tutarı";
+    "recipient_receivers" = "Alıcı Alıcıları";
+    "receiving_amount" = "Alış Tutarı";
+    "rate" = "ORANI";
+    "want_pay" = "NASIL OYNAMAK İSTERSİN";
+    "debit_card" = "BANKA KARTI (NAPS)";
+    "do_you_have_promo" = "PROMOSYON KODUNUZ VAR MI?";
+    "enter_promo_code" = "PROMOSYON KODUNU GİRİN";
+    "apply" = "UYGULAMAK";
+    "transfer_amount" = "Transfer miktarı";
+    "transfer_fee" = "Transfer ücreti";
+    "promo_code" = "Promosyon kodu";
+    "total" = "Toplam";
+    "enter_amount1" = "Lütfen gönderilecek Tutarı girin";
+    "enter_card_no" = "Lütfen Kart Numarasını Girin";
+    "card_holder" = "Lütfen kart sahibinin adını girin";
+    "enter_exp_date" = "Lütfen Sona Erme Tarihini Girin";
+    "enter_valid_amount" = "Lütfen 0\'dan büyük geçerli bir Tutar girin";
+
+
+    //Remittance Page3
+    "pls_review" = "LÜTFEN TALEPİNİZİ İNCELEYİN";
+    "amount1" = "Miktar";
+    "amount1_sm" = "Miktar";
+
+    //Remittance Page4
+
+    "we_have_sent1" = "Kayıtlı E-posta ve Cep Numaranıza OTP gönderdik";
+    "remittance_not_allowed" = "Havale İşlemine izin verilmiyor, lütfen müşteri hizmetlerine başvurun";
+    "verifying" = "Doğrulama Lütfen Bekleyin";
+
+    //Remittance Page5
+    "payment" = "Ödeme";
+    //Remittance Page6
+    "remittance1" = "Havale";
+    "transaction_success" = "İşlem başarıyla gönderildi!";
+    "transaction_success1" = "Harika! İşleminiz başarıyla gönderildi.\n\n İşlem numaranız:";
+    "ref_no" = "PUN/Havale Referans No:";
+    "u_can_track" = "İşleminizi tıklayarak izleyebilirsiniz: ";
+    "track2" = "PARÇA İŞLEMİ";
+    "main_menu1" = "ANA MENÜ";
+    "date_transaction" = "İşlem Tarihi";
+    "transaction_amount" = "İşlem tutarı";
+    "payment_status" = "Ödeme Durumu: Başarı";
+    "transaction_failed" = "İşlem başarısız!";
+    "payment_completed" = "Ödeme başarıyla tamamlandı.\n\n Yararlanıcı doğrulama hatası !. \nLütfen Müşteri hizmetlerine başvurun.";
+    "transaction_failed1" = "Maalesef işleminiz başarısız oldu.\n İşlem numaranız:";
+    "payment_status1" = "Ödeme Durumu: Başarısız";
+    "transaction_canceled" = "İşlem İptal Edildi!";
+    "transaction_canceled1" = "İşleminiz iptal edildi.";
+    "sel_visa_issued_date" = "Lütfen vize verildiği tarihi seçin";
+    "delete_notification" = "Bildirimi gerçekten silmek istiyor musunuz?";
+    "notification_deleted" = "Bildirim silindi";
+    "notification_not_deleted" = "Bildirim Silinmedi";
+
+    "change_language_settings" = "dil ayarlarını değiştir";
+    "u_r_not_allowed" = "Havale işlemini yapmanıza izin verilmiyor";
+    "contact_customer_care" = "Lütfen müşteri hizmetlerine başvurun.";
+    "pls_update_profile" = "Lütfen profilinizi güncelleyin";
+    "delete" = "Sil";
+    "want_to_delete_beneficiary" = "Gerçekten faydalanıcı bilgilerini silmek istiyor musunuz?";
+    "ben_deleted" = "Yararlanıcı ayrıntıları silindi";
+    "enter_municipality" = "Belediye adını girin";
+    "i_checked" = "Hesap bilgilerini kontrol ettim";
+    "confirm_account" = "Lütfen hesabınızı ve bilgilerinizi inceleyin ve onaylayın";
+    "check_cust_id_password_email" = "Mevcut Müşteri kimliğinizi, Parolanızı ve E-posta kimliğinizi kontrol edin";
+    "transaction_hold" = "İşleminiz askıya alındı. \nLütfen müşteri hizmetlerine başvurun";
+    "transaction_initiated" = "İşlem başlatıldı";
+    "under_process" = "İşlem devam ediyor";
+    "pin_error" = "Pin 4 haneli bir sayı olmalıdır";
+    "powered_by" = "Tarafından desteklenmektedir";
+
+    "confirm_reg_details" = "Lütfen girilen kayıt ayrıntılarını onaylayın";
+    "enter_valid_mob" = "Cep telefonu numarası 8 basamak içermelidir";
+    "commission" = "komisyon";
+    "commission_sm" = "komisyon";
+    "sent_successfully" = "Başarıyla gönderildi";
+    "pending" = "Bekliyor";
+    "id_front" = "Kimlik kartı ön yüzü fotoğrafı";
+    "id_back" = "Kimlik kartı arka fotoğrafı";
+    "profile_photo" = "Kimlik kartı ile profil fotoğrafı";
+    "location_fetch" = "Konum kontrolü. Lütfen bekle";
+    "failed" = "Başarısız oldu";
+    "under_process1" = "Süreci kapsamında";
+    "total_amount" = "Toplam tutar";
+    "total_amount_sm" = "Toplam tutar";
+    "update" = "Güncelleme";
+    "gulf_exchange" = "Körfez Borsası";
+"enablebiometric" = "Enable Biometric Authentication";
+"doyouenablebiometric" = "Do you want to enable Biometric authentication in this application";
+"dualnationality" = "Çifte vatandaşlık";
+"seldualnationality" = "Çifte Uyruğu Seçin";
+"BankTransfer" = "Bank Transfer";
+"Email" = "E-posta";
+"ActualOccupation" = "Gerçek Meslek";
+"IDExpiry" = "Kimlik Geçerlilik Süresi";
+"SelfieWithID" = "Kimlikli Selfie";
+"IDFront" = "Kimlik Önü";
+"IDBack" = "Kimlik Geri";
+"UserBranch" = "Kullanıcı Şubesi";
+"Street" = "Sokak";
+"BuildingNumber" = "Building Number";
+"Feedback" = "Geri bildirim";
+"BlockAccount" = "Block Account";
+"More" = "More";
+"CurrentPin" = "Current Pin";
+"ConfirmPin" = "Confirm Pin";
+"1Special Characters" = "1 Special Characters";
+"Pin" = "Pin";
+"ConfirmPassword" = "Confirm Password";
+"NewPassword" = "New Password";
+"CurrentPassword" = "Current Password";
+"block" = "Blok";
+"blockQuestion" = "Hesabınızı engellemek istediğinizden emin misiniz? Hesabınızın engelini kaldırmak için lütfen müşteri desteğimizle iletişime geçin";
+"sortByDate" = "Tarihe göre sırala";
+"from1" = "Başlangıç";
+"to1" = "Bitiş";
+"transactionType" = "İşlem Türü";
+"date1" = "Tarih";
+"Status" = "Durum";
+"sendAgain" = "Tekrar Gönder";
+"download" = "İndir";
+"details" = "Ayrıntılar";
+"youPaid" = "Siz Ödediniz";
+"theyReceived" = "Onlar Aldı";
+"track2" = "İzle";
+"transferDetails" = "Transfer Ayrıntıları";
+"paymentReferenceNumber" = "Ödeme Referans Numarası";
+"date&Time" = "Tarih ve Saat";
+"collectionRef" = "Tahsilat Ref";
+"paidAmount" = "Ödenen Tutar";
+"senderInformation" = "Gönderen Bilgileri";
+"name" = "Ad";
+"beneficiaryInformation" = "Alıcı bilgileri";
+"countryT" = "Ülke";
+"contact" = "İletişim";
+"receiveType" = "Alma Türü";
+"collectionPoint" = "Tahsilat Noktası";
+"transferInformation" = "Transfer Bilgileri";
+"receiveAmount" = "Alma Tutarı";
+"exchangeRate" = "Döviz Kuru";
+"share" = "Paylaş";
+"enternewpassword" = "Enter New Password";
+"confirmnewpassword" = "Confirm New Password";
+"Yourpasswordmustcontainatleast" = "Your password must contain at least";
+"SetaNewPassword" = "Set a New Password";
+"Create a new password ensure it differ" = "Create a new password ensure it differ from previous ones for security";
+"Entercurrentpassword" = "Enter current password";
+"SetaNewPIN" = "Set a New PIN";
+"SaveDetails" = "Save Details";
+"Create a new PIN ensure it differs from previous ones for security" = "Create a new PIN ensure it differs from previous ones for security";
+"CurrentEmail" = "Current Email";
+"NewEmail" = "New Email";
+"ConfirmNewEmail" = "Confirm New Email";
+"Set a New Email" = "Set a New Email";
+"Create a new Email ensure it differs from previous ones for security" = "Create a new Email ensure it differs from previous ones for security";
+"Mobile Wallet" = "Mobile Wallet";
+"Mobile Wallet Transfer" = "Mobile Wallet Transfer";
+"See All" = "See All";
+"Quick Access" = "Quick Access";
+"Rate Calculater" = "Rate Calculater";
+"Beneficiaries" = "Beneficiaries";
+"Master Card" = "Master Card";
+"Exhange rates are indicatve and are subject to change" = "Exhange rates are indicatve and are subject to change";
+"Send" = "Send";
+"Gold Rate" = "Gold Rate";
+"Our Partners" = "Our Partners";
+"Golalita Rewards" = "Golalita Rewards";
+"Special Offers" = "Special Offers";
+"Loyalty Points" = "Loyalty Points";
+"Services" = "Services";
+"Address1" = "Address 1";
+"Address2" = "Address 2";
+"Sign in to continue" = "Sign in to continue";
+"Don’t have an account ?" = "Don’t have an account ?";
+"You have no notifications" = "You have no notifications";
+"Your notifications will appear here when they arrive." = "Your notifications will appear here when they arrive.";
+"Continue" = "Continue";
+"Login successful!" = "Login successful!";
+"Welcome Back" = "Welcome Back";
+"Find the nearest branch" = "Find the nearest branch";
+"If you would like to visit us, please locate the nearest branch" = "If you would like to visit us, please locate the nearest branch";
+"Email us on" = "Email us on";
+"customercare@gulfexchange.com.qa" = "customercare@gulfexchange.com.qa
+Please include your mobile number in the mail";
+
+"Let’s Whatsapp" = "Let’s Whatsapp";
+"Gulf Exchange Company" = "Gulf Exchange Company";
+"Ali Bin Abdullah St, Old Al Ghanim" = "Ali Bin Abdullah St, Old Al Ghanim";
+"Locate Branch" = "Locate Branch";
+"Wallet Transfer" = "Wallet Transfer";
+"Mobile" = "Mobile";
+"Branch" = "Branch";
+"Branch Code" = "Branch Code";
+"Bank" = "Bank";
+"Account No." = "Account No.";
+"Purpose" = "Purpose";
+"Income Source" = "Income Source";
+"Verify" = "Verify";
+"Source" = "Source";
+"Download Receipt" = "Download Receipt";
+"Registration completed successfully!" = "Registration completed successfully!";
+"Welcome," = "Welcome";
+
+"Take a selfie while holding your ID." = "Take a selfie while holding your ID.";
+"Record a 3-second video of yourself blinking while holding your ID." = "Record a 3-second video of yourself blinking while holding your ID.";
+"You're almost there!" = "You're almost there!";
+"otpmesssage" = "We've sent an OTP to your mobile number. Please check your messages to complete the registration process.";
+"passwordmesssage" = "Make your password stronger by using a mix of letters, numbers, and special characters.";
+"The back of the card was scanned successfully." = "The back of the card was scanned successfully.";
+"The front of the card was scanned successfully." = "The front of the card was scanned successfully.";
+
+"Please scan both sides of your Id card" = "Please scan both sides of your Id card";
+"Scan Your ID" = "Scan Your ID";
+"Scan ID" = "Scan ID";

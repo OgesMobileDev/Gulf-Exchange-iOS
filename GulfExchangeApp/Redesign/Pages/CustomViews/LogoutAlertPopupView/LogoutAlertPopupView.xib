@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="22505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22504"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Poppins-Medium.ttf">
+            <string>Poppins-Medium</string>
+        </array>
+        <array key="Poppins-Regular.ttf">
+            <string>Poppins-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="LogoutAlertPopupView" customModule="GulfExchangeApp" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="pWd-i7-DTV">
+                    <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ifd-BU-qls">
+                            <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                            <state key="normal" title="Button"/>
+                            <buttonConfiguration key="configuration" style="plain" title="Button"/>
+                            <connections>
+                                <action selector="closeBtnTapped:" destination="iN0-l3-epB" eventType="touchUpInside" id="r4t-gN-BtE"/>
+                            </connections>
+                        </button>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="xnp-5Q-B1W">
+                            <rect key="frame" x="35" y="286" width="323" height="280"/>
+                            <subviews>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zTT-eC-iOA">
+                                    <rect key="frame" x="40" y="212" width="109" height="28"/>
+                                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="28" id="JjO-nx-JBF"/>
+                                    </constraints>
+                                    <color key="tintColor" name="color_dark_red"/>
+                                    <state key="normal" title="Button"/>
+                                    <buttonConfiguration key="configuration" style="plain" title="Button"/>
+                                    <userDefinedRuntimeAttributes>
+                                        <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                            <real key="value" value="4"/>
+                                        </userDefinedRuntimeAttribute>
+                                        <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                                            <real key="value" value="1"/>
+                                        </userDefinedRuntimeAttribute>
+                                        <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                            <color key="value" name="color_dark_red"/>
+                                        </userDefinedRuntimeAttribute>
+                                    </userDefinedRuntimeAttributes>
+                                    <connections>
+                                        <action selector="cancelBtnTapped:" destination="iN0-l3-epB" eventType="touchUpInside" id="hhc-lZ-u5F"/>
+                                    </connections>
+                                </button>
+                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logout_alert" translatesAutoresizingMaskIntoConstraints="NO" id="nCK-mX-SC5">
+                                    <rect key="frame" x="70.666666666666686" y="20" width="182" height="124"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="124" id="th3-5x-2pD"/>
+                                    </constraints>
+                                </imageView>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Are You Sure Want to Logout ?" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="W6w-NO-bW2">
+                                    <rect key="frame" x="20" y="169" width="283" height="20"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="20" id="5EY-6s-MU4"/>
+                                    </constraints>
+                                    <fontDescription key="fontDescription" name="Poppins-Medium" family="Poppins" pointSize="14"/>
+                                    <nil key="textColor"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="r1F-9q-50i">
+                                    <rect key="frame" x="174" y="212" width="109" height="28"/>
+                                    <color key="backgroundColor" name="color_dark_red"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="28" id="q41-Hv-h4X"/>
+                                    </constraints>
+                                    <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    <state key="normal" title="Button"/>
+                                    <buttonConfiguration key="configuration" style="plain" title="Button"/>
+                                    <userDefinedRuntimeAttributes>
+                                        <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                            <real key="value" value="4"/>
+                                        </userDefinedRuntimeAttribute>
+                                    </userDefinedRuntimeAttributes>
+                                    <connections>
+                                        <action selector="logoutBtnTapped:" destination="iN0-l3-epB" eventType="touchUpInside" id="tHh-AK-OZd"/>
+                                    </connections>
+                                </button>
+                                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="yeN-aO-yNB">
+                                    <rect key="frame" x="159" y="199" width="5" height="71"/>
+                                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                    <constraints>
+                                        <constraint firstAttribute="width" constant="5" id="drc-ma-9gc"/>
+                                    </constraints>
+                                </view>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hA6-Gp-d4n">
+                                    <rect key="frame" x="116.66666666666666" y="232" width="90" height="28"/>
+                                    <color key="backgroundColor" name="color_dark_red"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="28" id="MMK-bv-14K"/>
+                                        <constraint firstAttribute="width" constant="90" id="Qdp-4f-Eud"/>
+                                    </constraints>
+                                    <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    <state key="normal" title="Button"/>
+                                    <buttonConfiguration key="configuration" style="plain" title="Button"/>
+                                    <userDefinedRuntimeAttributes>
+                                        <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                            <real key="value" value="4"/>
+                                        </userDefinedRuntimeAttribute>
+                                    </userDefinedRuntimeAttributes>
+                                    <connections>
+                                        <action selector="blockBtnTapped:" destination="iN0-l3-epB" eventType="touchUpInside" id="IHU-WT-msI"/>
+                                    </connections>
+                                </button>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Hel-Bm-DHB">
+                                    <rect key="frame" x="16" y="153" width="291" height="59"/>
+                                    <string key="text">This proceeds to block your account. To reactive 
+your account kindly contact customer support
+Do you wish to block your account now?</string>
+                                    <fontDescription key="fontDescription" name="Poppins-Regular" family="Poppins" pointSize="10"/>
+                                    <nil key="textColor"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                            </subviews>
+                            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                            <constraints>
+                                <constraint firstItem="yeN-aO-yNB" firstAttribute="leading" secondItem="zTT-eC-iOA" secondAttribute="trailing" constant="10" id="1mM-Kg-bkN"/>
+                                <constraint firstAttribute="bottom" secondItem="yeN-aO-yNB" secondAttribute="bottom" constant="10" id="5hK-QS-yJU"/>
+                                <constraint firstItem="hA6-Gp-d4n" firstAttribute="centerX" secondItem="xnp-5Q-B1W" secondAttribute="centerX" id="DWK-AD-hYT"/>
+                                <constraint firstAttribute="trailing" secondItem="Hel-Bm-DHB" secondAttribute="trailing" constant="16" id="Gqp-UK-dAJ"/>
+                                <constraint firstAttribute="height" constant="280" id="HA4-dh-xoV"/>
+                                <constraint firstItem="Hel-Bm-DHB" firstAttribute="top" secondItem="nCK-mX-SC5" secondAttribute="bottom" constant="9" id="JRm-cd-QXE"/>
+                                <constraint firstAttribute="trailing" secondItem="r1F-9q-50i" secondAttribute="trailing" constant="40" id="Jti-nn-daC"/>
+                                <constraint firstItem="W6w-NO-bW2" firstAttribute="top" secondItem="nCK-mX-SC5" secondAttribute="bottom" constant="25" id="NVj-Ip-mmg"/>
+                                <constraint firstItem="yeN-aO-yNB" firstAttribute="centerX" secondItem="xnp-5Q-B1W" secondAttribute="centerX" id="OAL-s2-8o3"/>
+                                <constraint firstItem="hA6-Gp-d4n" firstAttribute="top" secondItem="Hel-Bm-DHB" secondAttribute="bottom" constant="20" id="Qmg-3d-iN3"/>
+                                <constraint firstItem="W6w-NO-bW2" firstAttribute="leading" secondItem="xnp-5Q-B1W" secondAttribute="leading" constant="20" id="Tgg-PH-kcT"/>
+                                <constraint firstItem="Hel-Bm-DHB" firstAttribute="leading" secondItem="xnp-5Q-B1W" secondAttribute="leading" constant="16" id="UBT-QN-1HZ"/>
+                                <constraint firstItem="nCK-mX-SC5" firstAttribute="centerX" secondItem="xnp-5Q-B1W" secondAttribute="centerX" id="UIV-4i-MSz"/>
+                                <constraint firstAttribute="bottom" secondItem="hA6-Gp-d4n" secondAttribute="bottom" constant="20" id="c4T-U6-88g"/>
+                                <constraint firstItem="nCK-mX-SC5" firstAttribute="top" secondItem="xnp-5Q-B1W" secondAttribute="top" constant="20" id="cHx-jU-9HY"/>
+                                <constraint firstItem="yeN-aO-yNB" firstAttribute="top" secondItem="W6w-NO-bW2" secondAttribute="bottom" constant="10" id="gAb-hA-4Z3"/>
+                                <constraint firstAttribute="bottom" secondItem="r1F-9q-50i" secondAttribute="bottom" constant="40" id="hjs-Cd-Ahz"/>
+                                <constraint firstAttribute="bottom" secondItem="zTT-eC-iOA" secondAttribute="bottom" constant="40" id="n7p-ti-LIy"/>
+                                <constraint firstItem="zTT-eC-iOA" firstAttribute="leading" secondItem="xnp-5Q-B1W" secondAttribute="leading" constant="40" id="nkm-Z3-gam"/>
+                                <constraint firstAttribute="trailing" secondItem="W6w-NO-bW2" secondAttribute="trailing" constant="20" id="pvg-UC-zlg"/>
+                                <constraint firstItem="r1F-9q-50i" firstAttribute="leading" secondItem="yeN-aO-yNB" secondAttribute="trailing" constant="10" id="xcf-hp-O1D"/>
+                            </constraints>
+                            <userDefinedRuntimeAttributes>
+                                <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                    <real key="value" value="12"/>
+                                </userDefinedRuntimeAttribute>
+                            </userDefinedRuntimeAttributes>
+                        </view>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="0.29999999999999999" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstItem="xnp-5Q-B1W" firstAttribute="leading" secondItem="pWd-i7-DTV" secondAttribute="leading" constant="35" id="774-r9-nqR"/>
+                        <constraint firstAttribute="trailing" secondItem="xnp-5Q-B1W" secondAttribute="trailing" constant="35" id="Lu7-iM-7xW"/>
+                        <constraint firstAttribute="bottom" secondItem="Ifd-BU-qls" secondAttribute="bottom" id="PId-zp-8gS"/>
+                        <constraint firstItem="xnp-5Q-B1W" firstAttribute="centerY" secondItem="pWd-i7-DTV" secondAttribute="centerY" id="VcK-TZ-m9k"/>
+                        <constraint firstAttribute="trailing" secondItem="Ifd-BU-qls" secondAttribute="trailing" id="YR7-NL-AbX"/>
+                        <constraint firstItem="xnp-5Q-B1W" firstAttribute="centerX" secondItem="pWd-i7-DTV" secondAttribute="centerX" id="d0v-zk-ps2"/>
+                        <constraint firstItem="Ifd-BU-qls" firstAttribute="leading" secondItem="pWd-i7-DTV" secondAttribute="leading" id="iX9-pD-qYD"/>
+                        <constraint firstItem="Ifd-BU-qls" firstAttribute="top" secondItem="pWd-i7-DTV" secondAttribute="top" id="wBz-rO-rlg"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="pWd-i7-DTV" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="AUc-Qa-Bmw"/>
+                <constraint firstItem="pWd-i7-DTV" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="eMp-F2-fSg"/>
+                <constraint firstAttribute="trailing" secondItem="pWd-i7-DTV" secondAttribute="trailing" id="jQg-Ud-HxK"/>
+                <constraint firstAttribute="bottom" secondItem="pWd-i7-DTV" secondAttribute="bottom" id="rtc-8Z-iw3"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="blockBtn" destination="hA6-Gp-d4n" id="cZR-uf-q1s"/>
+                <outlet property="blockLbl" destination="Hel-Bm-DHB" id="4T8-hp-nDg"/>
+                <outlet property="cancelBtn" destination="zTT-eC-iOA" id="TmV-I2-J1B"/>
+                <outlet property="closeBtn" destination="Ifd-BU-qls" id="5MR-Gg-7xi"/>
+                <outlet property="imageView" destination="nCK-mX-SC5" id="ahg-Zt-gX4"/>
+                <outlet property="logoutBtn" destination="r1F-9q-50i" id="B8Q-aw-cbo"/>
+                <outlet property="logoutLbl" destination="W6w-NO-bW2" id="qC4-jt-VLE"/>
+            </connections>
+            <point key="canvasLocation" x="-95.419847328244273" y="19.718309859154932"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="logout_alert" width="182" height="124"/>
+        <namedColor name="color_dark_red">
+            <color red="0.77647058823529413" green="0.090196078431372548" blue="0.11764705882352941" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

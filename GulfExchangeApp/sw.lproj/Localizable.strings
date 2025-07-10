@@ -1,0 +1,803 @@
+"app_name" = "Gulf Exchange App";
+    "about_us" = "Gulf Exchange, an ISO 27001:2013 iliyothibitishwa na moja ya kampuni inayoongoza kubadilisha pesa Qatar na
+        Mashariki ya Kati kwani imeongeza huduma zake kwa milioni ya wateja rejareja na wafanyabiashara tangu kuanzishwa kwake
+        1977. Chini ya uongozi wa mwanzilishi wake na Mkurugenzi Mtendaji, Ali Jaafar Al-Sarraf, kampuni hiyo imekua zaidi ya
+        miaka kuwa chaguo la kwanza kwa ubadilishaji wa fedha za kigeni, ununuzi wa dhahabu na uuzaji, na uhamishaji fedha wa
+        kimataifa kwenda na kutoka ulimwenguni kote. \n\n Ingawa kupeana wateja huduma ya  kiwango ya juu ni hamu ya biashara
+        zingine, katika Gulf Exchange ni ukweli. Tunatoa huduma za kibinafsi kwa wateja 135,000 kila mwezi katika matawi yetu 10
+        na kwa lugha 20. Kupitia mtandao wetu mpana wa washirika kote ulimwenguni, tuko katika nafasi nzuri ya kutoa viwango vya
+        kubadilisha fedha kwa viwango vya ushindani kwa wateja wetu. Tunajivunia kama taasisi ya kifedha ya kwanza katika kutekeleza
+        teknolojia za kifedha tangu 1991. \n\n Daima tunahakikisha wateja wetu wanafurahiya visivyo  kwa kuwekeza katika mtaji
+        wetu wa wanadamu, kukuza kufikia ulimwengu, na kukuza njia zetu za usambazaji ili kuhakikisha kwamba tuko na wateja wetu
+        popote walipo.";
+    "message_from_ge" = "Gulf Exchange hujivunia kama kampuni inayoelekeza watu. Sisi huamini ushiriki wa wafanyikazi,
+        kuridhika kwa wateja, na ustawi wa jamii ndio nguzo za kufanikiwa na kuendeleza biashara.\n\n Katika Gulf exchange, sisi
+        kila wakati tunajitahidi kutoa huduma bora kwa wateja wetu wenye thamani. Tunatambua hii wajibu na tunapeana huduma za
+        kiwango cha kitaifa kwa wateja na wataalamu wetu  wanajitolea, waliyo na uzoefu na lugha nyingi katika matawi yetu 9 na
+        njia mbadala.\n\nTunafurahia uaminifu na ujasiri wa wateja wetu ambao wamefanya Gulf exchange kuwa kampuni inayoongoza
+        katika maswala ya kubadilisha fedha na kuwahudumia wateja 135,000 kila mwezi. Ili kufanikisha hili, sisi huendelea
+        kuchunguza, kubuni na kupitisha suluhisho za ubunifu ili tupeane huduma bora Zaidi  kwa wateja wetu wenye thamani.\n\n
+        Daima tunashukuru wafanyikazi wetu waliojitolea na washirika kwa shauku yao na kujitolea kusaidia wateja wetu kote ulimwenguni.\n\n
+        Karibu katika Gulf Exchange na asante kwa kutembelea yetu tovuti!!";
+    "mission_ge" = "Kufanya biashara ya Kubadilisha Fedha na uadilifu, kujitolea na shauku na kuunda mahali pazuri pa kufanyia kazi wafanyikazi.";
+    "vision_ge" = "Kuunganisha watu kupitia suluhisho la ubunifu wa kifedha na huduma wa kipekee.";
+    "values_ge" = "\n \u2022  Uadilifu \n \u2022  Kujitolea \n \u2022  Ubora wa Wateja \n \u2022  Ushirikiano
+        \n \u2022  Utunzaji";
+    "compliance" = "GULF EXCHANGE ni moja wapo ya kampuni kuu za kubadilisha fedha katika Jimbo la Qatar
+        iliyoanzishwa mnamo 1977 na kupewa leseni na Benki Kuu ya Qatar chini ya Leseni Nambari: MS 2/8. \n\n Kama ilivyo kwa
+        Sheria Nambari: 36, ya 1995 ya kudhibiti shughuli za ubadilishaji, kampuni inaruhusiwa na Benki Kuu ya Qatar kutekeleza
+        shughuli za ubadilishaji kama malipo ikijumuisha fedha za nje, uhamishaji wa fedha za elektroniki za ulimwengu,
+        kununua na kuuza noti vya Benki na dhahabu. Bodi ya Mkurugenzi wa Kampuni ya Gulf Exchange imeteua Meneja wa
+        Utekelezaji pamoja na timu yenye uzoefu maalum ambaye ana jukumu la kuratibu na kusimamia mfumo wa AML ndani ya shirika.
+        Kampuni hiyo ilishirikiana na Suluhisho la Usimamizi wa Hatari ya Utaratibu, kama World-Check, Vizuizi kamili zaidi na
+        hifadhidata ya Ubainishaji wa Kisiasa ya uchunguzi wa vikwazo, chanzo kimoja cha kuangalia chombo kama Word-Check Online. \n\n Ufujaji wa Pesa ni Nini? \n\n Kuficha asili ya kweli, chanzo, mahali, mwelekeo, umiliki wa harakati au haki
+        kwa heshima na fedha na mtu yeyote anayejua, anapaswa kujua kuwa pesa hizo ni mauzo ya jinai. Kuna hatua tatu za Ufutaji
+        Fedha: Uwekaji, Mpangilio, na Ushirikiano.\n\n 1. Malengo na Kusudi \n\n Baada ya kuangalia amri nambari 4 ya 2010 juu ya
+        Ufujaji Fedha na dhidi ya Fedha na Ugaidi na mzunguko uliotolewa na Benki Kuu ya Qatar tarehe 15 Juni, 2010 kuhusu kanuni
+        zinazoongoza Ufurishaji wa Fedha na Kupambana na Ugaidi kwa Taasisi za Fedha, Gulf exchange iliamua kutoa sera na taratibu hizi.
+        \n\n Gulf Exchange imewekwa kwa msingi wa sera wazi na  kudhibiti shughuli zote za fedha ambapo mpango wazi umewekwa katika
+        mapambano dhidi ya utapeli wa pesa na utapeli wa kifedha kwa kuzingatia maagizo ya Benki Kuu ya Qatar, sheria za mitaa
+        tunapofuata sheria za kimataifa na viwango kama pendekezo la Kikosi cha Kazi cha Fedha (FATF) na Ofisi ya Udhibiti wa Mali
+        za Kigeni (OFAC), Umoja wa Mataifa, Umoja wa Ulaya na wengine wengi.\n\n Ili kulinda Gulf Exchange kutokana na kuwa
+        mpatanishi katika utapeli wa pesa na ufadhili wa ugaidi au shughuli zozote za haramu.\n\n Ili kudhibitisha kuwa Gulf
+        Excahnge inafanya kazi kwa sera wazi ya kuzuia, kugundua, kudhibiti na kutoa ripoti ya utapeli wa pesa na ufadhili wa
+        kigaidi, kulingana na mapendekezo ya FATF.\n\n 2. Jua Mteja Wako (Know Your Customer - KYC) \n\n Sera YA KYC ni
+        moja ya udhibiti muhimu Zaidi katika mahitaji ya mazoea ya biashara ya kila siku ya Guf Exchange kulingana na maagizo ya
+        QCB. Kwa hivyo ni lazima kujua wateja wa kawaida na wa kutembea kwa miguu ambao hufanya shughuli zao za kibinafsi au za
+        biashara zinazohusisha pesa na Gulf Exchange. Utambulisho wa mteja (mtu au kampuni) lazima idhibitishwe kabla ya kukubali
+        shughuli yoyote kwa kiasi chochote.\n\n 3. Ufanisi wa Wateja (Customer Due Diligence) &amp; Kuimarishwa kwa sababu ya Kujitahidi
+            (Enhanced Due Diligence) \n\n Bidii Inayostahiki kwa Wateja ni kuelezea michakato na taratibu zinazotumiwa na
+        biashara kumstahiki mteja anayeweza kabla ya kuanzishwa kwa uhusiano wa kufanya kazi na pia hutumika kuendelea kufuzu
+        uhusiano huo mara tu utakapoanzishwa.\n\n Kuimarisha Kufanikiwa kwa bidii ni kuchukua hatua zaidi, zaidi ya bidii ya
+        Utegemezi wa Wateja, kujua zaidi juu ya mteja na kudhibitisha kuwa shughuli na fedha zake ni halali na huru kutoka kwa
+        kiungo chochote cha jinai. Sisi kwa Gulf Exchange tunafuata utaratibu wa CDD &amp; EDD ili kupunguza,kugundua na kuripoti
+        hatari zozote zinazohusiana na ML &amp; TF.\n\n 4. Njia ya Msingi wa Hatari \n\n Njia ya msingi wa hatari ni moja
+        wapo ya mchakato ambao umetumika katika Gulf Exchange na ni njia ambayo inahakikisha kipaumbele za shughuli kulingana na
+        uchambuzi wa awali wa takwimu na kubaini hatari kubwa za utapeli wa pesa na ugaidi kufadhili na kukuza mikakati ya
+        kuzipunguza. Majukumu yalipo, kama kitambulisho cha mteja, yatasimamiwa kama mahitaji ya chini ya msingi.
+        \n\n 5. Mafunzo ya Wafanyikazi \n\nMafunzo dhidi ya utapeli wa Pesa yanalenga kufahamisha wafanyikazi kuhusu
+        mchakato wa utapeli wa pesa na sheria ambazo zinafanya hiyo iwe uhalifu. Wafanyikazi wote wa kampuni ya Gulf Exchange
+        pamoja na wasimamizi wakuu na bodi ya wakurugenzi uhudhuria Mafunzo ya AML / CFT, na baadaye husaidia kampuni hiyo kukuza
+        utawala bora wa ushirika ndani ya kampuni.\n\n 6. Kuweka Rekodi \n\n Rekodi zote pamoja na hati za kitambulisho cha
+        wateja na takwimu inayohusiana, takwimu ya manunuzi, na hati zingine zozote zinazohusiana lazima idumishwe na ihifadhiwe
+        kwa kipindi cha chini cha miaka kumi na tano (10) kutoka tarehe ya shughuli za kifedha Ikiwa ni pamoja na Ripoti ya ndani
+        / nje ya kawaida / uwezekano wa shughuli mbaya na kuhifadhi vifaa vya mafunzo muhimu, hati za mahudhurio zilizotumika na
+        za wafanyikazi.\n\n 7. Usiri \n\n Ni jukumu la Gulf Exchange kulinda usiri wa shughuli zote za wateja ikiwa ni pamoja na mambo yoyote muhimu na habari nyeti, biashara ya kibinafsi na kifedha na habari ya shughuli ambayo imepatikana kutoka kwa wateja.";
+    "terms_conditions" = "<u>SHERIA NA MASHARTI</u>";
+    "terms_conditions1" = "SHERIA NA MASHARTI";
+    "title_activity_locations" = "Ramani";
+"terms_conditions2"  = "SHERIA NA MASHARTI";
+
+
+    "capture" = "Kukamata";
+    "camera_not_supported" = "Kifaa chako haifanyi kutumia Kamera.";
+    "capture_image_failed" = "Imeshindwa kupata picha.";
+    "permission_message" = "Ruhusa zote zinahitajika. Tafadhali ruhusu ruhusa zote mbili kuchukua picha.";
+    "cancel_message" = "Ilifutwa na mtumiaji.";
+    "capture_deny_message" = "Picha ya Capture haitafanya kazi bila ruhusa zote mbili.";
+
+
+
+// about us
+    "about_gulf_exchange" = "Kuhusu Gulf Exchange";
+    "message_from_management" = "Ujumbe kutoka kwa wasimamizi";
+    "mission_vision_values" = "Ujumbe, maono na maadili";
+    "our_mission" = "UJUMBE WETU";
+    "our_vision" = "MAONO YETU";
+    "our_values" = "MAADILI ZETU";
+    "team_members" = "Washirika wa Timu";
+    "our_team" = "TIMU YETU";
+    "aml_compliance" = "Sera ya kufuataza AML/CFT";
+    "aml_compliance_policy" = "SERA YA KUFUATA YA AML NA CFT";
+    "about_us_title" = "Kuhusu sisi";
+
+    //change email
+    "password_not_valid" = "Nenosiri sio halali";
+    "pin_not_valid" = "PIN sio halali";
+    "fill_fields" = "Jaza shamba zote";
+    "email_mismatch" = "Kutumia barua-pepe";
+    "new_email_not_valid" = "Barua pepe mpya sio halali";
+    "old_email_not_valid" = "Barua pepe ya zamani sio halali";
+    "something_went_wrong" = "Kuna kitu kilienda vibaya. Jaribu tena…";
+    "check_internet" = "Tafadhali angalia muunganisho wako wa mtandao";
+    "unauthorized_access" = "Ufikiaji usioidhinishwa";
+    "server_error" = "Kosa la seva";
+    "network_error" = "Tatizo la mtandao";
+    "parse_error" = "Kosa la uchunguzi";
+    "check_current_email" = "Angalia kitambulisho chako cha sasa cha barua-pepe";
+    "new_email_existing" = "Barua pepe mpya iko tayari";
+    "check_pin" = "Angalia PIN yako";
+    "email_reset_success" = "Kitambulisho chako cha E-mail kimefanikiwa";
+    "change_email" = "Badilisha Kitambulisho cha barua-pepe";
+    "loading" = "Inapakia ...";
+    "type_old_email" = "Andika barua-pepe ya zamani";
+    "type_new_email" = "Andika barua pepe mpya";
+    "re_type_new_email" = "Andika barua pepe mpya";
+    "enter_pin" = "Ingiza PIN";
+    "password" = "Nywila";
+    "save_details" = "Hifadhi Maelezo";
+
+    //change mobile number
+    "type_old_mobile" = "Chapa nambari ya rununu ya zamani";
+    "type_new_mobile" = "Andika nambari mpya ya Simu ya Mkononi";
+    "retype_new_mobile" = "Andika nambari mpya ya rununu";
+    "enter_email" = "Ingiza barua-pepe";
+    "mobile_mismatch" = "Simu nambari ya simu ya rununu";
+    "email_not_valid" = "Kitambulisho cha barua pepe sio sawa";
+    "search_phone_code" = "Nambari ya simu ya utafta";
+    "check_current_mobile" = "Angalia nambari yako ya rununu ya sasa";
+    "check_email" = "Angalia id ya barua pepe";
+    "mobile_already_registered" = "Nambari hii ya Simu tayari imesajiliwa kwa mteja mwingine. Tafadhali wasiliana na utunzaji wa wateja";
+    "mobile_reset_success" = "Nambari yako ya nambari ya rununu imefanikiwa";
+    "mobile_not_reset" = "Nambari ya simu ya mkononi sio upya ... Jaribu tena";
+    "change_mobile" = "Badilisha Nambari ya rununu";
+
+    //Change Pin
+    "type_old_pin" = "Andika PIN ya zamani";
+    "type_new_pin" = "Andika PIN mpya";
+    "retype_new_pin" = "Andika aina mpya ya PIN";
+    "send_otp" = "TUMA OTP";
+    "we_have_sent" = "Tumetuma OTP kwa";
+    "email_mobile" = " yako ya barua-pepe iliyosajiliwa na ya Simu ya Mkononi";
+    "enter_otp" = "Ingiza OTP";
+    "resend_otp" = "Tuma tena OTP";
+    "current_pin_invalid" = "Pini ya sasa sio sahihi";
+    "pin_mismatch" = "Usumbufu wa siri";
+    "otp_resent" = "OTP inachukiza";
+    "error_otp" = "Kosa katika kutuma OTP …";
+    "pin_reset_success" = "Pini yako imefanikiwa upya";
+    "login_again" = "Tafadhali ingia tena na sifa mpya";
+    "yes" = "Ndio";
+    "change_pin" = "Badilisha PIN";
+    "error_in_otp_sent" = "Kosa katika kutuma OTP …";
+    "otp_expired" = "OTP imeisha…";
+
+    //Change security question
+
+    "security_question" = "Swali la Usalama";
+    "answer" = "Jibu";
+    "pin" = "Pini";
+    "security_question_reset_success" = "Swali lako la usalama limewekwa tena kwa mafanikio";
+    "check_password" = "Angalia nywila yako";
+    "invalid_token" = "Ishara batili";
+    "change_security_question" = "Badilisha swali la Usalama";
+
+    // Currency converter
+    "transfer" = "Uhamisho";
+    "buy" = "Nunua";
+    "sell" = "Kuuza";
+    "enter_amount" = "Ingiza Kiasi:";
+    "from" = "Kutoka :";
+    "to" = "Kwa :";
+    "qar" = "Qatari Riyal";
+    "select" = "Chagua";
+    "convert" = "Badilisha pesa";
+    "sel_diff_currency" = "Chagua sarafu tofauti";
+    "sel_rec_currency" = "Chagua sarafu inayopokea";
+    "enter_an_amount" = "Ingiza kiasi";
+    "not_available" = "Haipatikani";
+    "currency_converter" = "Kubadilisha fedha";
+
+    //Forgot pin
+    "email" = "Barua-pepe";
+    "confirm_email" = "Thibitisha Barua pepe";
+    "id_no" = "Nambari ya kitambulisho";
+    "enter_id_no" = "Ingiza Nambari ya kitambulisho";
+    "enter_password" = "Ingiza Nywila";
+    "confirm_password" = "Thibitisha Nenosiri";
+    "confirm" = "Thibitisha";
+    "password_mismatch" = "Usanidi wa siri";
+    "email_not_registered" = "Barua pepe haijasajiliwa";
+    "check_email_cust_id" = "Angalia kitambulisho chako cha sasa cha barua pepe na Kitambulisho cha Wateja";
+    "otp_expire" = "OTP imeisha…";
+    "forgot_pin" = "Kusahau PIN";
+
+    //Homepage
+    "home" = "Ukurasa wa nyumbani";
+    "profile" = "Profaili";
+    "notification" = "Arifu";
+    "settings" = "Mipangilio";
+    "logout" = "logi";
+    "send_money" = "Tuma Pesa";
+    "my_transactions" = "Uuzaji wangu";
+    "track_transactions" = "Fuatilia shughuli";
+    "currency_rate" = "Kiwango cha Fedha";
+    "branches" = "Matawi";
+    "help" = "Msaada";
+    "want_to_logout" = "Je! Unataka kweli kuingia?";
+    "no" = "Hapana";
+    "whatsapp_not_available" = "WhatsApp haipatikani kwenye kifaa hiki ...";
+    "whatsapp_not_installed" = "WhatsApp haijawekwa.";
+    "want_to_exit" = "Je! Unataka kweli Kutoka?";
+    "account_under_verification" = "Akaunti yako iko chini ya uthibitisho.\n Unaweza kuendelea na shughuli mara akaunti yako itakamilishwa.\n Kwa habari zaidi tafadhali piga huduma ya wateja.";
+    "check_information" = "Inakagua habari ya watumiaji ....";
+
+   "aboutus" = "Kuhusu sisi";
+   "faq" = "Maswali Yanayoulizwa Sana";
+   "currencyconverter" = "Kubadilisha fedha";
+
+
+    //Register Page
+    "identification" = "Kitambulisho";
+    "security" = "USALAMA";
+    "identification_details" = "Kitambulisho maelezo";
+    "id_issuer" = "Kitambulisho cha kitambulisho";
+    "id_exp_date" = "Tarehe ya kumalizika kwa kitambulisho";
+    "visa_no" = "Nambari ya Visa";
+    "visa_issued_date" = "Visa Iliyotolewa tarehe";
+    "visa_exp_date" = "Tarehe ya kumaliza muda wa Visa";
+    "next" = "SASA";
+    "cancel" = "BONYEZA";
+    "cancel1" = "BONYEZA";
+    "personal_info" = "Habari ya kibinafsi";
+    "fullname_en" = "Jina kamili kwa Kiingereza";
+    "fullname_ar" = "Jina kamili katika Kiarabu (Hiari)";
+    "dob" = "Tarehe ya kuzaliwa";
+    "nationality" = "Utaifa";
+    "country_residence" = "Nchi ya Makazi";
+    "municipality" = "Manispaa (Si lazima)";
+    "zone" = "Eneo (Si lazima)";
+    "home_addr" = "Anwani ya Nyumbani (katika Qatar Hiari)";
+    "gender" = "Jinsia";
+    "mobile_no" = "Namba ya simu ya mkononi";
+    "employer" = "Mwajiri";
+    "exp_income" = "Mapato yanayotarajiwa (Kila mwezi)";
+    "work_address" = "Anwani ya Kazi";
+    "occupation" = "Kazi";
+    "reg_code" = "Nambari ya usajili (ikiwa inapatikana)";
+    "sec_qu2" = "Swali la Usalama 2";
+    "sec_qu3" = "Swali la Usalama 3";
+    "pass_cap" = "Nywila";
+    "pass_req" = "Mahitaji ya nenosiri";
+    "characters" = "Tabia 8-16";
+    "uppercase" = "Barua 1 ya juu";
+    "lowercase" = "Barua 1 ndogo";
+    "num" = "Nambari 1";
+    "retype_pass" = "Rudia nywila";
+    "pin_num" = "nambari ya siri(Nambari 4 za nambari)";
+    "i_agree" = "Nakubali";
+    "create_profile" = "Unda Profaili";
+    "read_terms" = "Soma sheria na masharti";
+    "sel_sec_que" = "Tafadhali chagua swali la usalama";
+    "enter_answer" = "Tafadhali ingiza jibu kwa swali";
+    "pass_length" = "Urefu wa nenosiri lazima uwe wahusika 8-16";
+    "pass_must1" = "Nenosiri lazima liwe na Barua 1 ya Juu";
+    "pass_must2" = "Nenosiri lazima liwe na Barua 1 ya chini";
+    "pass_must3" = "Nenosiri lazima liwe na nambari 1";
+    "pin_must" = "Pini lazima iwe nambari 4 ya nambari";
+    "agree_to_continue" = "Tafadhali nakubali Sheria na Masharti ili kuendelea";
+    "invalid_dob" = "Tarehe batili ya kuzaliwa. Mtumiaji lazima awe zaidi ya umri wa miaka 18";
+    "sel_municipality" = "Chagua manispaa";
+    "register" = "Jiandikishe";
+    "sel_id_type" = "Tafadhali chagua aina ya Kitambulisho";
+    "sel_id_issuer" = "Tafadhali chagua mtoaji wa kitambulisho";
+    "enter_id_exp_date" = "Tafadhali ingiza tarehe ya kumalizika kwa kitambulisho";
+    "enter_valid_qid" = "Tafadhali ingiza QID halali";
+    "enter_visa_no" = "Tafadhali ingiza nambari ya visa";
+    "enter_visa_exp_date" = "Tafadhali ingiza tarehe ya kumalizika kwa visa";
+    "sel_visa_type" = "Tafadhali chagua aina ya visa";
+    "enter_fullname_en" = "Tafadhali ingiza jina kamili kwa Kiingereza";
+    "enter_valid_email" = "Tafadhali ingiza Kitambulisho halali cha barua-pepe";
+    "enter_dob" = "Tafadhali ingiza Tarehe ya kuzaliwa";
+    "sel_nationality" = "Tafadhali chagua utaifa";
+    "enter_addr" = "Tafadhali ingiza anwani";
+    "enter_city" = "Tafadhali ingia mji";
+    "Select City" = "Select City";
+
+    "sel_country" = "Tafadhali chagua nchi";
+    "sel_gender" = "Tafadhali chagua jinsia";
+    "sel_country_code" = "Tafadhali chagua nambari ya nchi";
+    "enter_mobile" = "Tafadhali ingiza nambari ya rununu";
+    "enter_employer_name" = "Tafadhali ingiza jina la mwajiri";
+    "enter_occupation" = "Tafadhali ingiza kazi";
+    "enter_working_address" = "Tafadhali ingiza anwani ya kazi";
+    "enter_exp_income" = "Tafadhali ingiza mapato yanayotarajiwa";
+    "enter_zone" = "Tafadhali ingiza ukanda";
+    "search_nationality" = "Tafuta utaifa";
+    "search_country" = "Tafuta nchi";
+    "search_gcc" = "Tafuta GCC nchi";
+    "search" = "Tafuta";
+    "search_municipality" = "Tafuta manispaa";
+    "search_zone" = "Eneo la utaftaji";
+    "id_type" = "Aina ya kitambulisho";
+    "visa_type" = "Aina ya Visa";
+    "cannot_sel_same_que" = "Haiwezi Chagua swali moja mara kadhaa";
+    "no_other_keyboard" = "Hakuna kibodi kingine kilichopatikana";
+    "validating" = "Inathibitisha ... Tafadhali Subiri";
+    "id_exists" = "Nambari hii ya kitambulisho inapatikana katika mfumo wetu. Tafadhali ingia kwa kutumia nambari yako ya kitambulisho na nywila";
+    "accept" = "Kubali";
+    "Please enter valid name" = "Tafadhali ingiza jina halali";
+    "Please enter valid home address" = "Tafadhali ingiza anwani halali ya nyumbani";
+    "Please enter valid employer" = "Tafadhali ingiza mwajiri halali";
+    "Please enter valid working address" = "Tafadhali ingiza anwani halali ya kufanya kazi";
+    "Please enter valid address" = "Tafadhali ingiza anwani halali";
+
+
+    //Change Password
+    "type_old_password" = "Andika nywila ya zamani";
+    "password_requirements" = "Mahitaji ya nenosiri";
+    "password_req1" = "Tabia 8-16";
+    "password_req2" = "Barua ya juu";
+    "password_req3" = "Barua ya chini";
+    "password_req4" = "Nambari 1";
+    "type_new_password" = "Andika nywila mpya";
+    "re_type_new_password" = "Andika tena Nenosiri mpya";
+    "check_your_pin" = "Angalia pini yako";
+    "fill_all_fields" = "Jaza shamba zote";
+    "password_fields_not_matching" = "Sehemu za nywila hazilingani";
+    "something_went_wrong_try_again" = "Kitu kimeenda vibaya.Jaribu tena ...";
+    "error_check_current_password" = "Kosa ... Angalia nenosiri lako la sasa";
+    "error_check_current_email_id" = "Kosa ... Angalia kitambulisho chako cha barua pepe cha sasa";
+    "change_password" = "Badilisha neno la siri";
+    //Currency rate
+    "transfer_column" = "Uhamisho :";
+    "we_sell" = "Tunauza:";
+    "we_buy" = "Sisi Nunua:";
+    //Forgot password
+
+    "id_number" = "Nambari ya kitambulisho";
+    "enter_id_number" = "Ingiza nambari ya kitambulisho";
+    "we_have_send_otp_to_email_mob" = "Tumetuma OTP kwa \n\n barua yako ya usajili na nambari ya rununu";
+    "please_enter_otp" = "Tafadhali ingiza OTP";
+    "emails_not_matching" = "Barua pepe hazilingani";
+    "check_current_email_customer_id" = "Kosa ... Angalia kitambulisho chako cha barua pepe ya hivi sasa na Kitambulisho cha Wateja";
+    "error_try_again" = "Kosa ... Jaribu tena";
+    "forgot_password" = "Umesahau Nenosiri?";
+    //Help page
+    "customer_support" = "Msaada wa Wateja";
+    "email_us" = "Tutumie barua pepe";
+    "call_us" = "Tuite";
+    "verification_location" = "Eneo la ukaguzi";
+    "choose_email_client" = "Chagua mteja wa Barua pepe:";
+    "no_email_clients" = "Hakuna wateja wa barua pepe iliyosanikishwa";
+    "no_whatsapp_messenger" = "Mjumbe wa WhatsApp haipatikani kwenye kifaa hiki";
+    //Help page1
+    "please_call_cc" = "Tafadhali piga nambari ya utunzaji wa wateja:";
+    "call" = "wito";
+    "or_email" = "Au tutumie barua pepe kwa:";
+    "send_email" = "kutuma barua pepe";
+    "select_phone_number" = "Chagua nambari ya simu";
+    //Locations
+    "locations" = "Maeneo";
+    "turn_on_location" = "Washa eneo";
+    //Login
+    "already_customer" = "Tayari mteja?";
+    "log_in" = "INGIA";
+    "sign_in" = "WEKA SAHIHI";
+    "forgot_pwd_click" = "Umesahau nywila ? bonyeza ";
+    "forgot_pin_click" = "Umesahau PIN? bonyeza ";
+    "here" = "<u>HAPA</u>";
+    "or" = "AU";
+    "pls_register" = "Tafadhali jisajili";
+    "pls_enter_valid_pin" = "Tafadhali ingiza PIN halali";
+    "do_you_want_exit" = "Je! Unataka kweli Kutoka?";
+    "enable_network" = "Wezesha mtandao";
+    "loc_settings_inadequate" = "Mipangilio ya eneo haitoshi, na haiwezi kusasishwa hapa. Kurekebisha katika Mipangilio.";
+    "checking_user_info" = "Inakagua habari ya watumiaji ...";
+    "wrong_login_info" = "Samahani, habari uliyoingiza hailingani na habari yetu iliyopo";
+    "try_after_ten" = "Jaribio nyingi sana, Jaribu baada ya dakika 10";
+    "qatar_login_only" = "Samahani! Huduma zetu za Uhamisho wa Pesa mtandaoni zinaweza kutumika tu katika Qatar.";
+    "no_vpn_network" = "Samahani! Mtandao uliowezeshwa wa VPN hauhimiliwi.";
+    "permanent_lock" = "Akaunti yako ya kuingia imefungwa kabisa. Tafadhali wasiliana na utunzaji wa wateja";
+    "loc_not_available_error" = "Mahali pako haipatikani. Chunguza huduma ya eneo lako na ujaribu tena";
+    "multiple_login" = "Mtumiaji sawa tayari ameingia kwenye mfumo. Hauwezi kuingia kwenye vifaa vingi";
+    //My Transaction List
+    "from_date" = "Kuanzia Tarehe";
+    "to_date" = "Mpaka leo";
+    "go" = "NENDA";
+    "search_ref_no" = "Tafuta Marejeleo ...";
+    "no_transaction_available" = "Hakuna shughuli inayopatikana";
+    "get_statement" = "PATA TATIZO";
+    "enter_valid_ref_no" = "Ingiza nambari halali ya kumbukumbu";
+    "no_data_available" = "Hakuna data inayopatikana";
+    //Notifications
+    "no_notifications" = "Hakuna arifa mpya";
+    "notifications" = "Arifa";
+    //Profile
+
+    "full_name_eng" = "Jina kamili kwa Kiingereza";
+    "full_name_arabic" = "Jina kamili katika Kiarabu";
+    "country_of_residence" = "Nchi ya Makazi";
+    "address" = "Anwani";
+    "mob_no" = "Namba ya simu ya mkononi";
+    "working_add" = "Anwani ya Kufanya kazi";
+    "back" = "BORA";
+    //Reset password
+    "re_type_password" = "Rudia nywila";
+    "passwords_not_matching" = "Nywila hazilingani";
+    "password_reset_success" = "Nenosiri lako limetengenezwa vizuri";
+    "password_reset_fail" = "Nenosiri lako halijawekwa upya";
+    "reset_password" = "Rudisha Nenosiri";
+    //Reset PIN
+    "new_pin" = "Pini mpya";
+    "re_type_new_pin" = "Andika aina mpya ya PIN";
+    "pin_reset_fail" = "Pini yako haijawekwa upya";
+    "reset_pin" = "Rudisha PIN";
+    //Select Language
+    "select_language" = "Chagua Lugha";
+    "select_cap" = "BONYEZA";
+    //settings
+    "change_email_settings" = "Badilisha barua-pepe";
+    "change_pin_settings" = "Badilisha PIN";
+    "change_password_settings" = "Badilisha neno la siri";
+    "change_security_settings" = "Badilisha swali la Usalama";
+    "change_mobile_settings" = "Badilisha Nambari ya rununu";
+
+    //Take Photo
+    "photo_id_front" = "Tafadhali chukua picha ya kitambulisho chako (mbele)";
+    "confirm_pic" = "MAHUSIANO";
+    "discard_pic" = "BONYEZA";
+    "register_pic" = "Jiandikishe";
+    "permission_reqd" = "Ruhusa inahitajika";
+    "cam_permission_reqd" = "Ruhusa ya Camea inahitajika kusonga mbele.";
+    "loading_image" = "Inapakia picha ....";
+    "photo_id_back" = "Tafadhali chukua picha ya kitambulisho chako (nyuma)";
+    "this_permission_reqd" = "Ruhusa hii inahitajika";
+    "photo_selfie" = "Tafadhali chukua selfie inayoshikilia kitambulisho chako";
+    //Track Transaction
+    "tt_no" = "TT Hapana:";
+    "date" = "Tarehe:";
+    "enter_ref_no" = "Tafadhali ingiza nambari yako ya kumbukumbu";
+    "track_transaction" = "Fuatilia shughuli";
+    //Transaction Details
+    "firstname" = "JINA LA KWANZA";
+    "lastname" = "JINA LA FAMILIA";
+    "address1" = "TAFAKARI";
+    "city1" = "Mji";
+    "mob_no1" = "MOBILE HAPA";
+    "bank_name1" = "JINA LA BENKI";
+    "branch_name1" = "JINA LA TAWI";
+    "acc_no_iban1" = "A/C NO / IBAN";
+    "swift_code1" = "KIWANDA CHEMA";
+    "relationship1" = "MAHUSIANO";
+    "track1" = "UTAFITI";
+    "transaction_details" = "Maelezo ya manunuzi";
+    "firstname_sm" = "JINA LA KWANZA";
+    "lastname_sm" = "JINA LA FAMILIA";
+    "address1_sm" = "TAFAKARI";
+    "city1_sm" = "Mji";
+    "mob_no1_sm" = "MOBILE HAPA";
+    "bank_name1_sm" = "JINA LA BENKI";
+    "branch_name1_sm" = "JINA LA TAWI";
+    "acc_no_iban1_sm" = "A/C NO / IBAN";
+    "swift_code1_sm" = "KIWANDA CHEMA";
+    "relationship1_sm" = "MAHUSIANO";
+    "track1_sm" = "UTAFITI";
+    "transaction_details_sm" = "Maelezo ya manunuzi";
+    //Other XML Layouts
+    "country_name" = "Jina la Nchi";
+    "search1" = "Tafuta";
+    "see_price" = "TAZAMA PRICE";
+    "select_gender" = "Chagua Jinsia";
+    "male" = "Mwanaume";
+    "female" = "Kike";
+    "ok" = "sawa";
+    "show_details" = "ONYESHA MAELEZO";
+    "network_not_available" = "Mtandao haupatikani ...! \n Washa Mtandao na ujaribu tena";
+
+
+    //Register Page1
+    "u_r_almost_done" = "Karibu umekamilika!";
+    "we_have_sent_otp" = "Tumetuma OTP kwa nambari yako ya barua-pepe iliyosajiliwa na nambari ya simu. Tafadhali angalia Inbox / Ujumbe kukamilisha mchakato wa usajili.";
+    "pls_enter_otp" = "Tafadhali Ingiza Nambari ya OTP";
+    "otp" = "Nambari ya OTP";
+    "getting_images" = "Inapata picha ...";
+    "registering_customer" = "Kusajili mteja mpya ...";
+    "invalid_otp" = "OTP batili";
+
+    //Register Page2
+    "reg_request" = "Nzuri! Ombi lako la usajili limeanzishwa kwa mafanikio";
+    "acc_verif" = "Akaunti yako iko chini ya uthibitisho";
+    "acc_acti" = "Mara tu akaunti yako imeamilishwa, utaarifiwa kwa barua-pepe na arifu na";
+    "u_will_able" = "utaweza kusindika shughuli ";
+
+
+    //Remittance Page1
+    "sel_payment_mode" = "Chagua Njia ya Malipo";
+    "cash_pickup" = "Uchunguzi wa Fedha";
+    "acc_transfer" = "Uhamishaji wa Akaunti";
+    "enter_rece_info" = "Ingiza habari mpya ya mpokeaji";
+    "country" = "Nchi";
+    "address_cap" = "anuani";
+    "mobile_no1" = "Namba ya simu ya mkononi";
+    "exch_compny" = "Kampuni ya Uhamishaji au Benki";
+    "enter_new_rece" = "Ingiza habari mpya ya mpokeaji";
+    "first_name1" = "Jina la kwanza (kwa kila benki)";
+    "lastname1" = "Jina la mwisho (kwa kila benki)";
+    "acc_no1" = "Nambari ya Akaunti";
+    "iban1" = "Nambari ya Akaunti ya Benki ya Kimataifa";
+    "sort_code1" = "Nambari ya SORT";
+    "routing_code1" = "Nambari ya kurejesha";
+    "ifsc_code1" = "Nambari ya IFSC";
+    "other_info1" = "Habari Nyingine";
+    "save_next" = "Okoa na ijayo";
+    "sel_bank" = "Tafadhali Chagua Benki";
+    "enter_firstname" = "Tafadhali Ingiza Jina la Kwanza";
+    "enter_lastname" = "Tafadhali Ingiza Jina la Mwisho";
+    "enter_bank_name" = "Tafadhali Ingiza Jina la Benki";
+    "enter_branch_name" = "Tafadhali Ingiza Jina la Tawi";
+    "enter_address" = "Tafadhali Ingiza Anwani";
+    "enter_account" = "Tafadhali Ingiza Nambari ya Akaunti";
+    "enter_iban" = "Tafadhali Ingiza IBAN";
+    "enter_swift_code" = "Tafadhali Ingiza Msimbo wa Swift";
+    "enter_sort_code" = "Tafadhali Ingiza Msimbo wa SORT";
+    "enter_routing_code" = "Tafadhali Ingiza Msimbo wa Njia";
+    "enter_ifsc" = "Tafadhali Ingiza Msimbo wa IFSC";
+    "sel_source" = "Tafadhali Chagua Chanzo cha Mfuko";
+    "sel_purpose" = "Tafadhali chagua Madhumuni ya Ununuzi";
+    "sel_relation" = "Tafadhali chagua Urafiki";
+    "pls_agree" = "Tafadhali Kukubaliana na Masharti na Masharti ya Kuendelea";
+    "remittance" = "Kuondolewa";
+    "sel_existing_rece" = "Chagua kipokeaji kilichopatikana";
+    "no_ben_added" = "Hakuna wanufaika aliyeongezwa";
+    "no_country" = "Hakuna Nchi Iliyopatikana";
+    "no_bank" = "Hakuna Benki Zinazopatikana";
+    "source1" = "Chanzo cha mfuko";
+    "purpose1" = "Kusudi la manunuzi";
+    "coming_soon" = "Inakuja Hivi Punde";
+    "Please enter valid account number" = "Tafadhali ingiza nambari halali ya akaunti";
+
+    "Please enter valid mobile number" = "Tafadhali ingiza nambari halali ya rununu";
+
+      "entermiddlename" = "Tafadhali Ingiza Jina la Kati";
+      "GENDERR" = "JINSIA";
+      "nationalityy" = "TAIFA";
+
+   "SERVICEPROVIDER" = "MTOA HUDUMA";
+   "MOBILEOPERATOR" = "OPERATOR YA SIMU";
+
+"middlename1" = "JINA LA KATI (KWA BENKI)";
+"servicetype" = "AINA YA HUDUMA";
+
+
+    //Remittance Page2
+
+    "sending_amount" = "Kutuma Kiasi";
+    "recipient_receivers" = "Wapokeaji wa Mpokeaji";
+    "receiving_amount" = "Kiwango cha Kupokea";
+    "rate" = "HALI";
+    "want_pay" = "UNAFANYA GANI KUPATA";
+    "debit_card" = "DUKA LA DEBIT (NAPS)";
+    "do_you_have_promo" = "JE UNA CODE YA PROMO?";
+    "enter_promo_code" = "BONYEZA CODE";
+    "apply" = "TUMIA";
+    "transfer_amount" = "Kiwango cha Uhamisho";
+    "transfer_fee" = "Ada ya Uhamisho";
+    "promo_code" = "Nambari ya Promo";
+    "total" = "Jumla";
+    "enter_amount1" = "Tafadhali Ingiza Kiasi cha kutuma";
+    "enter_card_no" = "Tafadhali Ingiza Nambari ya Kadi";
+    "card_holder" = "Tafadhali ingiza jina la mmiliki wa kadi";
+    "enter_exp_date" = "Tafadhali Ingiza Tarehe ya Kumalizika";
+    "enter_valid_amount" = "Tafadhali Ingiza Kiwango halali zaidi ya 0";
+
+
+    //Remittance Page3
+    "pls_review" = "TAFADHALI KUMBUKA KITUO chako";
+    "amount1" = "Kiasi";
+    "amount1_sm" = "Kiasi";
+
+    //Remittance Page4
+
+    "we_have_sent1" = "Tumetuma OTP kwa nambari yako ya barua-pepe iliyosajiliwa na nambari ya simu";
+    "remittance_not_allowed" = "Usafirishaji wa pesa hairuhusiwi, Tafadhali wasiliana na huduma ya wateja";
+    "verifying" = "Kuthibitisha Tafadhali Subiri";
+
+    //Remittance Page5
+    "payment" = "Malipo";
+    //Remittance Page6
+    "remittance1" = "Kuondolewa";
+    "transaction_success" = "Usafirishaji umetumwa kwa mafanikio!";
+    "transaction_success1" = "Nzuri! Ununuzi wako umetumwa kwa mafanikio.\n\n Nambari yako ya manunuzi ni:";
+    "ref_no" = "PUN/Marejeleo ya Marejeleo Na:";
+    "u_can_track" = "Unaweza kufuatilia ununuzi wako kwa kubonyeza: ";
+    "track2" = "UTAFITI WA HABARI";
+    "main_menu1" = "MAIN MENU";
+    "date_transaction" = "Tarehe ya Ununuzi";
+    "transaction_amount" = "Kiasi cha shughuli";
+    "payment_status" = "Hali ya Malipo: Mafanikio";
+    "transaction_failed" = "Usafirishaji Umeshindwa!";
+    "payment_completed" = "Malipo yamekamilika.\n\n Makosa ya uthibitisho wa wanufaika !.\nTafadhali wasiliana na huduma yako ya Wateja.";
+    "transaction_failed1" = "Kwa bahati mbaya shughuli yako imeshindwa.\n Nambari yako ya manunuzi ni:";
+    "payment_status1" = "Hali ya Malipo: Imeshindwa";
+    "transaction_canceled" = "Ununuzi umefutwa!";
+    "transaction_canceled1" = "Ununuzi wako umefutwa.";
+    "sel_visa_issued_date" = "Tafadhali chagua tarehe iliyotolewa ya visa";
+    "delete_notification" = "Je! Unataka kweli kufuta arifa?";
+    "notification_deleted" = "Arifa imefutwa";
+    "notification_not_deleted" = "Arifa haijafutwa";
+
+    "change_language_settings" = "Badilisha mipangilio ya lugha";
+    "u_r_not_allowed" = "Hauruhusiwi kufanya shughuli ya malipo";
+    "contact_customer_care" = "Tafadhali wasiliana na huduma ya wateja";
+    "pls_update_profile" = "Tafadhali sasisha maelezo yako mafupi";
+    "delete" = "Futa";
+    "want_to_delete_beneficiary" = "Je! Unataka kabisa kufuta maelezo ya wanufaika";
+    "ben_deleted" = "Maelezo ya wanufaika yamefutwa";
+    "enter_municipality" = "Ingiza jina la Manispaa";
+    "i_checked" = "Niliangalia habari ya akaunti";
+    "confirm_account" = "Tafadhali kagua akaunti yako na habari na uthibitishe";
+    "check_cust_id_password_email" = "Angalia kitambulisho chako cha sasa cha Mteja, Nenosiri na kitambulisho cha barua-pepe";
+    "transaction_hold" = "Ununuzi wako umekwama. \nTafadhali wasiliana na utunzaji wa wateja";
+    "transaction_initiated" = "Biashara imeanzishwa";
+    "under_process" = "Ununuzi uko chini ya mchakato";
+    "pin_error" = "Pini lazima iwe nambari 4 ya nambari";
+    "powered_by" = "Kinatumia";
+
+    "confirm_reg_details" = "Tafadhali thibitisha maelezo ya usajili yaliyowekwa";
+    "enter_valid_mob" = "Nambari ya simu ya rununu lazima iwe na nambari 8";
+    "commission" = "Tume";
+    "commission_sm" = "Tume";
+    "sent_successfully" = "Iliyotumwa kwafanikiwa";
+    "pending" = "Inasubiri";
+    "id_front" = "Picha ya mbele ya kadi ya kitambulisho";
+    "id_back" = "Picha ya nyuma ya kadi ya kitambulisho";
+    "profile_photo" = "Picha ya profaili na kadi ya kitambulisho";
+    "location_fetch" = "Uhakiki wa eneo. Tafadhali subiri";
+    "failed" = "Imeshindwa";
+    "under_process1" = "Kwenye mchakato";
+    "total_amount" = "Jumla";
+    "total_amount_sm" = "Jumla";
+    "update" = "Sasisha";
+    "gulf_exchange" = "Uuzaji wa Ghuba";
+"enablebiometric" = "Enable Biometric Authentication";
+"doyouenablebiometric" = "Do you want to enable Biometric authentication in this application";
+"dualnationality" = "Utaifa Mbili";
+"seldualnationality" = "Chagua Utaifa Mbili";
+"BankTransfer" = "Bank Transfer";
+"Email" = "Barua pepe";
+"ActualOccupation" = "Kazi Halisi";
+"IDExpiry" = "Muda wa Kitambulisho";
+"SelfieWithID" = "Selfie Na Kitambulisho";
+"IDFront" = "Kitambulisho cha mbele";
+"IDBack" = "Kitambulisho Nyuma";
+"UserBranch" = "Tawi la Mtumiaji";
+"Street" = "Mtaa";
+"BuildingNumber" = "Nambari ya Jengo";
+"Feedback" = "Maoni";
+"BlockAccount" = "Zuia Akaunti";
+"More" = "Zaidi";
+"CurrentPin" = "Pini ya Sasa";
+"ConfirmPin" = "Thibitisha Pin";
+"1Special Characters" = "1 Wahusika Maalum";
+"Pin" = "Bandika";
+"ConfirmPassword" = "Thibitisha Nenosiri";
+"NewPassword" = "Nenosiri Mpya";
+"CurrentPassword" = "Nenosiri la Sasa";
+"block" = "Block";
+"blockQuestion" = "Are you sure you want to block your account? To unblock your account please contact our customer support";
+"sortByDate" = "Sort by Date";
+"from1" = "From";
+"to1" = "To";
+"transactionType" = "Transaction Type";
+"date1" = "Date";
+"Status" = "Status";
+"sendAgain" = "Send Again";
+"download" = "Download";
+"details" = "Details";
+"youPaid" = "You Paid";
+"theyReceived" = "They Received";
+"track2" = "Track";
+"transferDetails" = "Transfer Details";
+"paymentReferenceNumber" = "Payment Reference Number";
+"date&Time" = "Date & Time";
+"collectionRef" = "Collection Ref";
+"paidAmount" = "Paid Amount";
+"senderInformation" = "Sender Information";
+"name" = "Name";
+"beneficiaryInformation" = "Beneficiary Information";
+"countryT" = "Country";
+"contact" = "Contact";
+"receiveType" = "Receive Type";
+"collectionPoint" = "Collection Point";
+"transferInformation" = "Transfer Information";
+"receiveAmount" = "Receive Amount";
+"exchangeRate" = "Exchange Rate";
+"share" = "Share";
+"enternewpassword" = "Weka Nenosiri Jipya";
+"confirmnewpassword" = "Thibitisha Nenosiri Jipya";
+"Yourpasswordmustcontainatleast" = "Nenosiri lako lazima liwe na angalau";
+"SetaNewPassword" = "Weka Nenosiri Jipya";
+"Create a new password ensure it differ" = "Unda nenosiri jipya hakikisha linatofautiana na zile za awali kwa usalama";
+"Entercurrentpassword" = "Weka nenosiri la sasa";
+"SetaNewPIN" = "Weka PIN Mpya";
+"SaveDetails" = "Hifadhi Maelezo";
+"Create a new PIN ensure it differs from previous ones for security" = "Unda PIN mpya hakikisha inatofautiana na za awali kwa usalama";
+"CurrentEmail" = "Barua pepe ya Sasa";
+"NewEmail" = "Barua pepe Mpya";
+"ConfirmNewEmail" = "Thibitisha Barua pepe Mpya";
+"Set a New Email" = "Weka Barua pepe Mpya";
+"Create a new Email ensure it differs from previous ones for security" = "Unda Barua pepe mpya hakikisha inatofautiana na zile za awali kwa usalama";
+"Mobile Wallet" = "Mkoba wa Simu";
+"Mobile Wallet Transfer" = "Uhamisho wa Wallet ya Simu";
+"See All" = "Tazama Yote";
+"Quick Access" = "Ufikiaji wa Haraka";
+"Rate Calculater" = "Kiwango cha Calculator";
+"Beneficiaries" = "Walengwa";
+"Master Card" = "Master Card";
+"Exhange rates are indicatve and are subject to change" = "Viwango vya kutolea nje ni dalili na vinaweza kubadilika";
+"Send" = "Tuma";
+"Gold Rate" = "Kiwango cha Dhahabu";
+"Our Partners" = "Washirika wetu";
+"Golalita Rewards" = "Zawadi za Golalita";
+"Special Offers" = "Matoleo Maalum";
+"Loyalty Points" = "Pointi za Uaminifu";
+"Services" = "Huduma";
+"Address1" = "Anwani 1";
+"Address2" = "Anwani 2";
+"Sign in to continue" = "Sign in to continue";
+"Don’t have an account ?" = "Don’t have an account ?";
+"You have no notifications" = "You have no notifications";
+"Your notifications will appear here when they arrive." = "Your notifications will appear here when they arrive.";
+"Continue" = "Continue";
+"Login successful!" = "Login successful!";
+"Welcome Back" = "Welcome Back";
+"Find the nearest branch" = "Find the nearest branch";
+"If you would like to visit us, please locate the nearest branch" = "If you would like to visit us, please locate the nearest branch";
+"Email us on" = "Email us on";
+"customercare@gulfexchange.com.qa" = "customercare@gulfexchange.com.qa
+Please include your mobile number in the mail";
+"Let’s Whatsapp" = "Let’s Whatsapp";
+"Gulf Exchange Company" = "Gulf Exchange Company";
+"Ali Bin Abdullah St, Old Al Ghanim" = "Ali Bin Abdullah St, Old Al Ghanim";
+
+"Locate Branch" = "Locate Branch";
+"Wallet Transfer" = "Uhamisho wa Wallet";
+"Mobile" = "Simu ya Mkononi";
+"Branch" = "Tawi";
+"Branch Code" = "Msimbo wa Tawi";
+"Bank" = "Benki";
+"Account No." = "Nambari ya Akaunti.";
+"Purpose" = "Kusudi";
+"Income Source" = "Chanzo cha Mapato";
+"Verify" = "Thibitisha";
+"Source" = "Chanzo";
+"Download Receipt" = "Pakua Risiti";
+"Registration completed successfully!" = "Registration completed successfully!";
+"Welcome," = "Welcome";
+
+"Take a selfie while holding your ID." = "Take a selfie while holding your ID.";
+"Record a 3-second video of yourself blinking while holding your ID." = "Record a 3-second video of yourself blinking while holding your ID.";
+
+"You're almost there!" = "You're almost there!";
+"otpmesssage" = "We've sent an OTP to your mobile number. Please check your messages to complete the registration process.";
+"passwordmesssage" = "Make your password stronger by using a mix of letters, numbers, and special characters.";
+
+"The back of the card was scanned successfully." = "The back of the card was scanned successfully.";
+"The front of the card was scanned successfully." = "The front of the card was scanned successfully.";
+
+"Please scan both sides of your Id card" = "Please scan both sides of your Id card";
+
+"Scan Your ID" = "Scan Your ID";
+"Scan ID" = "Kitambulisho cha Scan";
+
+/*"block" = "";
+"blockQuestion" = "";
+"sortByDate" = "";
+"from1" = "";
+"to1" = "";
+"transactionType" = "";
+"date1" = "";
+"Status" = "";
+"sendAgain" = "";
+"download" = "";
+"details" = "";
+"youPaid" = "";
+"theyReceived" = "";
+"track2" = "";
+"transferDetails" = "";
+"paymentReferenceNumber" = "";
+"date&Time" = "";
+"collectionRef" = "";
+"paidAmount" = "";
+"senderInformation" = "";
+"name" = "";
+"beneficiaryInformation" = "";
+"countryT" = "";
+"contact" = "";
+"receiveType" = "";
+"collectionPoint" = "";
+"transferInformation" = "";
+"receiveAmount" = "";
+"exchangeRate" = "";
+"share" = "";*/

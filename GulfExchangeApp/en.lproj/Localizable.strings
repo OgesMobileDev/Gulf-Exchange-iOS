@@ -1,0 +1,741 @@
+"app_name" = "Gulf Exchange App";
+"about_us" = "Gulf Exchange, an ISO 27001:2013 certified company and one of the leading money exchanges in the State of Qatar, has extended its services to 1.6 million retail and business customers since its inception in 1977. Under the leadership of its Founder and Chairman, Mr. Ali Jaafar Al-Sarraf, the company has grown over the years to become the first choice for foreign currency exchange, gold purchase and sale, and international money transfer to and from all over the world.\n\nWhile customer experience is an aspiration for other businesses, at Gulf Exchange it is a reality. We provide personalized services to 135,000 customers monthly in our 12 branches and in 20 languages. Through our extensive network of partners across the globe, we are well-positioned to provide the most competitive exchange rates for our customers.In addition, we pride ourselves as a pioneer financial institution in implementing financial technologies since 1991.\n\nWe always ensure that our customers enjoy the unparalleled experience by investing in our human capital, growing our global outreach, and developing our distribution channels to ensure that we are with our customers wherever they are";
+
+ "message_from_ge"  = "Gulf Exchange prides itself as a people-oriented company. We believe that employee engagement, customer satisfaction, and community wellbeing are the pillars of any successful and sustainable business.\n\nAt Gulf Exchange, we constantly strive to provide service ‘par excellence’ to our valued customers. We realize this responsibility and we accordingly provide world-class services to our customers by dedicated, experienced, and multilingual professionals at our 12 branches and alternative channels.\n\nWe enjoy the trust and confidence of our customers that have positioned Gulf Exchange as a leading exchange company serving 135,000 customers monthly. In order to achieve this, we continuously explore, create, and adopt innovative solutions to achieve outstanding service excellence for our valued customers.\n\nWe are always thankful and grateful to our dedicated employees and partners for their enthusiasm and commitment to support
+    our customers across the globe.";
+ "mission_ge"  = "Connecting people through innovative financial solutions and a unique service experience";
+ "vision_ge"  = "To do Money Exchange business with integrity, commitment, and passion and create a better workplace for the employees.";
+ "values_ge"  = "\n .  Integrity \n .  Commitment \n .  Customer Excellence \n .  Collaboration \n .  Care";
+ "compliance"  = "GULF EXCHANGE is one of the premier Exchange House in the State of Qatar established in 1977 and licensed by The Qatar Central Bank under License No: MS 2/82. \n\n As per the Law No: 36, of 1995 regulating the exchange activities, the company is permitted by the Qatar Central Bank to carry out exchange activities like remittances including foreign currency, electronic global funds transfers, buying and selling banknotes and gold bullion. The Board of Director of Gulf Exchange has appointed a Compliance Manager completed with an experienced &amp; specialized team who is responsible for coordinating &amp; overseeing the AML framework within the organization. The company engaged the Compliance Risk Management Solutions, like “World-Check”, most comprehensive Sanctions and Politically Exposed Persons database for sanction screening, single-source lookup tool like “Word-Check Online. \n\n What Is Money Laundering \n\n The concealment or disguise of the true nature, source, locations, disposition, movement ownership of or rights with respect to funds by any person who knows, should have known or suspects that such funds are the proceeds of crime. There are three stages to Money Laundering: Placement, Layering, and Integration \n\n 1. Objectives and Purpose \n\n Having perused decree Law, no 4 of 2010 on Anti-Money Laundering and Terrorism Financing and the circular issued by Qatar Central Bank dated June 15, 2010, with regard to regulations governing Anti-Money Laundering and Combating Terrorist Financing for Financial Institutions, Gulf Exchange has decided to issue this policies and procedures. \n\n Gulf Exchange is based on a clear and explicit policy to control all of the financial operations whereby a clear plan is placed in the fight against money laundering and the financing of terrorism based on the instructions of Qatar Central Bank, local law as we as international law and standards like Financial Action Task Force (FATF) recommendation and Office of Foreign Assets Control (OFAC), United Nations, European Union and many others. \n\n To protect Gulf Exchange from being a mediator in the money laundering and financing of terrorism or any other illicit activities. \n\n To confirm that Gulf Exchange is working on a clear policy for prevention, detection, controlling and reporting of money laundering and terrorist financing, in accordance with FATF recommendations. \n\n 2. Know Your Customer – KYC \n\n KYC POLICY is one of the most important regulatory requirements in Gulf Exchange’s day-to-day business practices at QCB instruction. It is therefore compulsory to know the regular as well as walk-in customers who conduct their personal or business transactions involving money with Gulf Exchange. The identity of the customer (an individual or company) must be verified before accepting any transactions for any amount. \n\n 3. CDD (Customer Due Diligence) – EDD (Enhanced Due Diligence) \n\n Customer Due diligence is describing the processes and procedures used by a business to qualify a potential customer before the establishment of a working relationship and is also used to continue qualifying that relationship once it is established. \n\n Enhanced Due Diligence is to take additional measures, besides usual Customer Due Diligence, to know more about a customer and to confirm that his/her transactions and funds are legitimate and free from any criminal link. We at Gulf Exchange follow the CDD &amp; EDD procedure in order to mitigate, detect and report any ML &amp; TF associated risks. \n\n 4. Risk-based Approach \n\n Risk-based Approach is one of the processes that is being followed in Gulf Exchange and it’s a methodology that allows to priorities activities based on a previous analysis of data and identifies potential high risks of money laundering and terrorist financing and develops strategies to mitigate them. Existing obligations, such as client identification, will be maintained as a minimum baseline requirement. \n\n 5. Staff Training \n\n Anti-Money Laundering Training is intended to familiarize employees with the process of money laundering and the laws that make it a crime. All staff of Gulf Exchange including senior management and board of director attends AML/CFT training, and that’s will help the company to develop good corporate governance within the Organization. \n\n 6. Record Keeping \n\n All records including, customer’s identification documents and related data, transaction data, and any other related documents must be maintained and retained for a minimum period of ten (10) years from the date of financial transactions,Including Internal / external reporting of unusual /potentially suspicious transaction and retaining relevant training materials used and staff attendance documents. \n\n 7. Privacy/Confidentiality \n\n It is Gulf Exchange’s responsibility to protect the confidentiality of all customer transactions including any important and sensitive information, personal business and financial transactions information that has been obtained from customers as part of Gulf Exchange’s customer due-diligence practices.";
+ "terms_conditions"  = "<u>TERMS AND CONDITIONS</u>";
+ "terms_conditions1"  = "Terms and Conditions";
+ "title_activity_locations"  = "Map";
+
+"terms_conditions2"  = "Terms & Conditions";
+
+"capture" = "Capture";
+"camera_not_supported" = "Your Device doesn\'t Support Camera.";
+"capture_image_failed" = "Failed to capture image.";
+"permission_message" = "Both permissions are required. Please allow both permission to take picture.";
+"cancel_message" = "Cancelled by user.";
+"capture_deny_message" = "Capture image won\'t work without both permissions.";
+
+    //about us
+"about_gulf_exchange" = "About Gulf Exchange";
+"message_from_management" = "Message from the management";
+"mission_vision_values" = "Mission, Vision &amp; Values";
+"our_mission" = "Our Mission";
+"our_vision" = "Our Vision";
+"our_values" = "Our Values";
+"team_members" = "Team Members";
+"our_team" = "Our Team";
+"aml_compliance" = "AML &amp; CFT Compliance";
+"aml_compliance_policy" = "AML &amp; CFT Compliance Policy";
+"about_us_title" = "About Us";
+
+    //change email
+"password_not_valid" = "Password is not valid";
+"pin_not_valid" = "PIN is not valid";
+"fill_fields" = "Fill all the fields";
+"email_mismatch" = "E-mail mismatch";
+"new_email_not_valid" = "New E-mail is not valid";
+"old_email_not_valid" = "Old E-mail is not valid";
+"something_went_wrong" = "Something went wrong… Try again…";
+"check_internet" = "Please check your internet connection";
+"unauthorized_access" = "Unauthorized access";
+"server_error" = "Server error";
+"network_error" = "Network error";
+"parse_error" = "Parse error";
+"check_current_email" = "Check your current E-mail id";
+"new_email_existing" = "New E-mail is already existing";
+"check_pin" = "Check your PIN";
+"email_reset_success" = "Your E-mail ID is reset successfully";
+"change_email" = "Change Email";
+"loading" = "Loading…";
+"type_old_email" = "Type old E-mail";
+"type_new_email" = "Type new E-mail";
+"re_type_new_email" = "Re-type new E-mail";
+"enter_pin" = "Enter PIN";
+"password" = "Password";
+"save_details" = "Save Details";
+
+//change mobile number
+
+"type_old_mobile" = "Type old Mobile Number";
+"type_new_mobile" = "Type new Mobile Number";
+"retype_new_mobile" = "Re-type new Mobile Number";
+"enter_email" = "Enter Email";
+"mobile_mismatch" = "Mobile number mismatch";
+"email_not_valid" = "Email id is not valid";
+"search_phone_code" = "Search phone code";
+"check_current_mobile" = "Check your current mobile number";
+"check_email" = "Check Email id";
+"mobile_already_registered" = "This Mobile Number is already registered for another customer. Please contact customer care";
+"mobile_reset_success" = "Your Mobile number  is reset successfully";
+"mobile_not_reset" = "Mobile number not reset...Try again";
+"change_mobile" = "Change Mobile Number";
+
+    //Change Pin
+"type_old_pin" = "Type old PIN";
+"type_new_pin" = "Type new PIN";
+"retype_new_pin" = "Re-type new PIN";
+"send_otp" = "SEND OTP";
+"we_have_sent" = "We\'ve sent a OTP to";
+"email_mobile" = " your registered E-mail and Mobile number";
+"enter_otp" = "Enter OTP";
+"resend_otp" = "Resend OTP";
+"current_pin_invalid" = "Current PIN is invalid";
+"pin_mismatch" = "PIN mismatch";
+"otp_resent" = "OTP is resent";
+"error_otp" = "Error in OTP sending...";
+"pin_reset_success" = "Your PIN is reset successfully";
+"login_again" = "Please login again with new credentials";
+"yes" = "Yes";
+"change_pin" = "Change PIN";
+"error_in_otp_sent" = "Error in OTP sending...";
+"otp_expired" = "OTP expired...";
+
+
+    //Change security question
+
+"security_question" = "Security question";
+"answer" = "Answer";
+"pin" = "PIN";
+"security_question_reset_success" = "Your security question is reset successfully";
+"check_password" = "Check your password";
+"invalid_token" = "Invalid token";
+"change_security_question" = "Change Security Question";
+
+    // Currency converter
+"transfer" = "Transfer";
+"buy" = "Buy";
+"sell" = "Sell";
+"enter_amount" = "Enter Amount ";
+"from" = "From :";
+"to" = "To :";
+"qar" = "Qatari Riyal";
+"select" = "Select";
+"convert" = "CONVERT";
+"sel_diff_currency" = "Select a different currency";
+"sel_rec_currency" = "Select a receiving currency";
+"enter_an_amount" = "Enter an amount";
+"not_available" = "Not available";
+"currency_converter" = "Currency Converter";
+
+    //Forgot pin
+"email" = "E-mail";
+"confirm_email" = "Confirm E-mail";
+"id_no" = "ID Number";
+"enter_id_no" = "Enter ID Number";
+"enter_password" = "Enter Password";
+"confirm_password" = "Confirm Password";
+"confirm" = "Confirm";
+"password_mismatch" = "Password mismatch";
+"email_not_registered" = "Email is not registered";
+"check_email_cust_id" = "Check your current E-mail id and Customer Id";
+"otp_expire" = "OTP expired...";
+"forgot_pin" = "Forgot PIN";
+
+    //Homepage
+"home" = "Home";
+"profile" = "Profile";
+"notification" = "Notification";
+"settings" = "Settings";
+"logout" = "Logout";
+"send_money" = "Send Money";
+"my_transactions" = "My Transactions";
+"track_transactions" = "Track Transaction";
+"currency_rate" = "Currency Rate";
+"branches" = "Branches";
+"help" = "Help";
+"want_to_logout" = "Do you really want to Logout ?";
+"no" = "No";
+"whatsapp_not_available" = "WhatsApp Messenger not available in this device...";
+"whatsapp_not_installed" = "WhatsApp not Installed";
+"want_to_exit" = "Do you really want to Exit ?";
+"account_under_verification" = "Your Account is under verification. You can proceed transactions once your account activated. For more information please call customer care.";
+"check_information" = "Checking user information....";
+"u_r_not_allowed" = "You are not allowed to do the remittance transaction";
+"contact_customer_care" = "Please contact customer care on";
+
+"aboutus" = "About Us";
+"faq" = "FAQ";
+"currencyconverter" = "Currency Converter";
+
+    //Register Page
+"identification" = "IDENTIFICATION";
+"security" = "SECURITY";
+"identification_details" = "IDENTIFICATION DETAILS";
+"id_issuer" = "ID Issuer";
+"id_exp_date" = "ID Expiration Date";
+"visa_no" = "Visa Number";
+"visa_issued_date" = "Visa Issued Date";
+"visa_exp_date" = "Visa Expiration Date";
+"next" = "Next";
+"cancel" = "CANCEL";
+"cancel1" = "Cancel";
+"personal_info" = "PERSONAL INFORMATION";
+"fullname_en" = "Full Name in English";
+"fullname_ar" = "Full Name in Arabic (Optional)";
+"dob" = "Date of Birth";
+"nationality" = "Nationality";
+
+"country_residence" = "Country of Residence";
+"municipality" = "Municipality (Optional)";
+"zone" = "Zone";
+"home_addr" = "Home Address (in Qatar Optional)";
+"gender" = "Gender";
+"mobile_no" = "Mobile Number";
+"employer" = "Employer";
+"exp_income" = "Expected Income (Monthly)";
+"work_address" = "Work Address";
+"occupation" = "Occupation";
+"reg_code" = "Registration Code (if Available)";
+"sec_qu2" = "Security Question2";
+"sec_qu3" = "Security Question3";
+"pass_cap" = "PASSWORD";
+"pass_req" = "Password requirements";
+"characters" = "8-16 Characters";
+"uppercase" = "1 Uppercase Letter";
+"lowercase" = "1 Lowercase Letter";
+"num" = "1 Number";
+"retype_pass" = "Retype Password";
+"pin_num" = "PIN (4 Number Digits)";
+"i_agree" = "I agree to the";
+"create_profile" = "Create Profile";
+"read_terms" = "Read terms and conditions";
+"sel_sec_que" = "Please select security question";
+"enter_answer" = "Please enter answer for question";
+"pass_length" = "Password length must be 8-16 characters";
+"pass_must1" = "Password must contain at least 1 Uppercase Letter";
+"pass_must2" = "Password must contain at least 1 Lowercase Letter";
+"pass_must3" = "Password must contain at least 1 number";
+"pin_must" = "PIN must be 4 digit number";
+"agree_to_continue" = "Please agree to the Terms and Conditions to continue";
+"invalid_dob" = "Invalid Date of Birth. User must be above 18 year old";
+"sel_municipality" = "Select a municipality";
+"register" = "Register";
+"sel_id_type" = "Please select ID type";
+"sel_id_issuer" = "Please select ID issuer";
+"enter_id_exp_date" = "Please enter ID expiration date";
+"enter_valid_qid" = "Please enter a valid QID";
+"enter_visa_no" = "Please enter visa number";
+    "enter_visa_exp_date" = "Please enter visa expiration date";
+    "sel_visa_type" = "Please select visa type";
+    "enter_fullname_en" = "Please enter full name in English";
+    "enter_valid_email" = "Please enter a valid E-mail Id";
+    "enter_dob" = "Please enter Date of Birth";
+    "sel_nationality" = "Please select nationality";
+    "enter_addr" = "Please enter address";
+    "enter_city" = "Please enter city";
+    "Select City" = "Select City";
+
+    "sel_country" = "Please select country";
+    "sel_gender" = "Please select gender";
+    "sel_country_code" = "Please select country code";
+    "enter_mobile" = "Please enter mobile number";
+    "enter_employer_name" = "Please enter employer name";
+    "enter_occupation" = "Please enter occupation";
+    "enter_working_address" = "Please enter working address";
+    "enter_exp_income" = "Please enter expected income";
+    "enter_zone" = "Please enter zone";
+    "search_nationality" = "Search nationality";
+    "search_country" = "Search country";
+    "search_gcc" = "Search GCC country";
+    "search" = "Search";
+    "search_municipality" = "Search municipality";
+    "search_zone" = "Search zone";
+    "id_type" = "ID Type";
+    "visa_type" = "Visa Type";
+    "cannot_sel_same_que" = "Cannot Select same question multiple times";
+    "no_other_keyboard" = "No other keyboard found";
+    "validating" = "Validating... Please Wait";
+    "id_exists" = "This ID Number is existing in our system. Please sign in using your ID Number and password";
+    "accept" = "Accept";
+    "Please enter valid name" = "Please enter valid name";
+    "Please enter valid home address" = "Please enter valid home address";
+    "Please enter valid employer" = "Please enter valid employer";
+    "Please enter valid working address" = "Please enter valid working address";
+    "Please enter valid address" = "Please enter valid address";
+
+    
+
+    //Change Password
+    "type_old_password" = "Type old password";
+    "password_requirements" = "Password requirements";
+    "password_req1" = "8-16 Characters";
+    "password_req2" = "1 UPPERCASE letter";
+    "password_req3" = "1 lowercase letter";
+    "password_req4" = "1 Number";
+    "type_new_password" = "Type new password";
+    "re_type_new_password" = "Re-type new Password";
+    "check_your_pin" = "Check your pin";
+    "fill_all_fields" = "Fill all the fields";
+    "password_fields_not_matching" = "Password fields are not matching";
+    "something_went_wrong_try_again" = "Something went wrong...Try again...";
+    "error_check_current_password" = "Error...Check your current password";
+    "error_check_current_email_id" = "Error...Check your current E-mail id";
+    "change_password" = "Change Password";
+
+
+    //Currency Rate
+    "transfer_column" = "Transfer :";
+    "we_sell" = "We Sell :";
+    "we_buy" = "We Buy :";
+
+
+    //Forgot password
+    "id_number" = "ID Number";
+    "enter_id_number" = "Enter ID number";
+    "we_have_send_otp_to_email_mob" = "We've sent an OTP to your registered E-mail and mobile number";
+    "please_enter_otp" = "Please enter OTP";
+    "emails_not_matching" = "Emails are not matching";
+    "check_current_email_customer_id" = "Error...Check your current E-mail id and Customer Id";
+    "error_try_again" = "Error...Try again";
+    "forgot_password" = "Forgot Password ?";
+
+    //Help page
+    "customer_support" = "Customer Support";
+    "email_us" = "Email Us";
+    "call_us" = "Call Us";
+    "verification_location" = "Verification Location";
+    "choose_email_client" = "Choose an Email client :";
+    "no_email_clients" = "There are no email clients installed";
+    "no_whatsapp_messenger" = "WhatsApp Messenger not available in this device";
+
+    //Help page1
+    "please_call_cc" = "Please call customer care number :";
+    "call" = "call";
+    "or_email" = "Or Email us on :";
+    "send_email" = "send email";
+    "select_phone_number" = "Select a phone number";
+
+    //Locations
+    "locations" = "Locations";
+    "turn_on_location" = "Turn on location";
+
+    //Login
+    "already_customer" = "Already a customer ?";
+    "log_in" = "LOG IN";
+    "sign_in" = "SIGN IN";
+    "forgot_pwd_click" = "Forgot Password ? Click";
+    "forgot_pin_click" = "Forgot PIN ? Click";
+    "here" = "HERE";
+    "or" = "OR";
+    "pls_register" = "Please Register";
+    "pls_enter_valid_pin" = "Please enter a valid PIN";
+    "do_you_want_exit" = "Do you really want to Exit ?";
+    "enable_network" = "Enable network";
+    "loc_settings_inadequate" = "Location settings are inadequate, and cannot be fixed here. Fix in Settings.";
+    "checking_user_info" = "Checking user information...";
+    "wrong_login_info" = "Sorry, the information that you \n entered are not match with our \n existing information";
+    "try_after_ten" = "Too many attempts,\n Try after 10 minutes";
+    "qatar_login_only" = "Sorry! \n Our Online Money Transfer Services can be only used in Qatar.";
+    "no_vpn_network" = "Sorry! \n VPN enabled network is not supported.";
+    "permanent_lock" = "Your login account is permanently locked.\n Please contact customer care";
+    "loc_not_available_error" = "Your location not available.\n Check your location service and try again";
+    "multiple_login" = "Same user is already logged in the system. \n You cannot login from multiple devices";
+
+    //My Transaction List
+    "from_date" = "From Date";
+    "to_date" = "To Date";
+    "go" = "GO";
+    "search_ref_no" = "Search Reference No...";
+    "no_transaction_available" = "No transaction available";
+    "get_statement" = "GET STATEMENT";
+    "enter_valid_ref_no" = "Enter a valid reference number";
+    "no_data_available" = "No data available";
+
+    //Notifications
+    "no_notifications" = "No new notifications";
+    "notifications" = "Notifications";
+
+    //Profile
+    "full_name_eng" = "Full Name in English";
+    "full_name_arabic" = "Full Name in Arabic";
+    "country_of_residence" = "Country of Residence";
+    "address" = "Address";
+    "mob_no" = "Mobile Number";
+    "working_add" = "Work Address";
+    "back" = "BACK";
+
+    //Reset password
+    "re_type_password" = "Re-Type Password";
+    "passwords_not_matching" = "Passwords are not matching";
+    "password_reset_success" = "Your password is reset successfully";
+    "password_reset_fail" = "Your password is not reset";
+    "reset_password" = "Reset Password";
+
+    //Reset PIN
+    "new_pin" = "New PIN";
+    "re_type_new_pin" = "Re-Type new PIN";
+    "pin_reset_fail" = "Your PIN is not reset";
+    "reset_pin" = "Reset PIN";
+
+    //Select Language
+    "select_language" = "Change Language";
+//    "select_language" = "Select Language";
+    "select_cap" = "SELECT";
+
+    //settings
+    "change_email_settings" = "Change E-mail";
+    "change_pin_settings" = "Change PIN";
+    "change_password_settings" = "Change Password";
+    "change_security_settings" = "Change Security Question";
+    "change_mobile_settings" = "Change Mobile Number";
+
+    //Take Photo
+    "photo_id_front" = "Please take a photo of your ID (front)";
+    "confirm_pic" = "CONFIRM";
+    "discard_pic" = "DISCARD";
+    "register_pic" = "REGISTER";
+    "permission_reqd" = "Permission Required";
+    "cam_permission_reqd" = "Camea permission is required to move forward.";
+    "loading_image" = "Loading image....";
+    "photo_id_back" = "Please take a photo of your ID (back)";
+    "this_permission_reqd" = "This permission is required";
+    "photo_selfie" = "Please take a selfie holding your ID";
+
+    //Track Transaction
+    "tt_no" = "TT No:";
+    "date" = "Date:";
+    "enter_ref_no" = "Please enter your reference number";
+    "track_transaction" = "Track Transaction";
+
+    //Transaction Details
+    "firstname" = "FIRST NAME";
+    "lastname" = "LAST NAME";
+
+
+    "address1" = "ADDRESS";
+    "city1" = "CITY";
+    "mob_no1" = "Mobile No.";
+    "bank_name1" = "BANK NAME";
+    "branch_name1" = "BRANCH NAME";
+    "acc_no_iban1" = "A/C NO / IBAN";
+    "swift_code1" = "SWIFT CODE";
+    "relationship1" = "RELATIONSHIP";
+    "track1" = "TRACK";
+    "transaction_details" = "Transaction Details";
+    "firstname_sm" = "First Name";
+    "lastname_sm" = "Last Name";
+    "address1_sm" = "Address";
+    "city1_sm" = "City";
+    "mob_no1_sm" = "Mobile no";
+    "bank_name1_sm" = "Bank Name";
+    "branch_name1_sm" = "Branch Name";
+    "acc_no_iban1_sm" = "A/C NO / IBAN";
+    "swift_code1_sm" = "Swift code";
+    "relationship1_sm" = "Relationship";
+    "track1_sm" = "TRACK";
+    "transaction_details_sm" = "Transaction Details";
+
+    //Other XML Layouts
+    "country_name" = "Country Name";
+    "search1" = "Search";
+    "see_price" = "SEE PRICE";
+    "select_gender" = "Select Gender";
+    "male" = "Male";
+    "female" = "Female";
+    "ok" = "OK";
+    "show_details" = "SHOW DETAILS";
+    "network_not_available" = "Network not available ...!\n Enable Network and Try again";
+
+
+    //Register Page1
+    "u_r_almost_done" = "You're almost done!";
+    "we_have_sent_otp" = "We\'ve sent an OTP to your registered E-mail and Mobile Number. Please check your Inbox/Messages to complete the registration process.";
+    "pls_enter_otp" = "Please Enter OTP Number";
+    "otp" = "OTP NUMBER";
+    "getting_images" = "Getting images...";
+    "registering_customer" = "Registering new customer...";
+    "invalid_otp" = "Invalid OTP";
+
+    //Register Page2
+
+    "reg_request" = "Great! Your registration request has been initiated successfully";
+    "acc_verif" = "Your account is under verification";
+    "acc_acti" = "Once your account is activated, you will be notified by an E-mail and notification and";
+    "u_will_able" = "you will be able to process transactions";
+
+    //Remittance Page1
+    "sel_payment_mode" = "SELECT PAYMENT MODE";
+    "cash_pickup" = "Cash Pickup";
+    "acc_transfer" = "ACCOUNT TRANSFER";
+    "enter_rece_info" = "ENTER THE NEW RECEIVER INFORMATION";
+    "country" = "COUNTRY";
+    "address_cap" = "ADDRESS";
+    "mobile_no1" = "MOBILE NUMBER";
+    "exch_compny" = "EXCHANGE COMPANY OR BANK";
+    "enter_new_rece" = "ENTER THE NEW RECEIVER INFORMATION";
+    "first_name1" = "FIRST NAME (AS PER BANK)";
+    "lastname1" = "LAST NAME (AS PER BANK)";
+    "acc_no1" = "Account Number";
+    "iban1" = "IBAN";
+    "sort_code1" = "SORT CODE";
+    "routing_code1" = "ROUTING CODE";
+    "ifsc_code1" = "IFSC CODE";
+    "other_info1" = "OTHER INFORMATION";
+    "save_next" = "SAVE AND NEXT";
+    "sel_bank" = "Please Select Bank";
+    "enter_firstname" = "Please Enter First Name";
+    "enter_lastname" = "Please Enter Last Name";
+    "enter_bank_name" = "Please Enter Bank Name";
+    "enter_branch_name" = "Please Enter Branch Name";
+    "enter_address" = "Please Enter Address";
+    "enter_account" = "Please Enter Account Number";
+    "enter_iban" = "Please Enter IBAN";
+    "enter_swift_code" = "Please Enter Swift Code";
+    "enter_sort_code" = "Please Enter Sort Code";
+    "enter_routing_code" = "Please Enter Routing Code";
+    "enter_ifsc" = "Please Enter IFSC Code";
+    "sel_source" = "Please Select Source of Fund";
+    "sel_purpose" = "Please Select Purpose of Transaction";
+    "sel_relation" = "Please Select Relationship";
+    "pls_agree" = "Please Agree to the Terms and Conditions to Continue";
+    "remittance" = "Remittance";
+    "sel_existing_rece" = "SELECT AN EXISTING RECEIVER";
+"no_ben_added" = "No Beneficiary added";
+    "no_country" = "No Country Found";
+    "no_bank" = "No Banks Found";
+    "source1" = "SOURCE OF FUNDS";
+    "purpose1" = "PURPOSE OF TRANSACTION";
+    "coming_soon" = "Coming Soon";
+    "Please enter valid account number" = "Please enter valid account number";
+
+    "Please enter valid mobile number" = "Please enter valid mobile number";
+
+   "entermiddlename" = "Please Enter Middle Name";
+     
+   "GENDERR" = "GENDER";
+   "nationalityy" = "NATIONALITY";
+
+   "SERVICEPROVIDER" = "Service Provider";
+   "MOBILEOPERATOR" = "MOBILE OPERATOR";
+
+"middlename1" = "MIDDLE NAME (AS PER BANK)";
+"servicetype" = "SERVICE TYPE";
+
+
+    //Remittance Page2
+
+    "sending_amount" = "Sending Amount";
+    "recipient_receivers" = "RECIPIENT RECEIVERS";
+    "receiving_amount" = "Receiving Amount";
+    "rate" = "RATE";
+    "want_pay" = "HOW DO YOU WANT TO PAY";
+    "debit_card" = "DEBIT CARD (NAPS)";
+    "do_you_have_promo" = "DO YOU HAVE A PROMO CODE?";
+    "enter_promo_code" = "ENTER PROMO CODE";
+    "apply" = "APPLY";
+    "transfer_amount" = "Transfer Amount";
+    "transfer_fee" = "Transfer Fee";
+    "promo_code" = "Promo Code";
+    "total" = "Total";
+    "enter_amount1" = "Please Enter Amount to send";
+    "enter_card_no" = "Please Enter Card Number";
+    "card_holder" = "Please Enter Card Holder Name";
+    "enter_exp_date" = "Please Enter Expiration Date";
+    "enter_valid_amount" = "Please Enter a valid Amount greater than 0";
+
+
+    //Remittance Page3
+    "pls_review" = "PLEASE REVIEW YOUR REQUEST";
+    "amount1" = "AMOUNT";
+    "amount1_sm" = "Amount";
+
+    //Remittance Page4
+
+    "we_have_sent1" = "We\'ve sent an OTP to your registered E-mail and Mobile Number";
+    "remittance_not_allowed" = "Remittance Transaction is not allowed, Please contact customer care";
+    "verifying" = "Verifying Please Wait";
+
+    //Remittance Page5
+    "payment" = "Payment";
+    //Remittance Page6
+    "remittance1" = "REMITTANCE";
+    "transaction_success" = "Transaction sent successfully!";
+    "transaction_success1" = "Great! Your transaction has been sent successfully.\n\n Your transaction number is:";
+    "ref_no" = "PUN/Remittance Reference No:";
+    "u_can_track" = "You can track your transaction by clicking on:";
+    "track2" = "TRACK TRANSACTION";
+    "main_menu1" = "MAIN MENU";
+    "date_transaction" = "Date Of Transaction";
+    "transaction_amount" = "Transaction Amount";
+    "payment_status" = "Payment Status : Success";
+    "transaction_failed" = "Transaction Failed!";
+    "payment_completed" = "Payment completed successfully.\n\n Beneficiary validation error!. \nPlease contact your Customer care.";
+    "transaction_failed1" = "Unfortunately your transaction has been failed.\n Your transaction number is:";
+    "payment_status1" = "Payment Status : Failed";
+    "transaction_canceled" = "Transaction Canceled!";
+    "transaction_canceled1" = "Your transaction has been canceled.";
+    "sel_visa_issued_date" = "Please select visa issued date";
+    "delete_notification" = "Do you really want to delete the notification ?";
+    "notification_deleted" = "Notification deleted";
+    "notification_not_deleted" = "Notification not deleted";
+
+    "change_language_settings" = "Change Language Settings";
+    "pls_update_profile" = "Please update your profile";
+    "delete" = "DELETE";
+    "want_to_delete_beneficiary" = "Do you really want to delete beneficiary details";
+    "ben_deleted" = "Beneficiary details deleted";
+    "enter_municipality" = "Enter Municipality";
+    "i_checked" = "I checked the account information";
+    "confirm_account" = "Please review your account and information and confirm";
+    "check_cust_id_password_email" = "Check your current Customer id,Password and E-mail id";
+    "transaction_hold" = "Your transaction is on hold. \nPlease contact customer care";
+    "transaction_initiated" = "Transaction initiated";
+    "under_process" = "Your transaction is under process";
+    "pin_error" = "Pin must be 4 digit number";
+    "powered_by" = "Powered by";
+
+    "confirm_reg_details" = "Please confirm entered registration details";
+    "enter_valid_mob" = "Mobile number must contain 8 digits";
+    "commission" = "COMMISSION";
+    "commission_sm" = "Commission";
+    "sent_successfully" = "Sent Successfully";
+    "pending" = "Pending";
+    "id_front" = "Id card front side photo";
+    "id_back" = "Id card backside photo";
+    "profile_photo" = "Profile photo with id card";
+    "location_fetch" = "Fetching your location. Please wait";
+    "failed" = "Failed";
+    "under_process1" = "Under Process";
+    "total_amount" = "TOTAL AMOUNT";
+    "total_amount_sm" = "Total amount";
+    "update" = "UPDATE";
+    "gulf_exchange" = "Gulf Exchange";
+    "enablebiometric" = "Enable Biometric Authentication";
+"doyouenablebiometric" = "Do you want to enable Biometric authentication in this application";
+"dualnationality" = "Second Nationality (Optional)";
+"seldualnationality" = "Select Dual Nationality";
+"BankTransfer" = "Bank Transfer";
+"Email" = "Email";
+"ActualOccupation" = "Actual Occupation";
+"IDExpiry" = "ID Expiry";
+"SelfieWithID" = "SelfieSelfie with ID";
+"IDFront" = "ID Front";
+"IDBack" = "ID Back";
+"UserBranch" = "User Branch";
+"Street" = "Street";
+"BuildingNumber" = "Building Number";
+"Feedback" = "Feedback";
+"BlockAccount" = "Block Account";
+"More" = "More";
+"CurrentPin" = "Current PIN";
+"ConfirmPin" = "Confirm PIN";
+"1Special Characters" = "1 Special Characters";
+"Pin" = "Pin";
+"ConfirmPassword" = "Confirm Password";
+"NewPassword" = "New Password";
+"CurrentPassword" = "Current Password";
+"block" = "Block";
+"blockQuestion" = "Are you sure you want to block your account? To unblock your account please contact our customer support";
+"sortByDate" = "Sort by Date";
+"from1" = "From";
+"to1" = "To";
+"transactionType" = "Transaction Type";
+"date1" = "Date";
+"Status" = "Status";
+"sendAgain" = "Send Again";
+"download" = "Download";
+"details" = "Details";
+"youPaid" = "You Paid";
+"theyReceived" = "They Received";
+"track2" = "Track";
+"transferDetails" = "Transfer Details";
+"paymentReferenceNumber" = "Payment Reference Number";
+"date&Time" = "Date & Time";
+"collectionRef" = "Collection Ref";
+"paidAmount" = "Paid In Amount";
+"senderInformation" = "Sender Information";
+"name" = "Name";
+"beneficiaryInformation" = "Beneficiary Information";
+"countryT" = "Country";
+"contact" = "Contact";
+"receiveType" = "Receive Type";
+"collectionPoint" = "Collection Point/Bank";
+"transferInformation" = "Transfer Information";
+"receiveAmount" = "Receive Amount";
+"exchangeRate" = "Exchange Rate";
+"share" = "Share";
+"enternewpassword" = "Enter New Password";
+"confirmnewpassword" = "Confirm New Password";
+"Yourpasswordmustcontainatleast" = "Your password must contain";
+"SetaNewPassword" = "Set a New Password";
+"Create a new password ensure it differ" = "Create a new password that is different from previous ones for added security";
+"Entercurrentpassword" = "Enter current password";
+"SetaNewPIN" = "Set a New PIN";
+"SaveDetails" = "Save Details";
+"Create a new PIN ensure it differs from previous ones for security" = "Create a new PIN that is different from previous ones for added security";
+"CurrentEmail" = "Current Email";
+"NewEmail" = "New Email";
+"ConfirmNewEmail" = "Confirm New Email";
+"Set a New Email" = "Set a New Email";
+"Create a new Email ensure it differs from previous ones for security" = "Create a new Email that is different from previous ones for added security";
+"Mobile Wallet" = "Mobile Wallet";
+"Mobile Wallet Transfer" = "Mobile Wallet Transfer";
+"See All" = "See All";
+"Quick Access" = "Quick Access";
+"Rate Calculater" = "Rate Calculater";
+"Beneficiaries" = "Beneficiaries";
+"Master Card" = "Master Card";
+"Exhange rates are indicatve and are subject to change" = "*Exchange rates are indicative and are subject to change";
+"Send" = "Send";
+"Gold Rate" = "Gold/FC Rate";
+"Our Partners" = "Our partners";
+"Golalita Rewards" = "Golalita rewards";
+"Special Offers" = "Special Offers";
+"Loyalty Points" = "Loyalty Points";
+"Services" = "Services";
+"Address1" = "Address 1";
+"Address2" = "Address 2";
+"Sign in to continue" = "Sign in to continue";
+"Don’t have an account ?" = "Don’t have an account ?";
+"You have no notifications" = "You have no notifications";
+"Your notifications will appear here when they arrive." = "Your notifications will appear here when they arrive.";
+"Continue" = "Continue";
+"Login successful!" = "Login successful!";
+"Welcome Back" = "Welcome Back";
+"Find the nearest branch" = "Find the nearest branch";
+"If you would like to visit us, please locate the nearest branch" = "If you would like to visit us, please locate the nearest branch";
+"Email us on" = "Email us on";
+
+"customercare@gulfexchange.com.qa" = "customercare@gulfexchange.com.qa
+Please include your mobile number in the mail";
+
+ 
+
+"Let’s Whatsapp" = "Let’s Whatsapp";
+"Gulf Exchange Company" = "Gulf Exchange Company";
+"Ali Bin Abdullah St, Old Al Ghanim" = "Ali Bin Abdullah St, Old Al Ghanim";
+"Locate Branch" = "Locate Branch";
+"Wallet Transfer" = "Wallet Transfer";
+"Mobile" = "Mobile";
+"Branch" = "Branch";
+"Branch Code" = "Branch Code";
+"Bank" = "Bank";
+"Account No." = "Account No.";
+"Purpose" = "Purpose";
+"Income Source" = "Income Source";
+"Verify" = "Verify";
+"Source" = "Source";
+"Download Receipt" = "Download Receipt";
+
+"Registration completed successfully!" = "Registration completed successfully!";
+"Welcome," = "Welcome";
+
+"Take a selfie while holding your ID." = "Take a selfie while holding your ID.";
+"Record a 3-second video of yourself blinking while holding your ID." = "Record a 3-second video of yourself blinking while holding your ID.";
+
+"You're almost there!" = "You're almost there!";
+"otpmesssage" = "We've sent an OTP to your mobile number. Please check your messages to complete the registration process.";
+"passwordmesssage" = "Make your password stronger by using a mix of letters, numbers, and special characters.";
+
+"The back of the card was scanned successfully." = "The back of the card was scanned successfully.";
+"The front of the card was scanned successfully." = "The front of the card was scanned successfully.";
+"Please scan both sides of your Id card" = "Please scan both sides of your Id card";
+
+"Please scan both sides of your Id card" = "Please scan both sides of your Id card";
+"Scan Your ID" = "Scan Your ID";
+"Scan ID" = "Scan ID";

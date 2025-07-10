@@ -1,0 +1,24 @@
+{
+  "originHash" : "a940e8e3be387786b3af1077abafd4a593c5980943c162890307afeeeebdedd7",
+  "pins" : [
+    {
+      "identity" : "digitentryview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/iAmrMohamed/DigitEntryView.git",
+      "state" : {
+        "revision" : "00a1d4aa08103e168155da05cc20f3c2c394155c",
+        "version" : "1.0.3"
+      }
+    },
+    {
+      "identity" : "lottie-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airbnb/lottie-spm.git",
+      "state" : {
+        "revision" : "04f2fd18cc9404a0a0917265a449002674f24ec9",
+        "version" : "4.5.2"
+      }
+    }
+  ],
+  "version" : 3
+}

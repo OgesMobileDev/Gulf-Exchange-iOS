@@ -1,0 +1,1051 @@
+
+/* Class = "UITextField"; placeholder = "ACCOUNT NUMBER"; ObjectID = "00y-mY-YDP"; */
+"00y-mY-YDP.placeholder" = "Nambari ya Akaunti";
+
+/* Class = "UILabel"; text = "Occupation"; ObjectID = "02N-oG-413"; */
+"02N-oG-413.text" = "Kazi";
+
+/* Class = "UITextField"; placeholder = "Re-type new PIN"; ObjectID = "02v-Zn-fQt"; */
+"02v-Zn-fQt.placeholder" = "Andika aina mpya ya PIN";
+
+/* Class = "UILabel"; text = "0.00 QAR"; ObjectID = "06F-p9-OY2"; */
+"06F-p9-OY2.text" = "0.00 QAR";
+
+/* Class = "UILabel"; text = "Currency Rate"; ObjectID = "0xZ-dg-2gH"; */
+"0xZ-dg-2gH.text" = "Kiwango cha Fedha";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "1AX-Va-Bur"; */
+"1AX-Va-Bur.placeholder" = "Nywila";
+
+/* Class = "UIButton"; normalTitle = "LOG IN"; ObjectID = "1Sc-gP-CAm"; */
+"1Sc-gP-CAm.normalTitle" = "Ingia";
+
+/* Class = "UILabel"; text = "Notification"; ObjectID = "1jZ-DK-gg3"; */
+"1jZ-DK-gg3.text" = "Arifu";
+
+/* Class = "UITextField"; placeholder = "Enter E-mail"; ObjectID = "1yc-iD-fHq"; */
+"1yc-iD-fHq.placeholder" = "Ingiza barua-pepe";
+
+/* Class = "UITextField"; placeholder = "Enter Password"; ObjectID = "2D5-uG-cdP"; */
+"2D5-uG-cdP.placeholder" = "Ingiza Nywila";
+
+/* Class = "UILabel"; text = "Relationship"; ObjectID = "2H7-lO-h0d"; */
+"2H7-lO-h0d.text" = "Mahusiano";
+
+/* Class = "UILabel"; text = "0.00 QAR"; ObjectID = "2OP-Sq-VuR"; */
+"2OP-Sq-VuR.text" = "0.00 QAR";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "2Qp-5H-hBU"; */
+"2Qp-5H-hBU.text" = "Nywila";
+
+/* Class = "UILabel"; text = "My  Transactions"; ObjectID = "330-4b-h5Y"; */
+"330-4b-h5Y.text" = "Uuzaji wangu";
+
+/* Class = "UILabel"; text = "4438 3293"; ObjectID = "34k-u6-qER"; */
+"34k-u6-qER.text" = "4438 3293";
+
+/* Class = "UITextField"; placeholder = "MOBILE NUMBER"; ObjectID = "3Iv-L0-xGu"; */
+"3Iv-L0-xGu.placeholder" = "NAMBA YA SIMU YA MKONONI";
+
+/* Class = "UIButton"; normalTitle = "HERE"; ObjectID = "3Rp-ZO-uKX"; */
+"3Rp-ZO-uKX.normalTitle" = "HAPA";
+
+/* Class = "UILabel"; text = "Already a customer ?"; ObjectID = "3Y3-QF-ctx"; */
+"3Y3-QF-ctx.text" = "Tayari mteja?";
+
+/* Class = "UILabel"; text = "Transfer :"; ObjectID = "3gu-0B-CH2"; */
+"3gu-0B-CH2.text" = "Uhamisho :";
+
+/* Class = "UILabel"; text = "HOW DO YOU WANT TO PAY"; ObjectID = "44Q-Bq-U34"; */
+"44Q-Bq-U34.text" = "UNAFANYA GANI KUPATA";
+
+/* Class = "UILabel"; text = "AMOUNT"; ObjectID = "479-xH-HYL"; */
+"479-xH-HYL.text" = "kiasi";
+
+/* Class = "UITextField"; placeholder = "Re-type new E-mail"; ObjectID = "49h-Bt-Xjh"; */
+"49h-Bt-Xjh.placeholder" = "Andika barua pepe mpya";
+
+/* Class = "UILabel"; text = "ID Number"; ObjectID = "4IK-Fb-GG2"; */
+"4IK-Fb-GG2.text" = "Nambari ya kitambulisho";
+
+/* Class = "UITextField"; placeholder = "Type new PIN"; ObjectID = "4PZ-Xe-rxU"; */
+"4PZ-Xe-rxU.placeholder" = "Andika PIN mpya";
+
+/* Class = "UILabel"; text = "Date of birth"; ObjectID = "4QY-qq-Ndr"; */
+"4QY-qq-Ndr.text" = "Tarehe ya kuzaliwa";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "4SK-do-TW1"; */
+"4SK-do-TW1.text" = "Anwani";
+
+/* Class = "UILabel"; text = "DEBIT CARD(NAPS)"; ObjectID = "4Uz-Hq-2gj"; */
+"4Uz-Hq-2gj.text" = "DUKA LA DEBIT(NAPS)";
+
+/* Class = "UILabel"; text = "Forgot Password ? Click"; ObjectID = "4fW-dx-juX"; */
+"4fW-dx-juX.text" = "Umesahau nywila ? Bonyeza";
+
+/* Class = "UITextField"; placeholder = "Full Name in Arabic"; ObjectID = "4mh-aK-1Zd"; */
+"4mh-aK-1Zd.placeholder" = "Jina kamili katika Kiarabu";
+
+/* Class = "UILabel"; text = "Change PIN"; ObjectID = "4r5-dI-UYP"; */
+"4r5-dI-UYP.text" = "Badilisha PIN";
+
+/* Class = "UITextField"; placeholder = "New PIN"; ObjectID = "5SK-6Y-M8s"; */
+"5SK-6Y-M8s.placeholder" = "Pini mpya";
+
+/* Class = "UILabel"; text = "ADDRESS"; ObjectID = "5Ty-Ra-KBJ"; */
+"5Ty-Ra-KBJ.text" = "TAFAKARI";
+
+/* Class = "UITextField"; placeholder = "Country of residence"; ObjectID = "5vK-4W-qy0"; */
+"5vK-4W-qy0.placeholder" = "Nchi ya Makazi";
+
+/* Class = "UITextField"; placeholder = "QAR"; ObjectID = "61R-xB-skb"; */
+"61R-xB-skb.placeholder" = "QAR";
+
+/* Class = "UILabel"; text = "Branch Name"; ObjectID = "6Xh-iV-Gcq"; */
+"6Xh-iV-Gcq.text" = "Jina la tawi";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "6gb-2q-RjB"; */
+"6gb-2q-RjB.normalTitle" = "BONYEZA";
+
+/* Class = "UILabel"; text = "Or Email us on"; ObjectID = "6rQ-2G-ZRe"; */
+"6rQ-2G-ZRe.text" = "Au tutumie barua pepe";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "7nR-Jx-8BN"; */
+"7nR-Jx-8BN.text" = "Kuhusu sisi";
+
+/* Class = "UIButton"; normalTitle = "CALL"; ObjectID = "8Cc-Ds-vt0"; */
+"8Cc-Ds-vt0.normalTitle" = "WITO";
+
+/* Class = "UILabel"; text = "1 Number"; ObjectID = "8jk-i7-bpf"; */
+"8jk-i7-bpf.text" = "Nambari 1";
+
+/* Class = "UILabel"; text = "1 UPPERCASE letter"; ObjectID = "9LG-qc-igJ"; */
+"9LG-qc-igJ.text" = "Barua 1 ya UPPERCASE";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9Oi-k5-DNM"; */
+"9Oi-k5-DNM.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "9Qh-sr-iSm"; */
+"9Qh-sr-iSm.title" = "Mipangilio";
+
+/* Class = "UITextField"; placeholder = "Nationality"; ObjectID = "A5d-gX-qam"; */
+"A5d-gX-qam.placeholder" = "Utaifa";
+
+/* Class = "UIButton"; normalTitle = "CONFIRM"; ObjectID = "AE4-Y5-7ET"; */
+"AE4-Y5-7ET.normalTitle" = "MAHUSIANO";
+
+/* Class = "UILabel"; text = "Branches"; ObjectID = "AF6-rY-Vw9"; */
+"AF6-rY-Vw9.text" = "Matawi";
+
+/* Class = "UIButton"; normalTitle = "SEND EMAIL"; ObjectID = "AVW-VO-ggE"; */
+"AVW-VO-ggE.normalTitle" = "KUTUMA BARUA PEPE";
+
+/* Class = "UIButton"; normalTitle = "MAIN MENU"; ObjectID = "Adq-9f-w6m"; */
+"Adq-9f-w6m.normalTitle" = "Menyu kuu";
+
+/* Class = "UILabel"; text = "Zone"; ObjectID = "AgO-oe-OzV"; */
+"AgO-oe-OzV.text" = "Eneo";
+
+/* Class = "UILabel"; text = "Change Mobile Number"; ObjectID = "Aob-m2-bbf"; */
+"Aob-m2-bbf.text" = "Badilisha Nambari ya rununu";
+
+/* Class = "UILabel"; text = "1 Number"; ObjectID = "AvE-fD-JuE"; */
+"AvE-fD-JuE.text" = "Nambari 1";
+
+/* Class = "UITextField"; placeholder = "Select"; ObjectID = "BBe-Y4-IiS"; */
+"BBe-Y4-IiS.placeholder" = "Chagua";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "BCE-s7-Bu5"; */
+"BCE-s7-Bu5.text" = "kiasi";
+
+/* Class = "UIButton"; normalTitle = "SAVE DETAILS"; ObjectID = "BU3-01-wIm"; */
+"BU3-01-wIm.normalTitle" = "Hifadhi maelezo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "CAT-Fr-lbc"; */
+"CAT-Fr-lbc.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "CONFIRM"; ObjectID = "Cli-4S-k4X"; */
+"Cli-4S-k4X.normalTitle" = "MAHUSIANO";
+
+/* Class = "UILabel"; text = "Full Name in English"; ObjectID = "D8C-Pz-Tfa"; */
+"D8C-Pz-Tfa.text" = "Jina kamili kwa Kiingereza";
+
+/* Class = "UILabel"; text = "CITY"; ObjectID = "DfH-FY-D41"; */
+"DfH-FY-D41.text" = "Mji";
+
+/* Class = "UIButton"; normalTitle = "Resend OTP"; ObjectID = "DoH-t7-lnP"; */
+"DoH-t7-lnP.normalTitle" = "Tuma tena OTP";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "E0q-jM-X6r"; */
+"E0q-jM-X6r.normalTitle" = "Ifuatayo";
+
+/* Class = "UIButton"; normalTitle = "SEE PRICE"; ObjectID = "E9M-S5-tVW"; */
+"E9M-S5-tVW.normalTitle" = "TAZAMA PRICE";
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "EYJ-eo-and"; */
+"EYJ-eo-and.placeholder" = "Anwani";
+
+/* Class = "UILabel"; text = "Full Name in Arabic"; ObjectID = "EZL-HA-wIU"; */
+"EZL-HA-wIU.text" = "Jina kamili katika Kiarabu";
+
+/* Class = "UITextField"; placeholder = "Date of birth"; ObjectID = "Eki-nR-2MU"; */
+"Eki-nR-2MU.placeholder" = "Tarehe ya kuzaliwa";
+
+/* Class = "UILabel"; text = "AMOUNT"; ObjectID = "GAV-DC-ocm"; */
+"GAV-DC-ocm.text" = "kiasi";
+
+/* Class = "UILabel"; text = "Country of residence"; ObjectID = "H4E-gS-qUe"; */
+"H4E-gS-qUe.text" = "Nchi ya Makazi";
+
+/* Class = "UIButton"; normalTitle = "BANK NAME"; ObjectID = "HDP-5M-Jd0"; */
+"HDP-5M-Jd0.normalTitle" = "JINA LA BENKI";
+
+/* Class = "UILabel"; text = "Commission"; ObjectID = "HTH-yl-m7a"; */
+"HTH-yl-m7a.text" = "Tume";
+
+/* Class = "UITextField"; placeholder = "SWIFT CODE"; ObjectID = "Hg0-If-tPU"; */
+"Hg0-If-tPU.placeholder" = "KIWANGO CHA SIFT";
+
+/* Class = "UILabel"; text = "Relationship"; ObjectID = "HmI-pr-2KD"; */
+"HmI-pr-2KD.text" = "Mahusiano";
+
+/* Class = "UITextField"; placeholder = "Expected Income(Monthly)"; ObjectID = "I3C-Ul-2OX"; */
+"I3C-Ul-2OX.placeholder" = "Mapato yanayotarajiwa (kila mwezi)";
+
+/* Class = "UIButton"; normalTitle = "REGISTER"; ObjectID = "IFm-Y1-Uv7"; */
+"IFm-Y1-Uv7.normalTitle" = "KUSAIDIA";
+
+/* Class = "UITextField"; placeholder = "Re-type new PIN"; ObjectID = "IH3-7p-y9J"; */
+"IH3-7p-y9J.placeholder" = "Andika aina mpya ya PIN";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "IKu-zh-oDs"; */
+"IKu-zh-oDs.placeholder" = "Namba ya simu ya mkononi";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "Idj-Ne-kv9"; */
+"Idj-Ne-kv9.text" = "Ondoka";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "Ihl-CO-ctL"; */
+"Ihl-CO-ctL.text" = "Barua pepe";
+
+/* Class = "UITextField"; placeholder = "ROUTING CODE"; ObjectID = "IqA-TX-GBl"; */
+"IqA-TX-GBl.placeholder" = "NJIA YA KUPATA";
+
+/* Class = "UITextField"; text = "974"; ObjectID = "J9C-j5-xtP"; */
+"J9C-j5-xtP.text" = "974";
+
+/* Class = "UIButton"; normalTitle = "SAVE DETAILS"; ObjectID = "JCr-JI-aYM"; */
+"JCr-JI-aYM.normalTitle" = "Hifadhi maelezo";
+
+/* Class = "UIButton"; normalTitle = "ID Issuer"; ObjectID = "JKN-U8-0RC"; */
+"JKN-U8-0RC.normalTitle" = "Kitambulisho cha kitambulisho";
+
+/* Class = "UILabel"; text = "Bank Name"; ObjectID = "JnN-ei-XHy"; */
+"JnN-ei-XHy.text" = "Jina la benki";
+
+/* Class = "UILabel"; text = "SELECT PAYMENT MODE"; ObjectID = "JtZ-rO-jHF"; */
+"JtZ-rO-jHF.text" = "BONYEZA MUDA WA kulipa";
+
+/* Class = "UILabel"; text = "DO YOU HAVE A PROMO CODE"; ObjectID = "Juy-1X-998"; */
+"Juy-1X-998.text" = "JE UNA CODE YA PROMO";
+
+/* Class = "UIButton"; normalTitle = "Resend OTP"; ObjectID = "K6f-6v-7p3"; */
+"K6f-6v-7p3.normalTitle" = "Tuma tena OTP";
+
+/* Class = "UIButton"; normalTitle = "Nationality"; ObjectID = "K97-Ic-mAX"; */
+"K97-Ic-mAX.normalTitle" = "Utaifa";
+
+/* Class = "UILabel"; text = "Mobile Number"; ObjectID = "KGJ-lh-8T7"; */
+"KGJ-lh-8T7.text" = "Namba ya simu ya mkononi";
+
+/* Class = "UILabel"; text = "FIRST NAME(AS PER BANK)"; ObjectID = "KH2-xB-7hK"; */
+"KH2-xB-7hK.text" = "JINA LA KWANZA (KAMA PER BANK)";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "KMy-Pa-c5f"; */
+"KMy-Pa-c5f.text" = "au";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "KmH-HT-sfL"; */
+"KmH-HT-sfL.text" = "Jina la familia";
+
+/* Class = "UITextField"; placeholder = "Type old PIN"; ObjectID = "KtT-6U-WsY"; */
+"KtT-6U-WsY.placeholder" = "Andika PIN ya zamani";
+
+/* Class = "UITextField"; placeholder = "Gender"; ObjectID = "LKQ-6E-aMi"; */
+"LKQ-6E-aMi.placeholder" = "Jinsia";
+
+/* Class = "UILabel"; text = "Email us"; ObjectID = "Lpi-yH-JA1"; */
+"Lpi-yH-JA1.text" = "Tutumie barua pepe";
+
+/* Class = "UITextField"; text = "974"; ObjectID = "MHE-RM-GFp"; */
+"MHE-RM-GFp.text" = "974";
+
+/* Class = "UITextField"; placeholder = "Search Reference No"; ObjectID = "MIB-Hi-YNi"; */
+"MIB-Hi-YNi.placeholder" = "Rejeleo la Hapana";
+
+/* Class = "UIButton"; normalTitle = "SEND OTP"; ObjectID = "MT6-RX-Ite"; */
+"MT6-RX-Ite.normalTitle" = "TUMA OTP";
+
+/* Class = "UILabel"; text = "MOBILE NUMBER"; ObjectID = "Mek-oy-sYz"; */
+"Mek-oy-sYz.text" = "NAMBA YA SIMU YA MKONONI";
+
+/* Class = "UITextField"; placeholder = "Type new mobile number"; ObjectID = "MqT-X0-dgw"; */
+"MqT-X0-dgw.placeholder" = "Chapa nambari mpya ya rununu";
+
+/* Class = "UILabel"; text = "1 UPPERCASE letter"; ObjectID = "MuX-m8-L4q"; */
+"MuX-m8-L4q.text" = "Barua 1 ya UPPERCASE";
+
+/* Class = "UIButton"; normalTitle = "TRACK"; ObjectID = "Mzb-D0-0my"; */
+"Mzb-D0-0my.normalTitle" = "UTAFITI";
+
+/* Class = "UILabel"; text = "From :"; ObjectID = "N3D-ku-nJx"; */
+"N3D-ku-nJx.text" = "Kutoka :";
+
+/* Class = "UITextField"; placeholder = "Enter PIN"; ObjectID = "NCR-Tp-Oli"; */
+"NCR-Tp-Oli.placeholder" = "Ingiza PIN";
+
+/* Class = "UILabel"; text = "BANK NAME"; ObjectID = "NIi-l1-wYo"; */
+"NIi-l1-wYo.text" = "JINA LA BENKI";
+
+/* Class = "UILabel"; text = "BRANCH NAME"; ObjectID = "NJX-Ml-H1o"; */
+"NJX-Ml-H1o.text" = "JINA LA TAWI";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "NUs-57-a2S"; */
+"NUs-57-a2S.normalTitle" = "WEKA SAHIHI";
+
+/* Class = "UILabel"; text = "Transfer Amount"; ObjectID = "Nu9-gm-CgO"; */
+"Nu9-gm-CgO.text" = "Kiwango cha Uhamisho";
+
+/* Class = "UILabel"; text = "Currency Converter"; ObjectID = "Nwf-FJ-RDZ"; */
+"Nwf-FJ-RDZ.text" = "Kubadilisha fedha";
+
+/* Class = "UILabel"; text = "Please Enter OTP Number"; ObjectID = "OC1-74-oWU"; */
+"OC1-74-oWU.text" = "Tafadhali Ingiza Nambari ya OTP";
+
+/* Class = "UILabel"; text = "SWIFT CODE"; ObjectID = "OHp-VH-EAG"; */
+"OHp-VH-EAG.text" = "KIWANGO CHA SIFT";
+
+/* Class = "UITextField"; placeholder = "Occupation"; ObjectID = "OLz-CR-Cwm"; */
+"OLz-CR-Cwm.placeholder" = "Kazi";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "Od0-Q0-BzR"; */
+"Od0-Q0-BzR.text" = "Mji";
+
+/* Class = "UITextField"; placeholder = "Type old password"; ObjectID = "Okb-Ux-EvU"; */
+"Okb-Ux-EvU.placeholder" = "Andika nywila ya zamani";
+
+/* Class = "UILabel"; text = "ID Number"; ObjectID = "OxO-XC-HEC"; */
+"OxO-XC-HEC.text" = "Nambari ya kitambulisho";
+
+/* Class = "UIButton"; normalTitle = "ID Type"; ObjectID = "PFW-X0-MfQ"; */
+"PFW-X0-MfQ.normalTitle" = "Aina ya kitambulisho";
+
+/* Class = "UITextField"; placeholder = "Enter PIN"; ObjectID = "PU7-Wx-zBU"; */
+"PU7-Wx-zBU.placeholder" = "Ingiza PIN";
+
+/* Class = "UITextField"; placeholder = "Full Name in English"; ObjectID = "Pc5-WD-K3d"; */
+"Pc5-WD-K3d.placeholder" = "Jina kamili kwa Kiingereza";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Poj-DO-jXk"; */
+"Poj-DO-jXk.placeholder" = "Nywila";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "PpM-Vn-86b"; */
+"PpM-Vn-86b.text" = "kiasi";
+
+/* Class = "UILabel"; text = "We've sent an OTP to your registered E-mail and Mobile Number. Please check your inbox/messages to complete the registration process."; ObjectID = "PzF-dl-5If"; */
+"PzF-dl-5If.text" = "Tumetuma OTP kwa barua pepe yako iliyosajiliwa na nambari ya rununu. Tafadhali angalia kikasha chako / ujumbe kukamilisha mchakato wa usajili.";
+
+/* Class = "UIButton"; normalTitle = "HERE"; ObjectID = "QEf-Cc-xee"; */
+"QEf-Cc-xee.normalTitle" = "HAPA";
+
+/* Class = "UILabel"; text = "Your account is under verification"; ObjectID = "QSX-qZ-WN2"; */
+"QSX-qZ-WN2.text" = "Akaunti yako iko chini ya uthibitisho";
+
+/* Class = "UILabel"; text = "Branch Name"; ObjectID = "Qjk-K9-Ojw"; */
+"Qjk-K9-Ojw.text" = "Jina la tawi";
+
+/* Class = "UITextField"; placeholder = "PIN"; ObjectID = "Qmo-4r-u87"; */
+"Qmo-4r-u87.placeholder" = "Pini";
+
+/* Class = "UILabel"; text = "Expected Income(Monthly)"; ObjectID = "R1D-Ir-O1N"; */
+"R1D-Ir-O1N.text" = "Mapato yanayotarajiwa (kila mwezi)";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "R3e-Tb-Whx"; */
+"R3e-Tb-Whx.text" = "Jumla";
+
+/* Class = "UILabel"; text = "PERSONAL INFORMATION"; ObjectID = "RTq-38-0vK"; */
+"RTq-38-0vK.text" = "HABARI ZAIDI";
+
+/* Class = "UILabel"; text = "RELATIONSHIP"; ObjectID = "S4P-a4-UuR"; */
+"S4P-a4-UuR.text" = "Mahusiano";
+
+/* Class = "UILabel"; text = "A/C NO / IBAN"; ObjectID = "SCT-Z8-214"; */
+"SCT-Z8-214.text" = "A/C NO / IBAN";
+
+/* Class = "UILabel"; text = "Municipality"; ObjectID = "SYj-zA-w4c"; */
+"SYj-zA-w4c.text" = "Manispaa";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "TE9-OW-Gu0"; */
+"TE9-OW-Gu0.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "CITY"; ObjectID = "TM7-PE-eCU"; */
+"TM7-PE-eCU.text" = "Mji";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "Tkj-gG-FCt"; */
+"Tkj-gG-FCt.normalTitle" = "Ifuatayo";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "U7a-Ls-oxb"; */
+"U7a-Ls-oxb.text" = "Jina la kwanza";
+
+/* Class = "UILabel"; text = "8-16 Characters"; ObjectID = "U7b-uv-afy"; */
+"U7b-uv-afy.text" = "Tabia 8-16";
+
+/* Class = "UILabel"; text = "We've sent an OTP to your registered E-mail and Mobile Number"; ObjectID = "UIb-fB-J4a"; */
+"UIb-fB-J4a.text" = "Tumetuma OTP kwa barua pepe yako iliyosajiliwa na nambari ya rununu";
+
+/* Class = "UILabel"; text = "Employer"; ObjectID = "UaH-ew-cqL"; */
+"UaH-ew-cqL.text" = "Mwajiri";
+
+/* Class = "UILabel"; text = "Please enter OTP "; ObjectID = "Ucd-a7-Y8a"; */
+"Ucd-a7-Y8a.text" = "Tafadhali ingiza OTP ";
+
+/* Class = "UIButton"; normalTitle = "IDENTIFICATION"; ObjectID = "Uzc-eV-vhG"; */
+"Uzc-eV-vhG.normalTitle" = "Kitambulisho";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "V2K-Q3-XOh"; */
+"V2K-Q3-XOh.text" = "Badilisha neno la siri";
+
+/* Class = "UITextField"; placeholder = "Receiving Amount"; ObjectID = "V2p-mo-pw4"; */
+"V2p-mo-pw4.placeholder" = "Kupokea Kiasi";
+
+/* Class = "UITextField"; placeholder = "Type new E-mail"; ObjectID = "VB1-tG-c4W"; */
+"VB1-tG-c4W.placeholder" = "Andika barua pepe mpya";
+
+/* Class = "UITextField"; placeholder = "Enter E-mail"; ObjectID = "VC6-Zx-w6h"; */
+"VC6-Zx-w6h.placeholder" = "Ingiza barua-pepe";
+
+/* Class = "UILabel"; text = "REMITTANCE"; ObjectID = "VJQ-Kc-oDq"; */
+"VJQ-Kc-oDq.text" = "KUMBUKA";
+
+/* Class = "UILabel"; text = "Send Money"; ObjectID = "Vh3-Uu-20h"; */
+"Vh3-Uu-20h.text" = "Tuma Pesa";
+
+/* Class = "UITextField"; placeholder = "Type old E-mail"; ObjectID = "W9b-a8-F5a"; */
+"W9b-a8-F5a.placeholder" = "Andika barua-pepe ya zamani";
+
+/* Class = "UILabel"; text = "Great! Your transaction has been sent successfully"; ObjectID = "WCL-9X-0DX"; */
+"WCL-9X-0DX.text" = "Nzuri! Ununuzi wako umetumwa kwa mafanikio";
+
+/* Class = "UILabel"; text = "ENTER THE NEW RECEIVER INFORMATION"; ObjectID = "WQd-ic-dct"; */
+"WQd-ic-dct.text" = "Ingiza habari mpya ya kupokea";
+
+/* Class = "UILabel"; text = "A/C NO / IBAN"; ObjectID = "Wk1-Jv-8vH"; */
+"Wk1-Jv-8vH.text" = "A/C NO / IBAN";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WkQ-GS-Knm"; */
+"WkQ-GS-Knm.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "SELECT AN EXISTING RECEIVER"; ObjectID = "Wl1-99-INA"; */
+"Wl1-99-INA.normalTitle" = "Chagua mpokeaji aliye nje";
+
+/* Class = "UILabel"; text = "Commission"; ObjectID = "WyH-Rd-HeZ"; */
+"WyH-Rd-HeZ.text" = "Tume";
+
+/* Class = "UIButton"; normalTitle = "SECURITY"; ObjectID = "XH6-w0-AEj"; */
+"XH6-w0-AEj.normalTitle" = "USALAMA";
+
+/* Class = "UITextField"; placeholder = "IFSC CODE"; ObjectID = "XV7-sB-Mbd"; */
+"XV7-sB-Mbd.placeholder" = "IFSC CODE";
+
+/* Class = "UITextField"; placeholder = "IBAN"; ObjectID = "Xan-1H-kSj"; */
+"Xan-1H-kSj.placeholder" = "IBAN";
+
+/* Class = "UILabel"; text = "LAST NAME(AS PER BANK)"; ObjectID = "Xf9-T0-oP6"; */
+"Xf9-T0-oP6.text" = "JINA LA KWANZA (KAMA PER BANK)";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "Xn0-ET-ux9"; */
+"Xn0-ET-ux9.text" = "kiasi";
+
+/* Class = "UILabel"; text = "SWIFT CODE"; ObjectID = "Yc7-SD-yVl"; */
+"Yc7-SD-yVl.text" = "KIWANGO CHA SIFT";
+
+/* Class = "UITextField"; placeholder = "FIRST NAME (AS PER BANK)"; ObjectID = "Ywo-yz-ZoN"; */
+"Ywo-yz-ZoN.placeholder" = "JINA LA KWANZA (KAMA PER BANK)";
+
+/* Class = "UILabel"; text = "Change Language Settings"; ObjectID = "ZDh-Xg-3hG"; */
+"ZDh-Xg-3hG.text" = "Badilisha Mipangilio ya Lugha";
+
+/* Class = "UILabel"; text = "BRANCH NAME"; ObjectID = "a3T-eI-nGv"; */
+"a3T-eI-nGv.text" = "JINA LA TAWI";
+
+/* Class = "UILabel"; text = "Nationality"; ObjectID = "aGG-8T-EFd"; */
+"aGG-8T-EFd.text" = "Utaifa";
+
+/* Class = "UILabel"; text = "Mobile No"; ObjectID = "aOk-3h-poK"; */
+"aOk-3h-poK.text" = "Simu ya Hapana";
+
+/* Class = "UITextField"; placeholder = "ID Expiration date"; ObjectID = "aR4-0Z-AWL"; */
+"aR4-0Z-AWL.placeholder" = "Tarehe ya kumalizika kwa kitambulisho";
+
+/* Class = "UILabel"; text = "AMOUNT"; ObjectID = "aa9-N2-iQc"; */
+"aa9-N2-iQc.text" = "kiasi";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "beZ-Gq-iK9"; */
+"beZ-Gq-iK9.text" = "Label";
+
+/* Class = "UILabel"; text = "Transaction sent successfully"; ObjectID = "bkm-vF-Fjd"; */
+"bkm-vF-Fjd.text" = "Usafirishaji umetumwa kwa mafanikio";
+
+/* Class = "UILabel"; text = "You're almost done !"; ObjectID = "c1L-s4-MT7"; */
+"c1L-s4-MT7.text" = "Karibu umekamilika!";
+
+/* Class = "UITextField"; placeholder = "SORT CODE"; ObjectID = "c2n-cp-Wnn"; */
+"c2n-cp-Wnn.placeholder" = "KIWANGO CHA SISI";
+
+/* Class = "UILabel"; text = "online@gulfexchange.com.qa"; ObjectID = "c54-io-bCr"; */
+"c54-io-bCr.text" = "online@gulfexchange.com.qa";
+
+/* Class = "UILabel"; text = "To Date :"; ObjectID = "cRM-JM-MC9"; */
+"cRM-JM-MC9.text" = "Mpaka leo :";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "cdE-jP-ip5"; */
+"cdE-jP-ip5.text" = "au";
+
+/* Class = "UITextField"; placeholder = "Type old mobile number"; ObjectID = "cv3-9W-JrJ"; */
+"cv3-9W-JrJ.placeholder" = "Chapa nambari ya rununu ya zamani";
+
+/* Class = "UILabel"; text = "1 lowercase letter"; ObjectID = "cvM-JM-Vgp"; */
+"cvM-JM-Vgp.text" = "Barua 1 ndogo";
+
+/* Class = "UILabel"; text = "About Gulf  Exchange"; ObjectID = "d9T-l5-ca0"; */
+"d9T-l5-ca0.text" = "Kuhusu Uuzaji wa Ghuba";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "dBa-0k-6Jw"; */
+"dBa-0k-6Jw.text" = "kiasi";
+
+/* Class = "UITextField"; placeholder = "Rudia nywila"; ObjectID = "dXo-Ct-ICb"; */
+"dXo-Ct-ICb.placeholder" = "Rudia nywila";
+
+/* Class = "UILabel"; text = "Please Register"; ObjectID = "dcj-rb-Bvx"; */
+"dcj-rb-Bvx.text" = "Tafadhali Jiandikishe";
+
+/* Class = "UILabel"; text = "RELATIONSHIP"; ObjectID = "dfC-j0-OFx"; */
+"dfC-j0-OFx.text" = "Mahusiano";
+
+/* Class = "UILabel"; text = "Customer Support"; ObjectID = "di6-XS-fTb"; */
+"di6-XS-fTb.text" = "Msaada wa Wateja";
+
+/* Class = "UITextField"; text = "Qatar Riyal"; ObjectID = "dvc-8V-WcT"; */
+"dvc-8V-WcT.text" = "Qatar riyal";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "e5x-aq-fnV"; */
+"e5x-aq-fnV.text" = "Jina la kwanza";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "eAd-hY-2VV"; */
+"eAd-hY-2VV.placeholder" = "Nywila";
+
+/* Class = "UITextField"; placeholder = "LAST NAME(AS PER BANK)"; ObjectID = "eMh-f4-bOE"; */
+"eMh-f4-bOE.placeholder" = "JINA LA KWANZA (KAMA PER BANK)";
+
+/* Class = "UITextField"; placeholder = "ID Number"; ObjectID = "ePM-EI-Iln"; */
+"ePM-EI-Iln.placeholder" = "Nambari ya kitambulisho";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "ebW-Xw-GaT"; */
+"ebW-Xw-GaT.text" = "Jina la familia";
+
+/* Class = "UILabel"; text = "Mob1234567"; ObjectID = "eh6-94-Hqv"; */
+"eh6-94-Hqv.text" = "Mob1234567";
+
+/* Class = "UILabel"; text = "Transfer"; ObjectID = "enF-c5-wLi"; */
+"enF-c5-wLi.text" = "Uhamisho";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "eod-ue-1hK"; */
+"eod-ue-1hK.text" = "Profaili";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "eq3-Wb-f6I"; */
+"eq3-Wb-f6I.placeholder" = "Barua pepe";
+
+/* Class = "UILabel"; text = "Please call customer care number"; ObjectID = "ewL-jN-OnK"; */
+"ewL-jN-OnK.text" = "Tafadhali piga nambari ya utunzaji wa wateja";
+
+/* Class = "UIButton"; normalTitle = "SEND OTP"; ObjectID = "f1Z-dk-N23"; */
+"f1Z-dk-N23.normalTitle" = "TUMA OTP";
+
+/* Class = "UIButton"; normalTitle = "GO"; ObjectID = "fGU-mz-2kp"; */
+"fGU-mz-2kp.normalTitle" = "NENDA";
+
+/* Class = "UILabel"; text = "Forgot PIN"; ObjectID = "fhg-yv-mWa"; */
+"fhg-yv-mWa.text" = "Kusahau PIN";
+
+/* Class = "UILabel"; text = "8-16 Characters"; ObjectID = "fiF-Sr-8RS"; */
+"fiF-Sr-8RS.text" = "Tabia 8-16";
+
+/* Class = "UIButton"; normalTitle = "SAVE DETAILS"; ObjectID = "frV-ug-C2F"; */
+"frV-ug-C2F.normalTitle" = "Hifadhi maelezo";
+
+/* Class = "UILabel"; text = "PLEASE REVIEW YOUR REQUEST"; ObjectID = "g7Y-eF-RjM"; */
+"g7Y-eF-RjM.text" = "TAFADHALI KUMBUKA KITUO chako";
+
+/* Class = "UITextField"; placeholder = "CITY"; ObjectID = "gLs-Q0-DaU"; */
+"gLs-Q0-DaU.placeholder" = "Mji";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "gSF-9m-59B"; */
+"gSF-9m-59B.text" = "Mji";
+
+/* Class = "UILabel"; text = "0.00 QAR"; ObjectID = "gf8-vd-Kne"; */
+"gf8-vd-Kne.text" = "0.00 QAR";
+
+/* Class = "UILabel"; text = "Help"; ObjectID = "gn7-hn-bNf"; */
+"gn7-hn-bNf.text" = "Msaada";
+
+/* Class = "UIButton"; normalTitle = "BRANCH NAME"; ObjectID = "gt2-dM-DJ0"; */
+"gt2-dM-DJ0.normalTitle" = "JINA LA TAWI";
+
+/* Class = "UIButton"; normalTitle = "SEND OTP"; ObjectID = "h1b-PF-dKj"; */
+"h1b-PF-dKj.normalTitle" = "TUMA OTP";
+
+/* Class = "UILabel"; text = "PERSONAL INFORMATION"; ObjectID = "hOy-3G-PQj"; */
+"hOy-3G-PQj.text" = "HABARI ZAIDI";
+
+/* Class = "UILabel"; text = "1 lowercase letter"; ObjectID = "hf9-EG-vpt"; */
+"hf9-EG-vpt.text" = "Barua 1 ndogo";
+
+/* Class = "UITextField"; placeholder = "Enter E-mail"; ObjectID = "hom-YX-tJj"; */
+"hom-YX-tJj.placeholder" = "Ingiza barua-pepe";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "hsN-K3-THO"; */
+"hsN-K3-THO.normalTitle" = "Ifuatayo";
+
+/* Class = "UITextField"; placeholder = "Working Address"; ObjectID = "hsZ-h7-t10"; */
+"hsZ-h7-t10.placeholder" = "Anwani ya Kufanya kazi";
+
+/* Class = "UILabel"; text = "ADDRESS"; ObjectID = "i22-52-urv"; */
+"i22-52-urv.text" = "Anwani";
+
+/* Class = "UILabel"; text = "To :"; ObjectID = "i2Y-1C-KWI"; */
+"i2Y-1C-KWI.text" = "Kwa :";
+
+/* Class = "UILabel"; text = "Mobile No"; ObjectID = "icy-7W-vC1"; */
+"icy-7W-vC1.text" = "Simu ya Hapana";
+
+/* Class = "UITextField"; placeholder = "Enter ID Number"; ObjectID = "ihA-df-bce"; */
+"ihA-df-bce.placeholder" = "Ingiza Nambari ya kitambulisho";
+
+/* Class = "UILabel"; text = "PUN/Remittance Reference No :"; ObjectID = "iku-BY-3Ou"; */
+"iku-BY-3Ou.text" = "Rejea ya PUN / Marejeleo Na :";
+
+/* Class = "UITextField"; placeholder = "Zone"; ObjectID = "jJl-sQ-636"; */
+"jJl-sQ-636.placeholder" = "Eneo";
+
+/* Class = "UITextField"; placeholder = "E-mail"; ObjectID = "jRw-1r-zqQ"; */
+"jRw-1r-zqQ.placeholder" = "Barua pepe";
+
+/* Class = "UILabel"; text = "E-mail"; ObjectID = "kHx-x9-O6l"; */
+"kHx-x9-O6l.text" = "Barua pepe";
+
+/* Class = "UIButton"; normalTitle = "SAVE DETAILS"; ObjectID = "kNK-aI-zci"; */
+"kNK-aI-zci.normalTitle" = "Hifadhi maelezo";
+
+/* Class = "UILabel"; text = "Promo Code"; ObjectID = "kZ1-ha-tjz"; */
+"kZ1-ha-tjz.text" = "Nambari ya Promo";
+
+/* Class = "UIButton"; normalTitle = "COUNTRY"; ObjectID = "kcJ-Mp-Kyj"; */
+"kcJ-Mp-Kyj.normalTitle" = "NCHI";
+
+/* Class = "UITextField"; placeholder = "OTP NUMBER"; ObjectID = "ke8-AR-rdo"; */
+"ke8-AR-rdo.placeholder" = "Nambari ya OTP";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kf5-XW-WNr"; */
+"kf5-XW-WNr.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Enter ID Number"; ObjectID = "kli-2b-4hO"; */
+"kli-2b-4hO.placeholder" = "Ingiza Nambari ya kitambulisho";
+
+/* Class = "UIButton"; normalTitle = "CONVERT"; ObjectID = "kxo-0r-Op9"; */
+"kxo-0r-Op9.normalTitle" = "KIUME";
+
+/* Class = "UILabel"; text = "LAST NAME(AS PER BANK)"; ObjectID = "ldT-Ij-Ajg"; */
+"ldT-Ij-Ajg.text" = "JINA LA KWANZA (KAMA PER BANK)";
+
+/* Class = "UILabel"; text = "AMOUNT"; ObjectID = "lhc-i7-osL"; */
+"lhc-i7-osL.text" = "kiasi";
+
+/* Class = "UILabel"; text = "Change Security Question"; ObjectID = "mDb-BZ-c9F"; */
+"mDb-BZ-c9F.text" = "Badilisha swali la Usalama";
+
+/* Class = "UILabel"; text = "You're almost done!"; ObjectID = "mDg-Hs-xux"; */
+"mDg-Hs-xux.text" = "Karibu umekamilika!";
+
+/* Class = "UIButton"; normalTitle = "PROFILE"; ObjectID = "mPQ-H1-2nc"; */
+"mPQ-H1-2nc.normalTitle" = "MWANDISHI";
+
+/* Class = "UITextField"; placeholder = "Type new password"; ObjectID = "nGz-uT-4c7"; */
+"nGz-uT-4c7.placeholder" = "Andika nywila mpya";
+
+/* Class = "UILabel"; text = "A/C NO / IBAN"; ObjectID = "nIk-De-Mbv"; */
+"nIk-De-Mbv.text" = "A/C NO / IBAN";
+
+/* Class = "UILabel"; text = "MOBILE NUMBER"; ObjectID = "nON-45-tvE"; */
+"nON-45-tvE.text" = "NAMBA YA SIMU YA MKONONI";
+
+/* Class = "UITextField"; placeholder = "Re-type new password"; ObjectID = "nTg-R6-PYs"; */
+"nTg-R6-PYs.placeholder" = "Andika tena nywila mpya";
+
+/* Class = "UITextField"; placeholder = "Municipality"; ObjectID = "nZc-eX-ygZ"; */
+"nZc-eX-ygZ.placeholder" = "Manispaa";
+
+/* Class = "UILabel"; text = "Great! Your registration request has been initiated successfully."; ObjectID = "nb4-P8-Bf9"; */
+"nb4-P8-Bf9.text" = "Nzuri! Ombi lako la usajili limeanzishwa kwa mafanikio.";
+
+/* Class = "UILabel"; text = "Transfer Fee"; ObjectID = "ngd-nB-PK9"; */
+"ngd-nB-PK9.text" = "Ada ya Uhamisho";
+
+/* Class = "UITextField"; text = "974"; ObjectID = "o3l-5X-Es0"; */
+"o3l-5X-Es0.text" = "974";
+
+/* Class = "UILabel"; text = "Total Amount"; ObjectID = "oMa-nj-t8l"; */
+"oMa-nj-t8l.text" = "Jumla";
+
+/* Class = "UILabel"; text = "Once your account is activated, you will be notified by an E-mail and notification and you will be able to process transactions."; ObjectID = "oeR-Hx-FrU"; */
+"oeR-Hx-FrU.text" = "Mara tu akaunti yako imeamilishwa, utaarifiwa na barua-pepe na arifa na utaweza kushughulikia shughuli.";
+
+/* Class = "UILabel"; text = "Enter Amount :"; ObjectID = "ooH-nb-KRQ"; */
+"ooH-nb-KRQ.text" = "Ingiza Kiasi :";
+
+/* Class = "UILabel"; text = "IDENTIFICATION DETAILS"; ObjectID = "ouB-T4-Moc"; */
+"ouB-T4-Moc.text" = "DALILI ZA KUTEMBELEA";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "qAM-eV-zyd"; */
+"qAM-eV-zyd.text" = "Nyumbani";
+
+/* Class = "UIButton"; normalTitle = "SAVE DETAILS"; ObjectID = "qC2-Ez-DIt"; */
+"qC2-Ez-DIt.normalTitle" = "Hifadhi maelezo";
+
+/* Class = "UILabel"; text = "4438 3294"; ObjectID = "qGB-df-J9J"; */
+"qGB-df-J9J.text" = "4438 3294";
+
+/* Class = "UIButton"; normalTitle = "SELECT"; ObjectID = "qYR-Qd-iHF"; */
+"qYR-Qd-iHF.normalTitle" = "BONYEZA";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "qYZ-yL-lI5"; */
+"qYZ-yL-lI5.text" = "Anwani";
+
+/* Class = "UILabel"; text = "Password requirements"; ObjectID = "r3z-44-1rs"; */
+"r3z-44-1rs.text" = "Mahitaji ya nenosiri";
+
+/* Class = "UITextField"; placeholder = "Full Name in Arabic(Optional)"; ObjectID = "reH-29-cE4"; */
+"reH-29-cE4.placeholder" = "Jina kamili katika Kiarabu";
+
+/* Class = "UILabel"; text = "Track Transactions"; ObjectID = "rlI-PE-CSi"; */
+"rlI-PE-CSi.text" = "Fuatilia shughuli";
+
+/* Class = "UILabel"; text = "Call us"; ObjectID = "rlW-CI-4rS"; */
+"rlW-CI-4rS.text" = "Tuite";
+
+/* Class = "UITextField"; placeholder = "Send Amount"; ObjectID = "sZW-XN-dei"; */
+"sZW-XN-dei.placeholder" = "Tuma Kiasi";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "smC-yV-JkF"; */
+"smC-yV-JkF.text" = "Jinsia";
+
+/* Class = "UITextField"; placeholder = "Enter E-mail"; ObjectID = "t0R-AE-LSH"; */
+"t0R-AE-LSH.placeholder" = "Ingiza barua-pepe";
+
+/* Class = "UILabel"; text = "Password requirements"; ObjectID = "t6F-C2-Iud"; */
+"t6F-C2-Iud.text" = "Mahitaji ya nenosiri";
+
+/* Class = "UILabel"; text = "A/C NO / IBAN"; ObjectID = "t7o-Wp-JuT"; */
+"t7o-Wp-JuT.text" = "A/C NO / IBAN";
+
+/* Class = "UILabel"; text = "Powered By"; ObjectID = "tFS-f3-Igf"; */
+"tFS-f3-Igf.text" = "Kinatumia";
+
+/* Class = "UITextField"; placeholder = "Full Name in English"; ObjectID = "tT3-ce-gDN"; */
+"tT3-ce-gDN.placeholder" = "Jina kamili kwa Kiingereza";
+
+/* Class = "UITextField"; placeholder = "Date of birth"; ObjectID = "tcC-p8-uwr"; */
+"tcC-p8-uwr.placeholder" = "Tarehe ya kuzaliwa";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "toA-AM-NLm"; */
+"toA-AM-NLm.text" = "Anwani";
+
+/* Class = "UILabel"; text = "Total Amount"; ObjectID = "tuq-ya-7RX"; */
+"tuq-ya-7RX.text" = "Jumla";
+
+/* Class = "UILabel"; text = "FIRST NAME(AS PER BANK)"; ObjectID = "uZM-4c-dfc"; */
+"uZM-4c-dfc.text" = "JINA LA KWANZA (KAMA PER BANK)";
+
+/* Class = "UITextField"; placeholder = "OTP NUMBER"; ObjectID = "ulW-WG-GYo"; */
+"ulW-WG-GYo.placeholder" = "Nambari ya OTP";
+
+/* Class = "UILabel"; text = "Change E-mail"; ObjectID = "uvm-ja-Dz0"; */
+"uvm-ja-Dz0.text" = "Badilisha barua-pepe";
+
+/* Class = "UITextField"; placeholder = "ADDRESS"; ObjectID = "v2j-O6-xva"; */
+"v2j-O6-xva.placeholder" = "TAFAKARI";
+
+/* Class = "UITextField"; placeholder = "Employer"; ObjectID = "vQA-v2-MEJ"; */
+"vQA-v2-MEJ.placeholder" = "Mwajiri";
+
+/* Class = "UILabel"; text = "0.00 QAR"; ObjectID = "vek-Zl-tfB"; */
+"vek-Zl-tfB.text" = "0.00 QAR";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "vgU-Sk-Htv"; */
+"vgU-Sk-Htv.text" = "Barua pepe";
+
+/* Class = "UILabel"; text = "1 QAR = "; ObjectID = "w8g-9b-aBX"; */
+"w8g-9b-aBX.text" = "1 QAR = ";
+
+/* Class = "UILabel"; text = "Help"; ObjectID = "wFb-0P-6o7"; */
+"wFb-0P-6o7.text" = "Msaada";
+
+/* Class = "UILabel"; text = "Select Language"; ObjectID = "wY9-Bb-B66"; */
+"wY9-Bb-B66.text" = "Select Language";
+
+/* Class = "UITextField"; placeholder = "ID Number"; ObjectID = "wYX-4f-kY7"; */
+"wYX-4f-kY7.placeholder" = "Nambari ya kitambulisho";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "xNr-kv-fPO"; */
+"xNr-kv-fPO.text" = "Mipangilio";
+
+/* Class = "UITextField"; placeholder = "Re-type new mobile number"; ObjectID = "xgY-ZP-ZG1"; */
+"xgY-ZP-ZG1.placeholder" = "Andika nambari mpya ya rununu";
+
+/* Class = "UITextField"; placeholder = "QAR"; ObjectID = "xhC-xs-RCe"; */
+"xhC-xs-RCe.placeholder" = "QAR";
+
+/* Class = "UILabel"; text = "From Date :"; ObjectID = "xwz-Mu-zpe"; */
+"xwz-Mu-zpe.text" = "Kuanzia Tarehe :";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "y49-J8-cKj"; */
+"y49-J8-cKj.text" = "Label";
+
+/* Class = "UILabel"; text = "You can track your transaction by clicking"; ObjectID = "yKl-ro-dHW"; */
+"yKl-ro-dHW.text" = "Unaweza kufuatilia ununuzi wako kwa kubonyeza";
+
+/* Class = "UILabel"; text = "RECIPIENT RECEIVERS"; ObjectID = "yMa-O5-A1K"; */
+"yMa-O5-A1K.text" = "WAKIPATA WAKATI WA KUPATA";
+
+/* Class = "UITextField"; placeholder = "Enter PIN"; ObjectID = "yZi-sc-EQm"; */
+"yZi-sc-EQm.placeholder" = "Ingiza PIN";
+
+/* Class = "UILabel"; text = "Working Address"; ObjectID = "ylC-d0-Z7M"; */
+"ylC-d0-Z7M.text" = "Anwani ya Kufanya kazi";
+
+/* Class = "UILabel"; text = "Bank Name"; ObjectID = "yo2-Rr-CLr"; */
+"yo2-Rr-CLr.text" = "Jina la benki";
+
+/* Class = "UIButton"; normalTitle = "CONFIRM"; ObjectID = "z6E-9k-dXq"; */
+"z6E-9k-dXq.normalTitle" = "MAHUSIANO";
+
+/* Class = "UILabel"; text = "BANK NAME"; ObjectID = "zfB-vr-NwJ"; */
+"zfB-vr-NwJ.text" = "JINA LA BENKI";
+
+
+"zsw-fK-5aM.placeholder" = "nywila";
+"8ZH-c1-Vkh.placeholder" =  "Pini";
+"U7Q-zK-kyn.text" = "Wakati wa kazi";
+"QZJ-a7-fe8.text" = "Swali la Usalama";
+"Ojb-gV-f67.placeholder" = "Jibu";
+"EuN-fx-5XH.placeholder" =  "Pini";
+"nP7-1o-gsl.normalTitle" = "Hifadhi maelezo";
+"PdV-Cf-Rhv.placeholder" = "nywila";
+"THa-OM-kK8.placeholder" =  "Pini";
+"jqO-jj-hHd.placeholder" = "Swali la Usalama";
+"rF0-aF-7Tf.placeholder" = "Ingiza PIN";
+"0o1-J1-Nvq.placeholder" = "Ingiza Nywila";
+"cqE-sP-COc.normalTitle" = "Hifadhi maelezo";
+"zXH-Hx-7er.placeholder" = "Ingiza PIN";
+"vKw-cF-MGR.placeholder" = "Andika PIN ya zamani";
+"t6L-7f-Nm9.placeholder" = "Andika PIN mpya";
+"Pm3-kX-uBM.placeholder" = "Andika aina mpya ya PIN";
+"feN-NE-l0i.placeholder" = "Ingiza OTP";
+"3gP-rU-Cqx.text" = "yako ya barua-pepe iliyosajiliwa na ya Simu ya Mkononi";
+"YyM-Mc-fn8.text" = "Tumetuma OTP kwa";
+"yua-ge-Sye.normalTitle" = "TUMA OTP";
+"DzD-V7-KO5.normalTitle" = "Hifadhi maelezo";
+"UMW-Qp-1hA.normalTitle" = "Tuma tena OTP";
+"oNE-Bn-gIk.text" = "Wahusika 8-16";
+"tN2-be-mou.text" = "Barua 1 ya juu";
+"gwA-f6-cVs.text" = "Barua 1 ndogo";
+"4BU-Yz-jb4.text" = "Nambari 1";
+"oPb-xE-EPw.placeholder" = "Andika nywila ya zamani";
+"fGo-4m-Qdp.placeholder" = "Andika nywila mpya";
+"hyl-wV-iM4.placeholder" = "Andika tena nywila mpya";
+"YfT-0B-azK.placeholder" = "Ingiza PIN";
+"mSY-rB-gNV.placeholder" = "tafuta";
+"tq5-gk-ver.placeholder" = "Qatari Riyal";
+"6ax-oM-eOa.placeholder" = "Chagua";
+"r4m-vk-5ac.placeholder" = "nywila";
+"bVk-G9-DdJ.placeholder" = "Ingiza OTP";
+"7V4-Bv-ppN.text" = "barua-pepe yako iliyosajiliwa na nambari ya simu";
+"vb9-3g-xg0.text" = "Tumetuma OTP kwa ";
+"sas-zQ-j12.normalTitle" = "MAHUSIANO";
+"gQL-bG-bmn.normalTitle" = "Tuma tena OTP";
+"AwV-aM-wYo.placeholder" = "Ingiza OTP";
+"E6k-Sg-NHD.text" = "barua-pepe yako iliyosajiliwa na nambari ya simu";
+"9u1-r4-BrD.normalTitle" = "MAHUSIANO";
+"ccx-v2-NeE.normalTitle" = "Tuma tena OTP";
+"bm2-EK-PLV.text" = "Tumetuma OTP kwa ";
+"m5P-jd-Ogw.placeholder" = "Rejeleo la Hapana";
+"P1A-Y9-pNg.normalTitle" = "ONYESHA MAELEZO";
+"KMB-ge-ixQ.placeholder" = "Pini mpya";
+"KNw-7u-1lN.placeholder" = "Andika aina mpya ya PIN";
+"7Zw-sr-6UA.normalTitle" = "Hifadhi maelezo";
+"ETU-cx-4mo.text" = "Wahusika 8-16";
+"Efq-Cr-hPC.text" = "Barua 1 ya juu";
+"Qnf-go-Wqg.text" = "Barua 1 ndogo";
+"d6p-gq-P5Y.text" = "Nambari 1";
+"stW-zP-yNE.placeholder" = "nywila";
+"309-tr-hhB.placeholder" = "Rudia nywila";
+"b5E-oh-K0c.normalTitle" = "Hifadhi maelezo";
+"2YZ-4R-LBN.normalTitle" = "Kuhusu Uuzaji wa Ghuba";
+"Mmc-3x-AKC.normalTitle" = "Ujumbe kutoka kwa usimamizi";
+"9hx-T3-zs3.normalTitle" = "Ujumbe, Maono, maadili";
+"m9h-ZI-3wM.normalTitle" = "Wajumbe wa Timu";
+"AJI-Gh-HAF.normalTitle" = "Ushirikiano wa AML & CFT";
+"Upu-Wi-tLR.text" = "HABARI ZAIDI";
+"4Fy-2Y-T2m.text" = "barua pepe";
+"DcZ-PW-Get.placeholder" = "barua pepe";
+"oL3-KV-MVf.text" = "Jina kamili kwa Kiingereza";
+"OsV-5q-yP2.placeholder" = "Jina kamili kwa Kiingereza";
+"p6h-yM-lST.text" = "Jina kamili katika Kiarabu";
+"GCU-j6-U60.placeholder" = "Jina kamili katika Kiarabu";
+"Fxf-kk-5dF.text" = "Tarehe ya kuzaliwa";
+"AmH-SB-ezi.placeholder" = "Tarehe ya kuzaliwa";
+"Upp-9u-tHJ.text" = "Utaifa";
+"Xj7-i6-ABc.normalTitle" = "Utaifa";
+"igd-14-Wfb.text" = "Nchi ya Makazi";
+"s6V-a5-g8T.normalTitle" = "Nchi ya Makazi";
+"nGE-Xa-Nho.text" = "Anwani";
+"VdV-hE-9SX.placeholder" = "Anwani";
+"XKr-E8-NYZ.text" = "Manispaa";
+"IgT-af-a5r.normalTitle" = "Manispaa";
+"Z5I-yr-Xtc.text" = "Eneo";
+"kJF-6v-uqu.normalTitle" = "Eneo";
+"5Rt-Tv-43T.text" = "Jinsia";
+"zdN-4m-gaP.normalTitle" = "Jinsia";
+"7Zq-CC-QDL.text" = "Namba ya simu ya mkononi";
+"g4u-OH-qCM.normalTitle" = "Namba ya simu ya mkononi";
+"XWd-sT-cOz.text" = "Mwajiri";
+"rLo-Ai-LiI.placeholder" = "Mwajiri";
+"6h8-oz-dFa.text" = "Mapato yanayotarajiwa (kila mwezi)";
+"kui-52-wK6.placeholder" = "Mapato yanayotarajiwa (kila mwezi)";
+"At0-dC-SD9.text" = "Anwani ya Kufanya kazi";
+"ptB-bx-ogV.placeholder" = "Anwani ya Kufanya kazi";
+"Ckf-0t-TlS.text" = "Kazi";
+"L0P-J7-UKj.placeholder" = "Kazi";
+"jrp-jF-dH0.normalTitle" = "Ifuatayo";
+"bXS-Su-6QA.text" = "DALILI ZA KUTEMBELEA";
+"blQ-g3-s2U.text" = "Aina ya kitambulisho";
+"GIy-Vq-tbP.normalTitle" = "Aina ya kitambulisho";
+"oLG-0p-73U.text" = "Kitambulisho cha kitambulisho";
+"NMC-os-B2L.normalTitle" = "Kitambulisho cha kitambulisho";
+"gQa-cu-Qjb.text" = "Nambari ya kitambulisho";
+"IRL-jX-wsA.placeholder" = "Nambari ya kitambulisho";
+"GrP-7m-7Qf.text" = "Tarehe ya kumalizika kwa kitambulisho";
+"JpB-p1-0zl.placeholder" = "Tarehe ya kumalizika kwa kitambulisho";
+"1Sn-f3-zUc.normalTitle" = "Nyuma";
+"FF5-a7-Vip.placeholder" = "Tafuta utaifa";
+"Ovm-R1-ClQ.placeholder" = "Tafuta utaifa";
+"P44-m5-lbM.placeholder" = "Sehemu ya Utafutaji";
+"e0D-Yb-WLU.text" = "chagua jinsia";
+"C4f-v7-LnV.normalTitle" = "sawa";
+"2EV-N5-hKD.normalTitle" = "Kitambulisho";
+"wYc-UY-6x1.normalTitle" = "MWANDISHI";
+"D39-6z-Mfm.normalTitle" = "USALAMA";
+"MhH-ce-cJR.text" = "DALILI ZA KUTEMBELEA";
+"DOo-eK-0Mc.normalTitle" = "Aina ya kitambulisho";
+"dr1-B6-dFm.normalTitle" = "Kitambulisho cha kitambulisho";
+"vsX-Tn-gkH.placeholder" = "Nambari ya kitambulisho";
+"iaC-jj-9h7.placeholder" = "Tarehe ya kumalizika kwa kitambulisho";
+"pyP-K2-cVc.normalTitle" = "Ifuatayo";
+"snL-aE-jPh.normalTitle" = "BONYEZA";
+"jhC-mL-R30.text" = "HABARI ZAIDI";
+"SZL-DJ-4TX.placeholder" = "Jina kamili kwa Kiingereza";
+"IXf-qM-wgs.placeholder" = "Jina kamili katika Kiarabu(Optional)";
+"0dD-aW-1QA.placeholder" = "Barua pepe";
+"Abz-lK-u2w.placeholder" = "Tarehe ya kuzaliwa";
+"yJn-JN-Fub.normalTitle" = "Utaifa";
+"E5T-vf-tTy.normalTitle" = "Nchi ya Makazi";
+"loE-Ci-SbC.normalTitle" = "Manispaa";
+"QvC-Qh-bcw.normalTitle" = "Eneo";
+"0k3-cz-sQ3.placeholder" = "Anwani ya Nyumbani (katika Qatar)";
+"gzT-Lb-YxG.normalTitle" = "Jinsia";
+"gfo-gR-9ha.placeholder" = "Namba ya simu ya mkononi";
+"yEH-VY-QGq.placeholder" = "Mwajiri";
+"JUp-mj-FhM.placeholder" = "Mapato yanayotarajiwa (kila mwezi)";
+"c4L-4P-Ues.placeholder" = "Anwani ya Kazi";
+"na9-MK-VJp.placeholder" = "Kazi";
+"NeH-lc-Qdi.placeholder" = "Nambari ya Usajili (ikiwa inapatikana)";
+"esR-R6-dv6.normalTitle" = "Ifuatayo";
+"QTH-j2-6Uk.normalTitle" = "Swali la Usalama";
+"LVz-Lf-6y0.placeholder" = "Jibu";
+"HkJ-mk-OPc.text" = "nywila";
+"UVf-9O-ZJA.text" = "Mahitaji ya nenosiri";
+"QYi-Se-EhF.text" = "Wahusika 8-16";
+"nfr-Ue-R8C.text" = "Barua 1 ya juu";
+"94J-3W-CBf.text" = "Barua 1 ndogo";
+"Ukx-Qm-mqS.text" = "Nambari 1";
+"7Ez-E2-f7a.placeholder" = "nywila";
+"fP1-c7-Py9.placeholder" = "Rudia nywila";
+"FfR-zc-ziq.text" = "Pini (Nambari 4 za Mchanganyiko)";
+"Lbj-59-jxM.placeholder" =  "Pini";
+"9h5-c6-DZ7.text" = "Nakubali";
+"AGF-UV-1qO.normalTitle" = "Sheria na Masharti";
+"MhI-fJ-2V4.normalTitle" = "BONYEZA PROFAA";
+"ZvR-Ob-LVj.placeholder" = "Tafuta utaifa";
+"izg-fx-OfB.placeholder" = "Tafuta Manispaa";
+"nIU-Xo-5EW.placeholder" = "Sehemu ya Utafutaji";
+"Dig-3K-KIB.text" = "chagua jinsia";
+"gXy-27-qYY.normalTitle" = "BONYEZA";
+"Nad-OH-ITT.text" = "Tafadhali thibitisha maelezo ya usajili yaliyowekwa";
+"Qgb-wk-A0Q.placeholder" = "tafuta";
+"8Be-CM-Xgo.normalTitle" = "Uchunguzi wa pesa";
+"2qt-km-Bog.normalTitle" = "HABARI ZA KUPATA";
+"AUY-gk-sZY.normalTitle" = "NCHI";
+"JNJ-Pw-gbj.normalTitle" = "JINA LA BENKI";
+"sPU-4Z-l7R.normalTile" = "JINA LA TAWI";
+"PvK-RM-YGz.placeholder" = "Nambari ya Akaunti";
+"NPa-Vo-ntb.placeholder" = "IFSC CODE";
+"uyi-a5-hVU.placeholder" = "KIWANDA CHEMA";
+"xlt-LY-Gv8.placeholder" = "KIWANGO CHA SISI";
+"IjQ-Dj-wqH.placeholder" = "NJIA YA KUPATA";
+"zid-Ew-7HB.normalTitle" = "Niliangalia habari ya akaunti";
+"TzV-yF-1JI.text" = "HABARI ZAIDI";
+"lyO-sW-kPN.normalTitle" = "RIPOTI YA FEDHA";
+"mlK-kD-CKy.normalTitle" = "MALENGO YA UFAFU";
+"TCR-Oq-92M.normalTitle" = "MAHUSIANO";
+"Wfx-jv-Lpy.text" = "Nakubali";
+"AGg-sX-45i.normalTitle" = "Sheria na Masharti";
+"jXE-Yv-LDX.normalTitle" = "BONYEZA";
+"L2e-yE-lsL.normalTitle" = "BONYEZA NA HABARI";
+"sHO-NF-O0B.placeholder" = "Nchi ya Utafutaji";
+"9EK-Fj-e7d.placeholder" = "Benki ya Utafutaji";
+"1Ee-rM-k0o.placeholder" = "Tawi la Kutafuta";
+"sXl-8I-7eM.text" = "Sheria na Masharti";
+"xlO-NL-flx.placeholder" = "tafuta";
+"vAz-Lm-Cfd.text" = "TT Hapana";
+"W6q-9L-Xea.text" = "Tarehe";
+"I25-nc-RrB.text" = "Kwa";
+"Wf5-Hx-ald.text" = "Swali la Usalama";
+"OAd-qU-ZKu.normalTitle" = "Swali la Usalama";
+"Zim-Bc-dWX.placeholder" = "Jibu";
+"XbO-Yo-2xi.text" =  "Pini";
+"UU7-4c-RnA.placeholder" =  "Pini";
+"WsQ-We-w9o.placeholder" = "nywila";
+"WdG-6J-jNi.normalTitle" = "Hifadhi maelezo";
+"i97-PF-h79.text" = "Tafadhali chukua picha ya kitambulisho chako (mbele)";
+"GNa-gx-HQc.normalTitle" = "FUNGUA";
+"ahN-RN-LcJ.normalTitle" = "MAHUSIANO";
+"m3q-L6-aif.text" = "Tafadhali chukua picha ya kitambulisho chako (nyuma)";
+"YRK-ic-1dZ.normalTitle" = "FUNGUA";
+"TYn-UL-MMK.normalTitle" = "MAHUSIANO";
+"6P2-Tl-ffH.text" = "Tafadhali chukua selfie inayoshikilia kitambulisho chako";
+"Za3-gs-H2i.normalTitle" = "FUNGUA";
+"Y8S-nS-Gkn.normalTitle" = "Hifadhi maelezo";
+"4SY-Qk-7hB.text" = "Kuhusu GhubaExchange";
+"7ca-t8-8du.text" = "Ujumbe kutoka kwa usimamizi";
+"pyZ-nG-9qI.text" = "Dhamira yetu";
+"8Cd-2L-3I7.text" = "Maono yetu";
+"HYl-mR-vVd.text" = "Thamani zetu";
+"16p-kd-5eU.text" = "Timu yetu";
+"n3d-Qn-SsJ.text" = "Sera ya Ushirikiano ya AML na CFT";

@@ -1,0 +1,762 @@
+"app_name" = "Gulf Exchange App";
+    "about_us" = "गल्फ एक्सचेंज, एक ISO 27001:2013 प्रमाणित कंपनी और कतर राज्य में अग्रणी मुद्रा विनिमय में
+        से एक, ने 1977 में अपनी स्थापना के बाद से 1.6 मिलियन खुदरा और व्यावसायिक ग्राहकों के लिए अपनी सेवाओं का विस्तार किया है। संस्थापक और अध्यक्ष,
+        श्री अली जाफ़र अल-सर्राफ, कंपनी दुनिया भर में विदेशी मुद्रा विनिमय, सोने की खरीद और बिक्री और अंतरराष्ट्रीय धन हस्तांतरण के लिए पहली पसंद बनने के
+        लिए वर्षों से बढ़ी है। जबकि गल्फ एक्सचेंज में ग्राहक अनुभव अन्य व्यवसायों के लिए एक आकांक्षा है, यह एक वास्तविकता है। हम अपनी 12 शाखाओं और 20
+        भाषाओं में मासिक 135,000 ग्राहकों को व्यक्तिगत सेवाएं प्रदान करते हैं। दुनिया भर में हमारे भागीदारों के व्यापक नेटवर्क के माध्यम से, हम अपने ग्राहकों के लिए
+        सबसे अधिक प्रतिस्पर्धी विनिमय दर प्रदान करने के लिए अच्छी तरह से तैनात हैं। इसके अलावा, हम 1991 से वित्तीय प्रौद्योगिकियों को लागू करने में एक अग्रणी व
+        ित्तीय संस्थान के रूप में गर्व करते हैं। हम हमेशा यह सुनिश्चित करते हैं कि हमारे ग्राहक हमारी मानव पूंजी में निवेश करके, हमारे वैश्विक आउटरीच को बढ़ाकर
+        और अपने वितरण चैनलों को विकसित करके यह सुनिश्चित करने में अद्वितीय अनुभव का आनंद लें कि हम जहां कहीं भी हैं, अपने ग्राहकों के साथ हैं।";
+    "message_from_ge" = "गल्फ एक्सचेंज खुद को एक जन-उन्मुख कंपनी के रूप में देखता है। हम मानते हैं कि कर्मचारी जुड़ाव, ग्राहकों की संतुष्टि और
+        सामुदायिक भलाई किसी भी सफल और स्थायी व्यवसाय के आधार हैं। गल्फ एक्सचेंज में, हम लगातार अपने मूल्यवान ग्राहकों को सेवा ’सम उत्कृष्टता’ प्रदान करने
+        का प्रयास करते हैं। हमें इस जिम्मेदारी का एहसास है और हम तदनुसार अपने 12 शाखाओं और वैकल्पिक चैनलों पर समर्पित, अनुभवी और बहुभाषी पेशेवरों द्वारा
+        अपने ग्राहकों को विश्व स्तरीय सेवाएं प्रदान करते हैं। हम अपने ग्राहकों के विश्वास और विश्वास का आनंद लेते हैं जिन्होंने खाड़ी एक्सचेंज को एक अग्रणी एक्सचेंज
+        कंपनी के रूप में तैनात किया है जो मासिक 135,000 ग्राहकों की सेवा कर रही है। इसे प्राप्त करने के लिए, हम अपने मूल्यवान ग्राहकों के लिए उत्कृष्ट सेवा
+        उत्कृष्टता प्राप्त करने के लिए निरंतर समाधान तलाशते हैं, बनाते हैं और अपनाते हैं। हम अपने समर्पित कर्मचारियों और भागीदारों के प्रति उनके दुनिया भर में
+        उत्साह और प्रतिबद्धता के लिए हमेशा आभारी और आभारी हैं। गल्फ एक्सचेंज में आपका स्वागत है और हमारी वेबसाइट पर आने के लिए धन्यवाद !!";
+    "mission_ge" = "Connecting people through innovative financial solutions and a unique service experience";
+    "vision_ge" = "To do Money Exchange business with integrity, commitment, and passion and create a better workplace
+        for the employees.";
+    "values_ge" = "\n \u2022  Integrity \n \u2022  Commitment \n \u2022  Customer Excellence \n \u2022  Collaboration
+        \n \u2022  Care";
+    "compliance" = "GULF EXCHANGE is one of the premier Exchange House in the State of Qatar established in 1977
+        and licensed by The Qatar Central Bank under License No: MS 2/82. \n\n As per the Law No: 36, of 1995 regulating the exchange
+        activities, the company is permitted by the Qatar Central Bank to carry out exchange activities like remittances including
+        foreign currency, electronic global funds transfers, buying and selling banknotes and gold bullion. The Board of Director of
+        Gulf Exchange has appointed a Compliance Manager completed with an experienced &amp; specialized team who is responsible for
+        coordinating &amp; overseeing the AML framework within the organization. The company engaged the Compliance Risk Management
+        Solutions, like “World-Check”, most comprehensive Sanctions and Politically Exposed Persons database for sanction screening,
+        single-source lookup tool like “Word-Check Online. \n\n What Is Money Laundering \n\n The concealment or disguise of
+        the true nature, source, locations, disposition, movement ownership of or rights with respect to funds by any person who
+        knows, should have known or suspects that such funds are the proceeds of crime. There are three stages to Money Laundering:
+        Placement, Layering, and Integration \n\n 1. Objectives and Purpose \n\n Having perused decree Law, no 4 of 2010 on
+        Anti-Money Laundering and Terrorism Financing and the circular issued by Qatar Central Bank dated June 15, 2010, with regard
+        to regulations governing Anti-Money Laundering and Combating Terrorist Financing for Financial Institutions, Gulf Exchange has
+        decided to issue this policies and procedures. \n\n Gulf Exchange is based on a clear and explicit policy to control all of the
+        financial operations whereby a clear plan is placed in the fight against money laundering and the financing of terrorism based on
+        the instructions of Qatar Central Bank, local law as we as international law and standards like Financial Action Task Force (FATF)
+        recommendation and Office of Foreign Assets Control (OFAC), United Nations, European Union and many others. \n\n To protect Gulf
+        Exchange from being a mediator in the money laundering and financing of terrorism or any other illicit activities. \n\n To confirm
+        that Gulf Exchange is working on a clear policy for prevention, detection, controlling and reporting of money laundering and
+        terrorist financing, in accordance with FATF recommendations. \n\n 2. Know Your Customer – KYC \n\n KYC POLICY is one
+        of the most important regulatory requirements in Gulf Exchange’s day-to-day business practices at QCB instruction. It is therefore
+        compulsory to know the regular as well as walk-in customers who conduct their personal or business transactions involving money
+        with Gulf Exchange. The identity of the customer (an individual or company) must be verified before accepting any transactions for
+        any amount. \n\n 3. CDD (Customer Due Diligence) – EDD (Enhanced Due Diligence) \n\n Customer Due diligence is describing
+        the processes and procedures used by a business to qualify a potential customer before the establishment of a working relationship
+        and is also used to continue qualifying that relationship once it is established. \n\n Enhanced Due Diligence is to take additional
+        measures, besides usual Customer Due Diligence, to know more about a customer and to confirm that his/her transactions and funds
+        are legitimate and free from any criminal link. We at Gulf Exchange follow the CDD &amp; EDD procedure in order to mitigate,
+        detect and report any ML &amp; TF associated risks. \n\n 4. Risk-based Approach \n\n Risk-based Approach is one of the processes
+        that is being followed in Gulf Exchange and it’s a methodology that allows to priorities activities based on a previous analysis
+        of data and identifies potential high risks of money laundering and terrorist financing and develops strategies to mitigate them.
+        Existing obligations, such as client identification, will be maintained as a minimum baseline requirement. \n\n 5. Staff Training \n\n
+        Anti-Money Laundering Training is intended to familiarize employees with the process of money laundering and the laws that make it
+        a crime. All staff of Gulf Exchange including senior management and board of director attends AML/CFT training, and that’s will
+        help the company to develop good corporate governance within the Organization. \n\n 6. Record Keeping \n\n All records including,
+        customer’s identification documents and related data, transaction data, and any other related documents must be maintained and
+        retained for a minimum period of fifteen (10) years from the date of financial transactions,Including Internal / external
+        reporting of unusual /potentially suspicious transaction and retaining relevant training materials used and staff attendance
+        documents. \n\n 7. Privacy/Confidentiality \n\n It is Gulf Exchange’s responsibility to protect the confidentiality of
+        all customer transactions including any important and sensitive information, personal business and financial transactions
+        information that has been obtained from customers as part of Gulf Exchange’s customer due-diligence practices.";
+    "terms_conditions" = "<u>TERMS AND CONDITIONS</u>";
+    "terms_conditions1" = "Terms and Conditions";
+    "title_activity_locations" = "नक्शा";
+
+"terms_conditions2"  = "नियम और शर्तें";
+
+    "capture" = "कब्जा";
+    "camera_not_supported" = "आपका डिवाइस कैमरे का समर्थन नहीं करता है।";
+    "capture_image_failed" = "छवि कैप्चर करने में विफल.";
+    "permission_message" = "दोनों अनुमतियों की आवश्यकता है। कृपया दोनों को तस्वीर लेने की अनुमति दें।";
+    "cancel_message" = "उपयोगकर्ता द्वारा रद्द किया गया।";
+    "capture_deny_message" = "दोनों अनुमतियों के बिना इमेज कैप्चर करना काम नहीं करेगा.";
+
+
+
+    //about us
+    "about_gulf_exchange" = "GULF EXCHANGE के बारे में";
+    "message_from_management" = "प्रबंधन से संदेश";
+    "mission_vision_values" = "मिशन, दर्शन और मूल्य";
+    "our_mission" = "हमारा लक्ष्य";
+    "our_vision" = "हमारी दृष्टि";
+    "our_values" = "हमारे आदर्श";
+    "team_members" = "टीम का सदस्या";
+    "our_team" = "हमारी टीम";
+    "aml_compliance" = "एएमएल / सीएफटी अनुपालन नीति";
+    "aml_compliance_policy" = "एएमएल और सीएफटी अनुपालन नीति";
+    "about_us_title" = "हमारे बारे में";
+
+    //change email
+    "password_not_valid" = "पासवर्ड मान्य नहीं है";
+    "pin_not_valid" = "पिन मान्य नहीं है";
+    "fill_fields" = "सभी फ़ील्ड भरें";
+    "email_mismatch" = "बेमेल ईमेल";
+    "new_email_not_valid" = "नया ई-मेल मान्य नहीं है";
+    "old_email_not_valid" = "पुराना ई-मेल मान्य नहीं है";
+    "something_went_wrong" = "कुछ गलत हो गया। पुनः प्रयास करें…";
+    "check_internet" = "कृपया अपने इंटरनेट कनेक्शन की जाँच करें";
+    "unauthorized_access" = "अनाधिकृत उपयोग";
+    "server_error" = "सर्वर त्रुटि";
+    "network_error" = "नेटवर्क त्रुटि";
+    "parse_error" = "पार्स त्रुटि";
+    "check_current_email" = "अपनी वर्तमान ई-मेल आईडी की जाँच करें";
+    "new_email_existing" = "नया ई-मेल पहले से मौजूद है";
+    "check_pin" = "अपना पिन जांचें";
+    "email_reset_success" = "आपकी ई-मेल आईडी सफलतापूर्वक रीसेट हो गई है";
+    "change_email" = "ई-मेल आईडी बदलें";
+    "loading" = "लोड हो रहा है…";
+    "type_old_email" = "पुराना ई-मेल टाइप करें";
+    "type_new_email" = "नया ई-मेल टाइप करें";
+    "re_type_new_email" = "नया ई-मेल री-टाइप करें";
+    "enter_pin" = "पिन दर्ज करें";
+    "password" = "कुंजिका";
+    "save_details" = "विवरण सहेजें";
+
+    //change mobile number
+    "type_old_mobile" = "पुराना मोबाइल नंबर टाइप करें";
+    "type_new_mobile" = "नया मोबाइल नंबर टाइप करें";
+    "retype_new_mobile" = "नया मोबाइल नंबर फिर से टाइप करें";
+    "enter_email" = "ईमेल दर्ज करें";
+    "mobile_mismatch" = "मोबाइल नंबर बेमेल";
+    "email_not_valid" = "ईमेल आईडी मान्य नहीं है";
+    "search_phone_code" = "फ़ोन कोड खोजें";
+    "check_current_mobile" = "अपना वर्तमान मोबाइल नंबर जांचें";
+    "check_email" = "ईमेल आईडी की जाँच करें";
+    "mobile_already_registered" = "यह मोबाइल नंबर दूसरे ग्राहक के लिए पहले से पंजीकृत है। कृपया ग्राहक देखभाल से संपर्क करें";
+    "mobile_reset_success" = "आपका मोबाइल नंबर सफलतापूर्वक रीसेट हो गया";
+    "mobile_not_reset" = "मोबाइल नंबर रीसेट नहीं ... पुन: प्रयास करें";
+    "change_mobile" = "मोबाइल नंबर बदलें";
+
+    //Change Pin
+    "type_old_pin" = "पुराना पिन टाइप करें";
+    "type_new_pin" = "नया पिन टाइप करें";
+    "retype_new_pin" = "नया पिन फिर से टाइप करें";
+    "send_otp" = "OTP भेजें";
+    "we_have_sent" = "हमने एक OTP भेजा है";
+    "email_mobile" = " आपका पंजीकृत ई-मेल और मोबाइल नंबर";
+    "enter_otp" = "OTP दर्ज करें";
+    "resend_otp" = "ओटीपी पुनः भेजें";
+    "current_pin_invalid" = "वर्तमान पिन अमान्य है";
+    "pin_mismatch" = "पिन बेमेल";
+    "otp_resent" = "ओटीपी से नाराजगी है";
+    "error_otp" = "OTP भेजने में त्रुटि ...";
+    "pin_reset_success" = "आपका पिन सफलतापूर्वक रीसेट हो गया है";
+    "login_again" = "कृपया नए क्रेडेंशियल्स के साथ फिर से लॉगिन करें";
+    "yes" = "हाँ";
+    "change_pin" = "पिन बदलें";
+    "error_in_otp_sent" = "OTP भेजने में त्रुटि ...";
+    "otp_expired" = "OTP की समय सीमा समाप्त ...";
+
+    //Change security question
+
+    "security_question" = "सुरक्षा प्रश्न";
+    "answer" = "उत्तर";
+    "pin" = "पिन";
+    "security_question_reset_success" = "आपका सुरक्षा प्रश्न सफलतापूर्वक रीसेट हो गया है";
+    "check_password" = "अपना पासवर्ड जांचें";
+    "invalid_token" = "अमान्य टोकन";
+    "change_security_question" = "सुरक्षा प्रश्न बदलें";
+
+    // Currency converter
+    "transfer" = "स्थानांतरण";
+    "buy" = "खरीदें";
+    "sell" = "बेचना";
+    "enter_amount" = "राशी डालें:";
+    "from" = "से :";
+    "to" = "सेवा :";
+    "qar" = "कतरी रियाल";
+    "select" = "चुनते हैं";
+    "convert" = "धन परिवर्तित करें";
+    "sel_diff_currency" = "एक अलग मुद्रा का चयन करें";
+    "sel_rec_currency" = "एक प्राप्त मुद्रा का चयन करें";
+    "enter_an_amount" = "एक राशि दर्ज करें";
+    "not_available" = "उपलब्ध नहीं है";
+    "currency_converter" = "मुद्रा परिवर्तक";
+
+    //Forgot pin
+    "email" = "ईमेल";
+    "confirm_email" = "ईमेल की पुष्टि करें";
+    "id_no" = "आईडी नंबर";
+    "enter_id_no" = "आईडी नंबर दर्ज करें";
+    "enter_password" = "पास वर्ड दर्ज करें";
+    "confirm_password" = "पासवर्ड की पुष्टि कीजिये";
+    "confirm" = "पुष्टि करें";
+    "password_mismatch" = "पासवर्ड का मेल नहीं हुआ";
+    "email_not_registered" = "ईमेल पंजीकृत नहीं है";
+    "check_email_cust_id" = "अपनी वर्तमान ई-मेल आईडी और ग्राहक आईडी की जाँच करें";
+    "otp_expire" = "OTP की समय सीमा समाप्त ...";
+    "forgot_pin" = "पिन भूल गए";
+
+    //Homepage
+    "home" = "मुख पृष्ठ";
+    "profile" = "प्रोफ़ाइल";
+    "notification" = "अधिसूचना";
+    "settings" = "समायोजन";
+    "logout" = "लॉग आउट";
+    "send_money" = "पैसे भेजो";
+    "my_transactions" = "मेरे लेन-देन";
+    "track_transactions" = "ट्रैक लेन-देन";
+    "currency_rate" = "मुद्रा दर";
+    "branches" = "शाखाओं";
+    "help" = "मदद";
+    "want_to_logout" = "क्या आप वास्तव में लॉगआउट करना चाहते हैं?";
+    "no" = "नहीं";
+    "whatsapp_not_available" = "इस डिवाइस में उपलब्ध नहीं है WhatsApp ...";
+    "whatsapp_not_installed" = "WhatsApp इंस्टॉल नहीं है।";
+    "want_to_exit" = "क्या आप वास्तव में बाहर निकलना चाहते हैं?";
+    "account_under_verification" = "आपका खाता सत्यापन के अधीन है। \n आपका खाता सक्रिय होने के बाद आप लेन-देन आगे बढ़ा सकते हैं। \n अधिक जानकारी के लिए कृपया ग्राहक सेवा पर कॉल करें।";
+    "check_information" = "उपयोगकर्ता जानकारी की जाँच कर रहा है ...।";
+
+    "aboutus" = "हमारे बारे में";
+    "faq" = "सामान्य प्रश्न";
+    "currencyconverter" = "मुद्रा परिवर्तक";
+
+
+    //Register Page
+    "identification" = "पहचान";
+    "security" = "सुरक्षा";
+    "identification_details" = "पहचान विवरण";
+    "id_issuer" = "आईडी जारीकर्ता";
+    "id_exp_date" = "आईडी समाप्ति तिथि";
+    "visa_no" = "वीज़ा संख्या";
+    "visa_issued_date" = "वीजा जारी की तारीख";
+    "visa_exp_date" = "वीजा समाप्ति की तारीख";
+    "next" = "आगे";
+    "cancel" = "रद्द करना";
+    "cancel1" = "रद्द करना";
+    "personal_info" = "व्यक्तिगत जानकारी";
+    "fullname_en" = "पूरा नाम अंग्रेजी में";
+    "fullname_ar" = "अरबी में पूरा नाम (ऐच्छिक)";
+    "dob" = "जन्म की तारीख";
+    "nationality" = "राष्ट्रीयता";
+    "country_residence" = "निवास का देश";
+    "municipality" = "नगर पालिका (वैकल्पिक)";
+    "zone" = "क्षेत्र (वैकल्पिक)";
+    "home_addr" = "घर का पता (कतर वैकल्पिक में)";
+    "gender" = "लिंग";
+    "mobile_no" = "मोबाइल नंबर";
+    "employer" = "नियोक्ता";
+    "exp_income" = "अपेक्षित आय (महीने के)";
+    "work_address" = "कार्यालय का पता";
+    "occupation" = "व्यवसाय";
+    "reg_code" = "पंजीकरण कोड (अगर उपलब्ध हो)";
+    "sec_qu2" = "सुरक्षा प्रश्न 2";
+    "sec_qu3" = "सुरक्षा प्रश्न 3";
+    "pass_cap" = "कुंजिका";
+    "pass_req" = "पासवर्ड की आवश्यकता";
+    "characters" = "8-16 वर्ण";
+    "uppercase" = "1 बड़ा अक्षर";
+    "lowercase" = "1 लोअरकेस पत्र";
+    "num" = "1 नंबर";
+    "retype_pass" = "पासवर्ड फिर से लिखें";
+    "pin_num" = "पिन नम्बर (4 संख्या अंक)";
+    "i_agree" = "मैं इसके लिए सहमत हूं";
+    "create_profile" = "प्रोफ़ाइल बनाने";
+    "read_terms" = "नियम और शर्तें पढ़ें";
+    "sel_sec_que" = "कृपया सुरक्षा प्रश्न चुनें";
+    "enter_answer" = "कृपया प्रश्न का उत्तर दर्ज करें";
+    "pass_length" = "पासवर्ड की लंबाई 8-16 अक्षर होनी चाहिए";
+    "pass_must1" = "पासवर्ड में कम से कम 1 बड़ा अक्षर होना चाहिए";
+    "pass_must2" = "पासवर्ड में कम से कम 1 लोअरकेस अक्षर होना चाहिए";
+    "pass_must3" = "पासवर्ड में कम से कम 1 नंबर होना चाहिए";
+    "pin_must" = "पिन 4 अंकों की संख्या होनी चाहिए";
+    "agree_to_continue" = "जारी रखने के लिए कृपया नियम और शर्तों से सहमत हों";
+    "invalid_dob" = "जन्म तिथि अमान्य। उपयोगकर्ता की आयु 18 वर्ष से अधिक होनी चाहिए";
+    "sel_municipality" = "एक नगर पालिका का चयन करें";
+    "register" = "रजिस्टर करें";
+    "sel_id_type" = "कृपया आईडी प्रकार चुनें";
+    "sel_id_issuer" = "कृपया आईडी जारीकर्ता का चयन करें";
+    "enter_id_exp_date" = "कृपया आईडी समाप्ति तिथि दर्ज करें";
+    "enter_valid_qid" = "कृपया एक मान्य QID दर्ज करें";
+    "enter_visa_no" = "कृपया वीजा नंबर दर्ज करें";
+    "enter_visa_exp_date" = "कृपया वीज़ा समाप्ति तिथि दर्ज करें";
+    "sel_visa_type" = "कृपया वीजा प्रकार चुनें";
+    "enter_fullname_en" = "कृपया अंग्रेजी में फुलनाम दर्ज करें";
+    "enter_valid_email" = "कृपया मान्य ईमेल पता दर्ज करें";
+    "enter_dob" = "कृपया जन्म तिथि दर्ज करें";
+    "sel_nationality" = "कृपया राष्ट्रीयता का चयन करें";
+    "enter_addr" = "कृपया पता दर्ज करें";
+    "enter_city" = "कृपया शहर में प्रवेश करें";
+    "Select City" = "Select City";
+
+    "sel_country" = "कृपया देश का चयन करें";
+    "sel_gender" = "कृपया लिंग चुनें";
+    "sel_country_code" = "कृपया देश कोड चुनें";
+    "enter_mobile" = "कृपया मोबाइल नंबर दर्ज करें";
+    "enter_employer_name" = "कृपया नियोक्ता का नाम दर्ज करें";
+    "enter_occupation" = "कृपया व्यवसाय में प्रवेश करें";
+    "enter_working_address" = "कृपया काम करने का पता दर्ज करें";
+    "enter_exp_income" = "कृपया अपेक्षित आय दर्ज करें";
+    "enter_zone" = "कृपया ज़ोन डालें";
+    "search_nationality" = "राष्ट्रीयता खोजें";
+    "search_country" = "खोज देश";
+    "search_gcc" = "खोज जीसीसी देश";
+    "search" = "खोज";
+    "search_municipality" = "नगरपालिका खोजें";
+    "search_zone" = "खोज क्षेत्र";
+    "id_type" = "आईडी का प्रकार";
+    "visa_type" = "वीजा का प्रकार";
+    "cannot_sel_same_que" = "कई बार एक ही प्रश्न का चयन नहीं कर सकते";
+    "no_other_keyboard" = "कोई अन्य कीबोर्ड नहीं मिला";
+    "validating" = "मान्यवर ... कृपया प्रतीक्षा करें";
+    "id_exists" = "यह आईडी नंबर हमारे सिस्टम में मौजूद है। कृपया अपने आईडी नंबर और पासवर्ड का उपयोग करके साइन इन करें";
+    "accept" = "स्वीकार करना";
+    "Please enter valid name" = "कृपया मान्य नाम दर्ज करें";
+    "Please enter valid home address" = "कृपया मान्य घर का पता दर्ज करें";
+    "Please enter valid employer" = "कृपया मान्य नियोक्ता दर्ज करें";
+    "Please enter valid working address" = "कृपया मान्य कार्य पता दर्ज करें";
+    "Please enter valid address" = "कृपया मान्य पता दर्ज करें";
+
+    //Change Password
+    "type_old_password" = "पुराना पासवर्ड टाइप करें";
+    "password_requirements" = "पासवर्ड की आवश्यकता";
+    "password_req1" = "8-16 वर्ण";
+    "password_req2" = "1 बड़ा अक्षर";
+    "password_req3" = "1 लोअरकेस पत्र";
+    "password_req4" = "1 नंबर";
+    "type_new_password" = "नया पासवर्ड टाइप करें";
+    "re_type_new_password" = "नया पासवर्ड दोबारा टाइप करें";
+    "check_your_pin" = "अपना पिन जांचें";
+    "fill_all_fields" = "सभी फ़ील्ड भरें";
+    "password_fields_not_matching" = "पासवर्ड फ़ील्ड मेल नहीं खा रहे हैं";
+    "something_went_wrong_try_again" = "कुछ गलत हुआ है, दोबारा कोशिश करें...";
+    "error_check_current_password" = "त्रुटि ... अपना वर्तमान पासवर्ड जांचें";
+    "error_check_current_email_id" = "त्रुटि ... अपनी वर्तमान ई-मेल आईडी की जाँच करें";
+    "change_password" = "पासवर्ड बदलें";
+    //Currency rate
+    "transfer_column" = "स्थानांतरण: ";
+    "we_sell" = "हम बेचते हैं :";
+    "we_buy" = "हम खरीदते हैं :";
+    //Currency Rate List
+    //Forgot password
+
+    "id_number" = "आईडी नंबर";
+    "enter_id_number" = "आईडी नंबर दर्ज करें";
+    "we_have_send_otp_to_email_mob" = "हमने आपके पंजीकृत ई-मेल और मोबाइल नंबर पर एक ओटीपी भेजा है";
+    "please_enter_otp" = "कृपया ओटीपी दर्ज करें";
+    "emails_not_matching" = "मेल मेल नहीं खा रहे हैं";
+    "check_current_email_customer_id" = "त्रुटि ... अपनी वर्तमान ई-मेल आईडी और ग्राहक आईडी की जाँच करें";
+    "error_try_again" = "त्रुटि ... पुनः प्रयास करें";
+    "forgot_password" = "पासवर्ड भूल गए?";
+    //Help page
+    "customer_support" = "ग्राहक सहेयता";
+    "email_us" = "हमे ईमेल करे";
+    "call_us" = "हमें बुलाओ";
+    "verification_location" = "सत्यापन का स्थान";
+    "choose_email_client" = "एक ईमेल क्लाइंट चुनें:";
+    "no_email_clients" = "कोई ईमेल क्लाइंट स्थापित नहीं हैं";
+    "no_whatsapp_messenger" = "व्हाट्सएप मैसेंजर इस डिवाइस में उपलब्ध नहीं है";
+    //Help page1
+    "please_call_cc" = "कृपया कस्टमर केयर नंबर पर कॉल करें:";
+    "call" = "कॉल";
+    "or_email" = "या हमें ईमेल करें:";
+    "send_email" = "ईमेल भेजें";
+    "select_phone_number" = "एक फ़ोन नंबर चुनें";
+    //Locations
+    "locations" = "स्थान";
+    "turn_on_location" = "स्थान चालू करें";
+    //Login
+    "already_customer" = "पहले से ही एक ग्राहक?";
+    "log_in" = "लॉग इन करें";
+    "sign_in" = "साइन इन करें";
+    "forgot_pwd_click" = "पासवर्ड भूल गए ? क्लिक ";
+    "forgot_pin_click" = "पिन भूल गए? क्लिक ";
+    "here" = "यहाँ";
+    "or" = "या";
+    "pls_register" = "कृपया दर्ज करें";
+    "pls_enter_valid_pin" = "कृपया एक मान्य पिन दर्ज करें";
+    "do_you_want_exit" = "क्या आप वास्तव में बाहर निकलना चाहते हैं?";
+    "enable_network" = "नेटवर्क सक्षम करें";
+    "loc_settings_inadequate" = "स्थान सेटिंग्स अपर्याप्त हैं, और यहां तय नहीं किया जा सकता है। सेटिंग्स में ठीक करें।";
+    "checking_user_info" = "उपयोगकर्ता जानकारी की जाँच कर रहा है ...";
+    "wrong_login_info" = "क्षमा करें, आपके द्वारा दर्ज की गई जानकारी हमारी मौजूदा जानकारी से मेल नहीं खाती है";
+    "try_after_ten" = "बहुत सारे प्रयास, 10 मिनट के बाद प्रयास करें";
+    "qatar_login_only" = "माफ़ करना! हमारी ऑनलाइन मनी ट्रांसफर सेवाओं का उपयोग केवल कतर में किया जा सकता है।";
+    "no_vpn_network" = "माफ़ करना! वीपीएन सक्षम नेटवर्क समर्थित नहीं है।";
+    "permanent_lock" = "आपका लॉगिन खाता स्थायी रूप से बंद है। कृपया ग्राहक देखभाल से संपर्क करें";
+    "loc_not_available_error" = "आपका स्थान उपलब्ध नहीं है। अपनी स्थान सेवा की जाँच करें और पुनः प्रयास करें";
+    "multiple_login" = "समान उपयोगकर्ता सिस्टम में पहले से ही लॉग इन है। आप कई उपकरणों से लॉगिन नहीं कर सकते";
+    //My Transaction List
+    "from_date" = "तारीख से";
+    "to_date" = "तारीख तक";
+    "go" = "जाओ";
+    "search_ref_no" = "संदर्भ खोजें ...";
+    "no_transaction_available" = "कोई लेनदेन उपलब्ध नहीं है";
+    "get_statement" = "स्थिति प्राप्त करें";
+    "enter_valid_ref_no" = "एक मान्य संदर्भ संख्या दर्ज करें";
+    "no_data_available" = "कोई डेटा उपलब्ध नहीं है";
+    //Notifications
+    "no_notifications" = "कोई नए संदेश नहीं";
+    "notifications" = "सूचनाएं";
+    //Profile
+
+    "full_name_eng" = "फुलनेम अंग्रेजी में";
+    "full_name_arabic" = "फुलनेम अरबी में";
+    "country_of_residence" = "निवास का देश";
+    "address" = "पता";
+    "mob_no" = "मोबाइल नंबर";
+    "working_add" = "काम करने का पता";
+    "back" = "वापस";
+    //Reset password
+    "re_type_password" = "पासवर्ड फिर से लिखें";
+    "passwords_not_matching" = "पासवर्ड मेल नहीं खा रहे हैं";
+    "password_reset_success" = "आपका पासवर्ड सफलतापूर्वक रीसेट हो गया है";
+    "password_reset_fail" = "आपका पासवर्ड रीसेट नहीं है";
+    "reset_password" = "पासवर्ड रीसेट";
+    //Reset PIN
+    "new_pin" = "नया पिन";
+    "re_type_new_pin" = "नया पिन फिर से टाइप करें";
+    "pin_reset_fail" = "आपका पिन रीसेट नहीं है";
+    "reset_pin" = "पिन रीसेट करें";
+    //Select Language
+    "select_language" = "भाषा का चयन करें";
+    "select_cap" = "चुनते हैं";
+    //settings
+    "change_email_settings" = "ई - मेल बदलें";
+    "change_pin_settings" = "पिन बदलें";
+    "change_password_settings" = "पासवर्ड बदलें";
+    "change_security_settings" = "सुरक्षा प्रश्न बदलें";
+    "change_mobile_settings" = "मोबाइल नंबर बदलें";
+
+    //Take Photo
+    "photo_id_front" = "कृपया अपनी आईडी (सामने) का फोटो लें";
+    "confirm_pic" = "पुष्टि करें";
+    "discard_pic" = "रद्द करें";
+    "register_pic" = "रजिस्टर करें";
+    "permission_reqd" = "अनुमति आवश्यक है";
+    "cam_permission_reqd" = "आगे बढ़ने के लिए कैमिया की अनुमति आवश्यक है।";
+    "loading_image" = "चित्र लोड हो रहा है ....";
+    "photo_id_back" = "कृपया अपनी आईडी (बैक) का फोटो लें";
+    "this_permission_reqd" = "यह अनुमति आवश्यक है";
+    "photo_selfie" = "कृपया अपनी आईडी पकड़े एक सेल्फी लें";
+    //Track Transaction
+    "tt_no" = "टीटी नंबर:";
+    "date" = "तारीख:";
+    "enter_ref_no" = "कृपया अपना संदर्भ नंबर दर्ज करें";
+    "track_transaction" = "ट्रैक लेन-देन";
+    //Transaction Details
+    "firstname" = "पहला नाम";
+    "lastname" = "उपनाम";
+    "address1" = "पता";
+    "city1" = "सिटी";
+    "mob_no1" = "मोबाइल न";
+    "bank_name1" = "बैंक का नाम";
+    "branch_name1" = "शाखा का नाम";
+    "acc_no_iban1" = "A/C NO / IBAN";
+    "swift_code1" = "स्विफ्ट कोड";
+    "relationship1" = "संबंध";
+    "track1" = "धावन पथ";
+    "transaction_details" = "लेनदेन का विवरण";
+    "firstname_sm" = "पहला नाम";
+    "lastname_sm" = "उपनाम";
+    "address1_sm" = "पता";
+    "city1_sm" = "सिटी";
+    "mob_no1_sm" = "मोबाइल न";
+    "bank_name1_sm" = "बैंक का नाम";
+    "branch_name1_sm" = "शाखा का नाम";
+    "acc_no_iban1_sm" = "A/C NO / IBAN";
+    "swift_code1_sm" = "स्विफ्ट कोड";
+    "relationship1_sm" = "संबंध";
+    "track1_sm" = "धावन पथ";
+    "transaction_details_sm" = "लेनदेन का विवरण";
+    //Other XML Layouts
+    "country_name" = "देश का नाम";
+    "search1" = "खोज";
+    "see_price" = "देखें मूल्य";
+    "select_gender" = "लिंग चुनें";
+    "male" = "पुरुष";
+    "female" = "महिला";
+    "ok" = "ठीक";
+    "show_details" = "प्रदर्शन का विवरण";
+    "network_not_available" = "नेटवर्क उपलब्ध नहीं ...! \n नेटवर्क सक्षम करें और पुनः प्रयास करें";
+
+    //Register Page1
+    "u_r_almost_done" = "लगभग काम हो गया!";
+    "we_have_sent_otp" = "हमने आपके पंजीकृत ई-मेल और मोबाइल नंबर पर एक ओटीपी भेजा है। कृपया पंजीकरण प्रक्रिया को पूरा करने के लिए अपने इनबॉक्स / संदेशों की जांच करें।";
+    "pls_enter_otp" = "कृपया ओटीपी नंबर दर्ज करें";
+    "otp" = "OTP नंबर";
+    "getting_images" = "चित्र प्राप्त कर रहा है ...";
+    "registering_customer" = "नए ग्राहक का पंजीकरण ...";
+    "invalid_otp" = "अमान्य ओटीपी";
+
+    //Register Page2
+    "reg_request" = "महान! आपका पंजीकरण अनुरोध सफलतापूर्वक शुरू किया गया है";
+    "acc_verif" = "आपके खाते का सत्यापन चल रहा है";
+    "acc_acti" = "एक बार जब आपका खाता सक्रिय हो जाता है, तो आपको ई-मेल और अधिसूचना द्वारा सूचित किया जाएगा तथा";
+    "u_will_able" = "आप लेनदेन को संसाधित करने में सक्षम होंगे ";
+
+
+    //Remittance Page1
+    "sel_payment_mode" = "भुगतान मोड का चयन करें";
+    "cash_pickup" = "कैश पिकअप";
+    "acc_transfer" = "खाता स्थानांतरण";
+    "enter_rece_info" = "नई रिसीवर जानकारी दर्ज करें";
+    "country" = "देश";
+    "address_cap" = "पता";
+    "mobile_no1" = "मोबाइल नंबर";
+    "exch_compny" = "एक्सचेंज कंपनी या बैंक";
+    "enter_new_rece" = "नई रिसीवर जानकारी दर्ज करें";
+    "first_name1" = "पहला नाम (बैंक के अनुसार)";
+    "lastname1" = "अंतिम नाम (बैंक के अनुसार)";
+    "acc_no1" = "खाता संख्या";
+    "iban1" = "अंतरराष्ट्रिय बैंक खाता संख्या";
+    "sort_code1" = "क्रमबद्ध कोड";
+    "routing_code1" = "मार्ग कोड";
+    "ifsc_code1" = "IFSC कोड";
+    "other_info1" = "अन्य सूचना";
+    "save_next" = "बचाओ और अगला";
+    "sel_bank" = "कृपया बैंक चुनें";
+    "enter_firstname" = "कृपया पहला नाम दर्ज करें";
+    "enter_lastname" = "कृपया अंतिम नाम दर्ज करें";
+    "enter_bank_name" = "कृपया बैंक का नाम दर्ज करें";
+    "enter_branch_name" = "कृपया शाखा का नाम दर्ज करें";
+    "enter_address" = "कृपया पता दर्ज करें";
+    "enter_account" = "कृपया खाता संख्या दर्ज करें";
+    "enter_iban" = "कृपया IBAN दर्ज करें";
+    "enter_swift_code" = "कृपया स्विफ्ट कोड दर्ज करें";
+    "enter_sort_code" = "कृपया सॉर्ट कोड दर्ज करें";
+    "enter_routing_code" = "कृपया रूटिंग कोड दर्ज करें";
+    "enter_ifsc" = "कृपया IFSC कोड दर्ज करें";
+    "sel_source" = "कृपया फंड के स्रोत का चयन करें";
+    "sel_purpose" = "कृपया लेनदेन का उद्देश्य चुनें";
+    "sel_relation" = "कृपया संबंध चुनें";
+    "pls_agree" = "कृपया जारी रखने के लिए नियम और शर्तों से सहमत हों";
+    "remittance" = "प्रेषण";
+    "sel_existing_rece" = "किसी मौजूदा रिसीवर का चयन करें";
+    "no_ben_added" = "कोई लाभार्थी नहीं जोड़ा गया";
+    "no_country" = "कोई देश नहीं मिला";
+    "no_bank" = "कोई बैंक नहीं मिला";
+    "source1" = "निधि का स्रोत";
+    "purpose1" = "लेन-देन का उद्देश्य";
+    "coming_soon" = "जल्द आ रहा है";
+    "Please enter valid account number" = "कृपया मान्य खाता संख्या दर्ज करें";
+
+    "Please enter valid mobile number" = "कृपया मान्य मोबाइल नंबर दर्ज करें";
+    "entermiddlename" = "कृपया मध्य नाम दर्ज करें";
+    "GENDERR" = "लिंग";
+    "nationalityy" = "राष्ट्रीयता";
+
+   "SERVICEPROVIDER" = "सेवा प्रदाता";
+   "MOBILEOPERATOR" = "मोबाइल ऑपरेटर";
+
+"middlename1" = "मध्य नाम (बैंक के अनुसार)";
+"servicetype" = "सेवा प्रकार";
+
+
+    //Remittance Page2
+
+    "sending_amount" = "राशि भेजना";
+    "recipient_receivers" = "प्राप्तकर्ता प्राप्य";
+    "receiving_amount" = "प्राप्त राशि";
+    "rate" = "मूल्यांकन करें";
+    "want_pay" = "आप कैसे भुगतान करना चाहते है";
+    "debit_card" = "डेबिट कार्ड (NAPS)";
+    "do_you_have_promo" = "क्या आपके पास प्रोमो कोड है?";
+    "enter_promo_code" = "प्रचार कि नियमावली दर्ज करो";
+    "apply" = "लागू";
+    "transfer_amount" = "स्थानांतरण राशि";
+    "transfer_fee" = "हस्तांतरण शुल्क";
+    "promo_code" = "प्रचार कोड";
+    "total" = "संपूर्ण";
+    "enter_amount1" = "भेजने के लिए कृपया राशि दर्ज करें";
+    "enter_card_no" = "कृपया कार्ड नंबर दर्ज करें";
+    "card_holder" = "कृपया कार्ड धारक का नाम दर्ज करें";
+    "enter_exp_date" = "कृपया समाप्ति तिथि दर्ज करें";
+    "enter_valid_amount" = "कृपया 0 से अधिक मान्य राशि दर्ज करें";
+
+    //Remittance Page3
+    "pls_review" = "कृपया अपने अनुरोध को देखें";
+    "amount1" = "रकम";
+    "amount1_sm" = "रकम";
+
+    //Remittance Page4
+
+    "we_have_sent1" = "हमने आपके पंजीकृत ई-मेल और मोबाइल नंबर पर एक ओटीपी भेजा है";
+    "remittance_not_allowed" = "प्रेषण लेनदेन की अनुमति नहीं है, कृपया ग्राहक सेवा से संपर्क करें";
+    "verifying" = "कृपया प्रतीक्षा करें का सत्यापन कर रहा है";
+
+    //Remittance Page5
+    "payment" = "भुगतान";
+    //Remittance Page6
+    "remittance1" = "प्रेषण";
+    "transaction_success" = "लेनदेन सफलतापूर्वक भेजा गया!";
+    "transaction_success1" = "महान! आपका लेनदेन सफलतापूर्वक भेज दिया गया है।\n\n आपका लेनदेन नंबर है:";
+    "ref_no" = "PUN/रेमिटेंस रेफरेंस नं:";
+    "u_can_track" = "आप क्लिक करके अपने लेन-देन को ट्रैक कर सकते हैं: ";
+    "track2" = "ट्रैक परिवहन";
+    "main_menu1" = "मुख्य मेनू";
+    "date_transaction" = "लेन-देन की तारीख";
+    "transaction_amount" = "लेन - देन की राशि";
+    "payment_status" = "भुगतान की स्थिति: सफलता";
+    "transaction_failed" = "लेन देन असफल!";
+    "payment_completed" = "भुगतान सफलतापूर्वक पूरा हुआ।\n\n लाभार्थी सत्यापन त्रुटि!।\nकृपया अपने ग्राहक सेवा से संपर्क करें।";
+    "transaction_failed1" = "दुर्भाग्य से आपका लेनदेन विफल हो गया है।\n आपका लेनदेन नंबर है:";
+    "payment_status1" = "भुगतान की स्थिति: विफल";
+    "transaction_canceled" = "लेन-देन रद्द!";
+    "transaction_canceled1" = "आपका लेनदेन रद्द कर दिया गया है।";
+    "sel_visa_issued_date" = "कृपया वीजा जारी तिथि का चयन करें";
+    "delete_notification" = "क्या आप वास्तव में अधिसूचना को हटाना चाहते हैं?";
+    "notification_deleted" = "अधिसूचना हटाई गई";
+    "notification_not_deleted" = "अधिसूचना नहीं हटाई गई";
+
+    "change_language_settings" = "भाषा सेटिंग्स बदलें";
+    "u_r_not_allowed" = "आपको प्रेषण लेनदेन करने की अनुमति नहीं है";
+    "contact_customer_care" = "कृपया कस्टमर केयर पर संपर्क करें";
+    "pls_update_profile" = "कृपया अपनी प्रोफ़ाइल अपडेट करें";
+    "delete" = "हटाएं";
+    "want_to_delete_beneficiary" = "क्या आप वास्तव में लाभार्थी विवरण को हटाना चाहते हैं";
+    "ben_deleted" = "लाभार्थी का विवरण हटा दिया गया";
+    "enter_municipality" = "नगर पालिका नाम दर्ज करें";
+    "i_checked" = "मैंने खाता जानकारी जाँची";
+    "confirm_account" = "कृपया अपने खाते और जानकारी की समीक्षा करें और पुष्टि करें";
+    "check_cust_id_password_email" = "अपनी वर्तमान ग्राहक आईडी, पासवर्ड और ई-मेल आईडी की जाँच करें";
+    "transaction_hold" = "आपका लेन-देन होल्ड पर है। \nकृपया ग्राहक देखभाल से संपर्क करें";
+    "transaction_initiated" = "लेन-देन आरंभ हुआ";
+    "under_process" = "आपका लेनदेन प्रक्रियाधीन है";
+    "pin_error" = "पिन 4 अंकों की संख्या होनी चाहिए";
+    "powered_by" = "द्वारा संचालित";
+
+    "confirm_reg_details" = "कृपया पंजीकरण विवरण दर्ज करें";
+    "enter_valid_mob" = "मोबाइल नंबर में 8 अंक होने चाहिए";
+    "commission" = "आयोग";
+    "commission_sm" = "आयोग";
+    "sent_successfully" = "सफलतापूर्वक भेज दिया";
+    "pending" = "विचाराधीन";
+    "id_front" = "आईडी कार्ड फ्रंट साइड फोटो";
+    "id_back" = "आईडी कार्ड बैकसाइड फोटो";
+    "profile_photo" = "आईडी कार्ड के साथ प्रोफाइल फोटो";
+    "location_fetch" = "स्थान की जाँच। कृपया प्रतीक्षा कीजिये";
+    "failed" = "अनुत्तीर्ण होना";
+    "under_process1" = "प्रक्रियाधीन";
+    "total_amount" = "कुल रकम";
+    "total_amount_sm" = "कुल रकम";
+    "update" = "अपडेट करें";
+    "gulf_exchange" = "गल्फ एक्सचेंज";
+"enablebiometric" = "बायोमेट्रिक प्रमाणीकरण सक्षम करें";
+"doyouenablebiometric" = "क्या आप इस एप्लिकेशन में बायोमेट्रिक प्रमाणीकरण सक्षम करना चाहते हैं?";
+"dualnationality" = "दोहरी नागरिकता";
+"seldualnationality" = "दोहरी राष्ट्रीयता का चयन करें";
+"BankTransfer" = "Bank Transfer";
+"Email" = "ईमेल";
+"ActualOccupation" = "वास्तविक व्यवसाय";
+"IDExpiry" = "आईडी समाप्ति";
+"SelfieWithID" = "आईडी के साथ सेल्फी";
+"IDFront" = "आईडी फ्रंट";
+"IDBack" = "आईडी वापस";
+"UserBranch" = "उपयोगकर्ता शाखा";
+"Street" = "गली";
+"BuildingNumber" = "बिल्डिंग नंबर";
+"Feedback" = "प्रतिक्रिया";
+"BlockAccount" = "खाता ब्लॉक करें";
+"More" = "अधिक";
+"CurrentPin" = "वर्तमान पिन";
+"ConfirmPin" = "पिन की पुष्टि करें";
+"1Special Characters" = "1विशेष पात्र";
+"Pin" = "नत्थी करना";
+"ConfirmPassword" = "Konfirmasi Kata Sandi";
+"NewPassword" = "नया पासवर्ड";
+"CurrentPassword" = "वर्तमान पासवर्ड";
+"block" = "ब्लॉक";
+"blockQuestion" = "क्या आप वाकई अपना खाता ब्लॉक करना चाहते हैं? अपना खाता अनब्लॉक करने के लिए कृपया हमारे ग्राहक सहायता से संपर्क करें";
+"sortByDate" = "तारीख के हिसाब से छांटें";
+"from1" = "की तिथि से";
+"to1" = "की तिथि तक";
+"transactionType" = "लेन-देन का प्रकार";
+"date1" = "दिनांक";
+"Status" = "स्थिति";
+"sendAgain" = "पुनः भेजें";
+"download" = "डाउनलोड करें";
+"details" = "विवरण";
+"youPaid" = "आपने भुगतान किया";
+"theyReceived" = "उन्हें प्राप्त हुआ";
+"track2" = "ट्रैक करें";
+"transferDetails" = "स्थानांतरण विवरण";
+"paymentReferenceNumber" = "भुगतान संदर्भ संख्या";
+"date&Time" = "दिनांक और समय";
+"collectionRef" = "संग्रह संदर्भ";
+"paidAmount" = "भुगतान की गई राशि";
+"senderInformation" = "प्रेषक की जानकारी";
+"name" = "नाम";
+"beneficiaryInformation" = "लाभार्थी की जानकारी";
+"countryT" = "देश";
+"contact" = "संपर्क";
+"receiveType" = "प्राप्ति का प्रकार";
+"collectionPoint" = "संग्रह बिंदु";
+"transferInformation" = "स्थानांतरण जानकारी";
+"receiveAmount" = "प्राप्ति राशि";
+"exchangeRate" = "विनिमय दर";
+"share" = "साझा करें";
+"enternewpassword" = "नया पासवर्ड दर्ज करें";
+"confirmnewpassword" = "नए पासवर्ड की पुष्टि करें";
+"Yourpasswordmustcontainatleast" = "आपके पासवर्ड में कम से कम ये होना चाहिए";
+"SetaNewPassword" = "नया पासवर्ड सेट करें";
+"Create a new password ensure it differ" = "एक नया पासवर्ड बनाएं और सुनिश्चित करें कि सुरक्षा के लिए यह पिछले पासवर्ड से अलग हो";
+"Entercurrentpassword" = "वर्तमान पासवर्ड दर्ज करें";
+"SetaNewPIN" = "एक नया पिन सेट करें";
+"SaveDetails" = "विवरण सहेजें";
+"Create a new PIN ensure it differs from previous ones for security" = "एक नया पिन बनाएं और सुनिश्चित करें कि सुरक्षा के लिए यह पिछले पिन से अलग हो";
+"CurrentEmail" = "वर्तमान ईमेल";
+"NewEmail" = "नया ईमेल";
+"ConfirmNewEmail" = "नई ईमेल की पुष्टि करें";
+"Set a New Email" = "एक नया ईमेल सेट करें";
+"Create a new Email ensure it differs from previous ones for security" = "एक नया ईमेल बनाएं और सुनिश्चित करें कि यह सुरक्षा के लिए पिछले ईमेल से अलग हो";
+"Mobile Wallet" = "मोबाइल वॉलेट";
+"Mobile Wallet Transfer" = "मोबाइल वॉलेट ट्रांसफर";
+"See All" = "सभी देखें";
+"Quick Access" = "त्वरित पहुँच";
+"Rate Calculater" = "दर कैलकुलेटर";
+"Beneficiaries" = "लाभार्थियों";
+
+"Master Card" = "मास्टर कार्ड";
+"Exhange rates are indicatve and are subject to change" = "विनिमय दरें सांकेतिक हैं और परिवर्तन के अधीन हैं";
+"Send" = "भेजना";
+"Gold Rate" = "सोने का भाव";
+"Our Partners" = "हमारे सहयोगियों";
+"Golalita Rewards" = "गोललिता पुरस्कार";
+"Special Offers" = "खास पेशकश";
+"Loyalty Points" = "वफादारी अंक";
+"Services" = "सेवाएं";
+"Address1" = "पता 1";
+"Address2" = "पता 2";
+"Sign in to continue" = "Sign in to continue";
+"Don’t have an account ?" = "Don’t have an account ?";
+"You have no notifications" = "You have no notifications";
+"Your notifications will appear here when they arrive." = "Your notifications will appear here when they arrive.";
+"Continue" = "जारी रखना";
+"Login successful!" = "Login successful!";
+"Welcome Back" = "Welcome Back";
+"Find the nearest branch" = "Find the nearest branch";
+"If you would like to visit us, please locate the nearest branch" = "If you would like to visit us, please locate the nearest branch";
+"Email us on" = "Email us on";
+"customercare@gulfexchange.com.qa" = "customercare@gulfexchange.com.qa
+Please include your mobile number in the mail";
+"Let’s Whatsapp" = "Let’s Whatsapp";
+"Gulf Exchange Company" = "Gulf Exchange Company";
+"Ali Bin Abdullah St, Old Al Ghanim" = "Ali Bin Abdullah St, Old Al Ghanim";
+"Locate Branch" = "Locate Branch";
+"Wallet Transfer" = "वॉलेट ट्रांसफर";
+"Mobile" = "गतिमान";
+"Branch" = "शाखा";
+"Branch Code" = "शाखा कोड";
+"Bank" = "किनारा";
+"Account No." = "खाता नंबर।";
+"Purpose" = "उद्देश्य";
+"Income Source" = "आय स्रोत";
+"Verify" = "सत्यापित करें";
+"Source" = "स्रोत";
+"Download Receipt" = "रसीद डाउनलोड करें";
+"Registration completed successfully!" = "Registration completed successfully!";
+"Welcome," = "Welcome";
+
+"Take a selfie while holding your ID." = "Take a selfie while holding your ID.";
+"Record a 3-second video of yourself blinking while holding your ID." = "Record a 3-second video of yourself blinking while holding your ID.";
+"You're almost there!" = "You're almost there!";
+"otpmesssage" = "We've sent an OTP to your mobile number. Please check your messages to complete the registration process.";
+"passwordmesssage" = "Make your password stronger by using a mix of letters, numbers, and special characters.";
+"The back of the card was scanned successfully." = "The back of the card was scanned successfully.";
+"The front of the card was scanned successfully." = "The front of the card was scanned successfully.";
+"Please scan both sides of your Id card" = "Please scan both sides of your Id card";
+"Scan Your ID" = "Scan Your ID";
+"Scan ID" = "आईडी स्कैन करें";
