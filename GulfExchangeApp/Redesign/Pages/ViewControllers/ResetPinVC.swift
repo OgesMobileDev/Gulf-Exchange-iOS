@@ -335,7 +335,8 @@ class ResetPinVC: UIViewController, UITextFieldDelegate{
         self.activityIndicator(NSLocalizedString("loading", comment: ""))
         let url = ge_api_url_new + "oauth/token?grant_type=" + auth_grant_type + "&username=" + auth_username + "&password=" + auth_password
         
-        let encodedValue = "GulfExe:gulf".data(using: .utf8)?.base64EncodedString()
+        let str_encode_val = auth_client_id + ":" + auth_client_secret
+        let encodedValue = str_encode_val.data(using: .utf8)?.base64EncodedString()
         let headers:HTTPHeaders = ["Authorization" : "Basic \(encodedValue ?? "")"]
         
         IDVerificationBaseVC.AlamoFireManager.request(url, method: .post, parameters: nil, encoding: JSONEncoding.default, headers: headers).responseJSON(completionHandler: { (response) in
