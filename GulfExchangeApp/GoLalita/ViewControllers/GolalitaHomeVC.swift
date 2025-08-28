@@ -10,6 +10,7 @@ import UIKit
 import Alamofire
 import SwiftyJSON
 import CommonCrypto
+import PassKit
 
 class GolalitaHomeVC: UIViewController,UITextFieldDelegate {
     
@@ -90,8 +91,8 @@ class GolalitaHomeVC: UIViewController,UITextFieldDelegate {
         
         addShadow(view: searchTFView)
         addNavbar()
-        checkEmail()
-        //        fetchAllAPIs()
+//        checkEmail()
+                fetchAllAPIs()
         //       let plaintext = "Abc123$$"
         let plaintext = "Kuttappi@2580"
         let key = "My157187ghja8971998189198"
@@ -103,16 +104,12 @@ class GolalitaHomeVC: UIViewController,UITextFieldDelegate {
     }
     
     @IBAction func notificationBtnTapped(_ sender: Any) {
-        self.navigationItem.backBarButtonItem = UIBarButtonItem(title: "", style: .plain, target: nil, action: nil)
-        let vc: GLAllNotificationsVC = UIStoryboard.init(name: "MainGolalita", bundle: Bundle.main).instantiateViewController(withIdentifier: "GLAllNotificationsVC") as! GLAllNotificationsVC
-        //        vc.currentPage = .category
-        self.navigationController?.pushViewController(vc, animated: true)
-        //        getToken()
-//        if (GolalitaApiManager.shared.Notification?.count ?? 0) != 0{
-//            
-//        }else{
-//            showAlert(title: "", message: "No notifications available")
-//        }
+//        self.navigationItem.backBarButtonItem = UIBarButtonItem(title: "", style: .plain, target: nil, action: nil)
+//        let vc: GLAllNotificationsVC = UIStoryboard.init(name: "MainGolalita", bundle: Bundle.main).instantiateViewController(withIdentifier: "GLAllNotificationsVC") as! GLAllNotificationsVC
+//        //        vc.currentPage = .category
+//        self.navigationController?.pushViewController(vc, animated: true)
+        
+        getAppleWallet()
     }
     @IBAction func sideMenuBtnTapped(_ sender: Any) {
         if searchResultTableView.isHidden == false{
@@ -264,14 +261,13 @@ class GolalitaHomeVC: UIViewController,UITextFieldDelegate {
     
     func checkEmail(){
             self.activityIndicator(NSLocalizedString("loading", comment: ""))
-            //        let url = "https://www.golalita.com/go/api/user/email/check"
             let params: Parameters = [
                 "params": [
                     "email": userEmail
                 ]
             ]
             //"mailto:email":"safeermeppayur@gmail.com"
-    //        print("checkEmail - parameters: \(params)")
+            print("checkEmail - parameters: \(params)")
             AF.request(GLCheckEmail, method: .post, parameters: params, encoding: JSONEncoding.default, headers: nil).responseJSON(completionHandler: { (response) in
                 print("checkEmail Response - \(response) - \n")
                 switch response.result {
@@ -536,7 +532,7 @@ class GolalitaHomeVC: UIViewController,UITextFieldDelegate {
                 "password": encryptedPassword,
                 "device_id": udid,
                 "device_token": "",
-                "device_type": "ios"
+                "device_type": "android"
             ]
         ]
         
@@ -862,6 +858,65 @@ class GolalitaHomeVC: UIViewController,UITextFieldDelegate {
         commonAlert.addAction(okAction)
         UIApplication.shared.keyWindow?.rootViewController?.present(commonAlert, animated: true, completion: nil)
     }
+    
+    //MARK: PK TEST
+    
+    
+    func getAppleWallet(){
+        let token = GolalitaApiManager.shared.userToken
+        print("Token - \(token) - \n")
+        let url = "https://www.golalita.com/go/api/pass/gulfexchange"
+        let params: Parameters = [
+            "params": [
+                "token": token,
+            ]
+        ]
+        
+        print("getAppleWallet url - \(url)\n")
+        print("getAppleWallet params - \(params)\n")
+        
+        AF.request(url, method: .post, parameters: params, encoding: JSONEncoding.default, headers: nil).responseJSON(completionHandler: { (response) in
+            print("getAppleWallet Response - \(response) - \n")
+            switch response.result {
+            case .success:
+                let myResult = try? JSON(data: response.data!)
+                print("resp",response)
+                let resultArray = myResult?["result"]
+                let url = resultArray?["url"].stringValue
+                self.downloadAndPresentPass(pkUrl: url ?? "")
+            case .failure(let error):
+                print("Error: \(error.localizedDescription)")
+            }
+        })
+    }
+    
+    func downloadAndPresentPass(pkUrl:String) {
+        guard let url = URL(string: pkUrl) else { return }
+        
+        let task = URLSession.shared.dataTask(with: url) { data, response, error in
+            if let error = error {
+                print("Error downloading pass: \(error)")
+                return
+            }
+            
+            guard let data = data else { return }
+            
+            do {
+                let pass = try PKPass(data: data)
+                let passVC = PKAddPassesViewController(pass: pass)
+                
+                DispatchQueue.main.async {
+                    if let passVC = passVC {
+                        UIApplication.shared.windows.first?.rootViewController?.present(passVC, animated: true, completion: nil)
+                    }
+                }
+            } catch {
+                print("Failed to create pass: \(error)")
+            }
+        }
+        task.resume()
+    }
+
     
 }
 
