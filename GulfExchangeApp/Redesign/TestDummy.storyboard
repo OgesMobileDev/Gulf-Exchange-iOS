@@ -1619,6 +1619,7 @@
                         <outlet property="bankNameTF" destination="heb-Re-eKf" id="oSN-1X-teM"/>
                         <outlet property="bankNameView" destination="49z-2E-Lt9" id="gc0-pZ-lHR"/>
                         <outlet property="bankView" destination="YZo-d4-AV3" id="kYZ-8f-qzc"/>
+                        <outlet property="baseStackView" destination="mhW-lf-Dcd" id="bOd-zt-hBY"/>
                         <outlet property="baseVIewHeight" destination="3Yv-xF-UNS" id="Igi-H1-GAo"/>
                         <outlet property="baseView" destination="4vQ-1j-UcV" id="2kf-2p-uDf"/>
                         <outlet property="bicBtn" destination="a2o-Rj-muk" id="vgC-VJ-9lJ"/>

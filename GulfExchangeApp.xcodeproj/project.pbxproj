@@ -13,6 +13,7 @@
 		048B2BA72C2D8D1500749BF3 /* GoLalitaVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048B2BA62C2D8D1500749BF3 /* GoLalitaVC.swift */; };
 		04ABB9002C514D1000959E6D /* IDverificationRegisterVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04ABB8FF2C514D1000959E6D /* IDverificationRegisterVC.swift */; };
 		04CD3B752DD0F75A00129CA9 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 04CD3B742DD0F75A00129CA9 /* GoogleService-Info.plist */; };
+		04D22B3B2E7174D2000F75E0 /* KeyboardDoneExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D22B3A2E7174D2000F75E0 /* KeyboardDoneExtension.swift */; };
 		04DF60462C3BD8D100F891FF /* Extensionscreenshield.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DF60452C3BD8D100F891FF /* Extensionscreenshield.swift */; };
 		18C1E51C26C7CE9300E0F8BC /* BiometricViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C1E51B26C7CE9300E0F8BC /* BiometricViewController.swift */; };
 		18F38BB924DABCED00E1EF85 /* Photo3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F38BB824DABCED00E1EF85 /* Photo3ViewController.swift */; };
@@ -355,6 +356,7 @@
 		048B2BA62C2D8D1500749BF3 /* GoLalitaVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoLalitaVC.swift; sourceTree = "<group>"; };
 		04ABB8FF2C514D1000959E6D /* IDverificationRegisterVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IDverificationRegisterVC.swift; sourceTree = "<group>"; };
 		04CD3B742DD0F75A00129CA9 /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		04D22B3A2E7174D2000F75E0 /* KeyboardDoneExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardDoneExtension.swift; sourceTree = "<group>"; };
 		04DF60452C3BD8D100F891FF /* Extensionscreenshield.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensionscreenshield.swift; sourceTree = "<group>"; };
 		17EEA975F647278DE95301DD /* Pods_GulfExchangeApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GulfExchangeApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		18C1E51B26C7CE9300E0F8BC /* BiometricViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BiometricViewController.swift; sourceTree = "<group>"; };
@@ -1349,6 +1351,7 @@
 				FA86C0232D114B4100818E52 /* APIManager.swift */,
 				FA0F53242D509A55003A19AE /* SpeechHelper.swift */,
 				FA56E0632D9161D500C1A191 /* CustomApplication.swift */,
+				04D22B3A2E7174D2000F75E0 /* KeyboardDoneExtension.swift */,
 			);
 			path = GlFunctions;
 			sourceTree = "<group>";
@@ -1931,9 +1934,13 @@
 			inputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-GulfExchangeApp/Pods-GulfExchangeApp-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
+			inputPaths = (
+			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-GulfExchangeApp/Pods-GulfExchangeApp-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -1965,9 +1972,13 @@
 			inputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-GulfExchangeApp-GulfExchangeAppUITests/Pods-GulfExchangeApp-GulfExchangeAppUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
+			inputPaths = (
+			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-GulfExchangeApp-GulfExchangeAppUITests/Pods-GulfExchangeApp-GulfExchangeAppUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -2135,6 +2146,7 @@
 				FADA6CEF2CC782AC0044AC08 /* testfile.swift in Sources */,
 				FADA6CED2CC782AC0044AC08 /* NotificationMessageModel.swift in Sources */,
 				FA56E06A2D9165A800C1A191 /* Main.swift in Sources */,
+				04D22B3B2E7174D2000F75E0 /* KeyboardDoneExtension.swift in Sources */,
 				FA8052DA2CDDDACF003E0C43 /* CircularProgressBar.swift in Sources */,
 				52404B0D27266664004EF306 /* ProfileViedionewViewController.swift in Sources */,
 				524058E924C0091A00A89729 /* Country.swift in Sources */,
@@ -2485,17 +2497,17 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 2;
+				CURRENT_PROJECT_VERSION = 287;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = RRT6SKCF7X;
+				DEVELOPMENT_TEAM = MZ5MU4E2SQ;
 				INFOPLIST_FILE = GulfExchangeApp/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.37;
-				PRODUCT_BUNDLE_IDENTIFIER = com.geco.myapplication;
+				MARKETING_VERSION = 1;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ogesInfotech.gulfExchangeApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
@@ -2510,16 +2522,16 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 2;
-				DEVELOPMENT_TEAM = RRT6SKCF7X;
+				CURRENT_PROJECT_VERSION = 287;
+				DEVELOPMENT_TEAM = MZ5MU4E2SQ;
 				INFOPLIST_FILE = GulfExchangeApp/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.37;
-				PRODUCT_BUNDLE_IDENTIFIER = com.geco.myapplication;
+				MARKETING_VERSION = 1;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ogesInfotech.gulfExchangeApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;

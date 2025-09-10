@@ -71,6 +71,7 @@ class AddBeneficiaryVC: UIViewController, GenderSelectionPopupViewDelegate, AddB
     @IBOutlet var screenShootTFs: [UITextField]!
     @IBOutlet var screenShootLbls: [UILabel]!
     
+    @IBOutlet weak var baseStackView: UIStackView!
     @IBOutlet weak var baseView: UIView!
     @IBOutlet weak var scrollView: UIScrollView!
     @IBOutlet weak var firstNameLbl: UILabel!
@@ -253,11 +254,11 @@ class AddBeneficiaryVC: UIViewController, GenderSelectionPopupViewDelegate, AddB
         setSelection()
         
         setView()
-        characterTextFields.forEach { $0.delegate = self }
-        numberTextFields.forEach { $0.delegate = self }
-        accNumTF.delegate = self
-        confirmAccNumTF.delegate = self
-        branchNameTF.delegate = self
+//        characterTextFields.forEach { $0.delegate = self }
+//        numberTextFields.forEach { $0.delegate = self }
+//        accNumTF.delegate = self
+//        confirmAccNumTF.delegate = self
+//        branchNameTF.delegate = self
         popUpView.delegate = self
         popUpView1.delegate = self
         popUpView2.delegate = self
@@ -265,6 +266,8 @@ class AddBeneficiaryVC: UIViewController, GenderSelectionPopupViewDelegate, AddB
         otpBaseView.clipsToBounds = true
         otpBgView.isHidden = true
         otpBaseView.isHidden = true
+        firstNameTF.autocorrectionType = .no
+        firstNameTF.spellCheckingType = .no
         bicBtn.setTitle("", for: .normal)
         for btn in emptyBtns{
             btn.setTitle("", for: .normal)
@@ -358,7 +361,7 @@ class AddBeneficiaryVC: UIViewController, GenderSelectionPopupViewDelegate, AddB
             ScreenShield.shared.protect(view: labl)
         }
         for tf in screenShootTFs{
-            ScreenShield.shared.protect(view: tf)
+          ScreenShield.shared.protect(view: tf)
         }
         
         ScreenShield.shared.protectFromScreenRecording()
@@ -367,8 +370,8 @@ class AddBeneficiaryVC: UIViewController, GenderSelectionPopupViewDelegate, AddB
     func setView(){
         mobileTF.keyboardType = .phonePad
         idNumTF.keyboardType = .numberPad
-        accNumTF.keyboardType = .numberPad
-        confirmAccNumTF.keyboardType = .numberPad
+        accNumTF.keyboardType = .default
+        confirmAccNumTF.keyboardType = .default
         
         branchNameTF.placeholder = "Enter Branch Name"
         
@@ -943,13 +946,13 @@ class AddBeneficiaryVC: UIViewController, GenderSelectionPopupViewDelegate, AddB
         BranchApiCalled = false
         selectedCountry = country
         countryTF.text = selectedCountry?.countryName
-        if selectedCountry?.countryName ?? "" == "NEPAL" {
+        /*if selectedCountry?.countryName ?? "" == "NEPAL" {
             accNumTF.keyboardType = .default
             confirmAccNumTF.keyboardType = .default
         }else{
             accNumTF.keyboardType = .numberPad
             confirmAccNumTF.keyboardType = .numberPad
-        }
+        }*/
         currencyArray.removeAll()
         currencyTF.text?.removeAll()
         selectedCurrency = nil
@@ -3524,10 +3527,10 @@ extension AddBeneficiaryVC: UITextFieldDelegate{
                     
                     // Call API if more than 3 characters
                     if updatedText.count > 3 && BranchApiCalled == false{
-                        self.branchSearchText = branchNameTF.text!
+                        self.branchSearchText = updatedText
                         self.BranchApiCalled = true
                         self.getToken(num: 6)
-                        self.view.endEditing(true)
+//                        self.view.endEditing(true)
                     }
                 }
             }
@@ -3540,12 +3543,193 @@ extension AddBeneficiaryVC: UITextFieldDelegate{
                 return true
             }
         }
+        /*if textField == accNumTF || textField ==  confirmAccNumTF{
+            if selectedBranch == nil {
+                showAlert(title: NSLocalizedString("gulf_exchange", comment: ""), message: "Please choose a Branch")
+                return true
+            }else{
+                                if selectedBranch?.bicDetails[0].bicType ?? "" == "IBAN CODE"{
+                if selectedCountry?.countryName ?? "" == "NEPAL" {
+                    accNumTF.keyboardType = .default
+                    confirmAccNumTF.keyboardType = .default
+                    
+                    let allowedCharacters = CharacterSet.alphanumerics.union(.whitespaces)
+                    return string.rangeOfCharacter(from: allowedCharacters.inverted) == nil
+                } else {
+                    accNumTF.keyboardType = .numberPad
+                    confirmAccNumTF.keyboardType = .numberPad
+                    
+                    let allowedCharacters = CharacterSet.decimalDigits
+                    return string.rangeOfCharacter(from: allowedCharacters.inverted) == nil
+                }
+                
+                //                if selectedCountry?.countryName ?? "" == "NEPAL"{
+                //                    let allowedCharacters = CharacterSet.letters.union(.whitespaces)
+                //                    return string.rangeOfCharacter(from: allowedCharacters) != nil
+                //                }else{
+                //                    let allowedCharacters = CharacterSet.decimalDigits
+                //                    return string.rangeOfCharacter(from: allowedCharacters) != nil
+                //                }
+            }
+        }*/
+//        for tf in characterTextFields{
+//            if textField == tf {
+//                // Allow only letters and spaces (no numbers or special characters)
+//                let allowedCharacters = CharacterSet.letters.union(.whitespaces)
+//                return string.rangeOfCharacter(from: allowedCharacters) != nil
+//            }
+//        }
+//
+//        for tf in numberTextFields{
+//            if textField == tf {
+//                // Allow only numbers (0-9)
+//                let allowedCharacters = CharacterSet.decimalDigits
+//                return string.rangeOfCharacter(from: allowedCharacters) != nil
+//            }
+//        }
+//
+//        return true
+        if characterTextFields.contains(textField) {
+               // Letters + spaces only
+               let allowed = CharacterSet.letters.union(.whitespaces)
+               return string.unicodeScalars.allSatisfy { allowed.contains($0) }
+           }
+           
+           if numberTextFields.contains(textField) {
+               // Digits only
+               let allowed = CharacterSet.decimalDigits
+               return string.unicodeScalars.allSatisfy { allowed.contains($0) }
+           }
+           
+           return true
+    }
+    func textFieldShouldReturn(_ textField: UITextField) -> Bool {
+        if textField == branchNameTF {
+            if branchNameTF.text != "" && branchNameTF.text != nil && BranchApiCalled == false{
+                self.branchSearchText = branchNameTF.text!
+                self.BranchApiCalled = true
+                self.getToken(num: 6)
+                self.view.endEditing(true)
+            }else{
+                branchArray.removeAll()
+                branchIcon.image = UIImage(named: "t_search")
+            }
+        }
+        if let currentIndex = bankTFArray.firstIndex(of: textField) {
+            var nextIndex = currentIndex + 1
+            
+            // If next field is a dropdown (disabled), resign the keyboard
+            if nextIndex < bankTFArray.count, bankTFArray[nextIndex].isUserInteractionEnabled == false {
+                textField.resignFirstResponder()
+                return true
+            }
+            
+            // Move to the next available text field
+            if nextIndex < bankTFArray.count {
+                bankTFArray[nextIndex].becomeFirstResponder()
+            } else {
+                textField.resignFirstResponder()
+            }
+        }
+        return true
+        
+        
+    }
+    func textFieldDidEndEditing(_ textField: UITextField) {
+        DispatchQueue.main.async {
+                textField.selectedTextRange = nil // removes selection
+            }
+        if textField == branchNameTF {
+            if branchNameTF.text != "" && branchNameTF.text != nil && BranchApiCalled == false{
+                self.branchSearchText = branchNameTF.text!
+                self.BranchApiCalled = true
+                self.getToken(num: 6)
+                self.view.endEditing(true)
+            }else{
+                branchArray.removeAll()
+                branchIcon.image = UIImage(named: "t_search")
+            }
+        }
+    }
+    override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
+        view.endEditing(true)
+    }
+}
+
+
+
+
+
+/*
+extension AddBeneficiaryVC: UITextFieldDelegate{
+    
+    func textField(_ textField: UITextField, shouldChangeCharactersIn range: NSRange, replacementString string: String) -> Bool {
+        
+        // Allow backspace
+        //        if string.isEmpty {
+        //            return true
+        //        }
+        if textField == branchNameTF{
+            //            if let char = string.cString(using: String.Encoding.utf8) {
+            //                    let isBackSpace = strcmp(char, "\\b")
+            //                    if (isBackSpace == -92) {
+            //                        print("Backspace was pressed")
+            //                    }
+            //                }
+            
+            if string.isEmpty, range.length == 1 {
+                print("Backspace detected")
+                selectedBic = nil
+                bicArray.removeAll()
+                selectedBranch = nil
+                bicTF.text?.removeAll()
+                return true
+            }
+            
+            if selectedBank == nil{
+                showAlert(title: NSLocalizedString("gulf_exchange", comment: ""), message: "Please choose a Bank")
+                return true
+            }else{
+                selectedBic = nil
+                bicArray.removeAll()
+                selectedBranch = nil
+                bicTF.text?.removeAll()
+                //            branchArray.removeAll()
+                branchIcon.image = UIImage(named: "t_search")
+                
+                let currentText = textField.text ?? ""
+                if let textRange = Range(range, in: currentText) {
+                    let updatedText = currentText.replacingCharacters(in: textRange, with: string)
+                    
+                    // Clear array and reset icon
+                    branchArray.removeAll()
+                    
+                    // Call API if more than 3 characters
+                    if updatedText.count > 3 && BranchApiCalled == false{
+                    //    self.branchSearchText = branchNameTF.text!
+                        self.branchSearchText = updatedText
+                        self.BranchApiCalled = true
+                        self.getToken(num: 6)
+                     //   self.view.endEditing(true)
+                    }
+                }
+            }
+            
+            
+            
+        }
+        else{
+            if string.isEmpty {
+                return true
+            }
+        }
+        
         if textField == accNumTF || textField ==  confirmAccNumTF{
             if selectedBranch == nil {
                 showAlert(title: NSLocalizedString("gulf_exchange", comment: ""), message: "Please choose a Branch")
                 return true
             }else{
-                //                if selectedBranch?.bicDetails[0].bicType ?? "" == "IBAN CODE"{
+//                                if selectedBranch?.bicDetails[0].bicType ?? "" == "IBAN CODE"{
                 
                 if selectedCountry?.countryName ?? "" == "NEPAL" {
                     accNumTF.keyboardType = .default
@@ -3570,6 +3754,7 @@ extension AddBeneficiaryVC: UITextFieldDelegate{
                 //                }
             }
         }
+        
         for tf in characterTextFields{
             if textField == tf {
                 // Allow only letters and spaces (no numbers or special characters)
@@ -3636,4 +3821,4 @@ extension AddBeneficiaryVC: UITextFieldDelegate{
     }
     
 }
-
+*/

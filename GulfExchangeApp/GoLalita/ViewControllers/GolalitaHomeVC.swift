@@ -91,25 +91,20 @@ class GolalitaHomeVC: UIViewController,UITextFieldDelegate {
         
         addShadow(view: searchTFView)
         addNavbar()
-//        checkEmail()
-                fetchAllAPIs()
-        //       let plaintext = "Abc123$$"
-        let plaintext = "Kuttappi@2580"
-        let key = "My157187ghja8971998189198"
-        let liveKey = "e9e6b0138afe1c861d7c9d3af96e33d3"
-        print(" encrypted Key - \(encrypt(plaintext: userPassword, key: liveKey))")
+        checkEmail()
+//                fetchAllAPIs()
         
         //        getToken()
         
     }
     
     @IBAction func notificationBtnTapped(_ sender: Any) {
-//        self.navigationItem.backBarButtonItem = UIBarButtonItem(title: "", style: .plain, target: nil, action: nil)
-//        let vc: GLAllNotificationsVC = UIStoryboard.init(name: "MainGolalita", bundle: Bundle.main).instantiateViewController(withIdentifier: "GLAllNotificationsVC") as! GLAllNotificationsVC
-//        //        vc.currentPage = .category
-//        self.navigationController?.pushViewController(vc, animated: true)
+        self.navigationItem.backBarButtonItem = UIBarButtonItem(title: "", style: .plain, target: nil, action: nil)
+        let vc: GLAllNotificationsVC = UIStoryboard.init(name: "MainGolalita", bundle: Bundle.main).instantiateViewController(withIdentifier: "GLAllNotificationsVC") as! GLAllNotificationsVC
+        //        vc.currentPage = .category
+        self.navigationController?.pushViewController(vc, animated: true)
         
-        getAppleWallet()
+//        getAppleWallet()
     }
     @IBAction func sideMenuBtnTapped(_ sender: Any) {
         if searchResultTableView.isHidden == false{

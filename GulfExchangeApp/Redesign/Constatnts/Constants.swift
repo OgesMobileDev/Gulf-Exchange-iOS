@@ -13,7 +13,7 @@ var colorRed = UIColor.init(named: "color_dark_red")
 var notificationCount:Bool = false
 
 struct AppInfo { // change in live
-    static let isTesting = false
+    static let isTesting = true
 
     static var version: String {
         if isTesting {
