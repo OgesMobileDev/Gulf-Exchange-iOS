@@ -254,11 +254,11 @@ class AddBeneficiaryVC: UIViewController, GenderSelectionPopupViewDelegate, AddB
         setSelection()
         
         setView()
-//        characterTextFields.forEach { $0.delegate = self }
-//        numberTextFields.forEach { $0.delegate = self }
-//        accNumTF.delegate = self
-//        confirmAccNumTF.delegate = self
-//        branchNameTF.delegate = self
+        characterTextFields.forEach { $0.delegate = self }
+        numberTextFields.forEach { $0.delegate = self }
+        accNumTF.delegate = self
+        confirmAccNumTF.delegate = self
+        branchNameTF.delegate = self
         popUpView.delegate = self
         popUpView1.delegate = self
         popUpView2.delegate = self
@@ -3530,7 +3530,7 @@ extension AddBeneficiaryVC: UITextFieldDelegate{
                         self.branchSearchText = updatedText
                         self.BranchApiCalled = true
                         self.getToken(num: 6)
-//                        self.view.endEditing(true)
+                        self.view.endEditing(true)
                     }
                 }
             }
