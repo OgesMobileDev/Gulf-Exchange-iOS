@@ -558,13 +558,13 @@ class MainPinLoginVC: UIViewController, CLLocationManagerDelegate {
                 print("token4  ",token)
                 
                 let storedUserId = UserDefaults.standard.string(forKey: "USERID") ?? ""
-                
+                //change in live
                 //MARK: test -
-                if let userId = self.userId, let password = self.passw, let pin = self.pin {
-                    self.callLogindirectappstore(userID: userId, password: password, pin: pin, access_token: token)
-                }
+//                if let userId = self.userId, let password = self.passw, let pin = self.pin {
+//                    self.callLogindirectappstore(userID: userId, password: password, pin: pin, access_token: token)
+//                }
                  
-                /*
+                
                 //MARK: production -
                 if storedUserId == "29278801221"{
                     print("Stored USERID is 29278801221")
@@ -580,7 +580,7 @@ class MainPinLoginVC: UIViewController, CLLocationManagerDelegate {
                         self.callLogin(userID: userId, password: password, pin: pin, access_token: token)
                     }
                 }
-                */
+                
                 break
             case .failure:
                 break

@@ -36,7 +36,7 @@ class IDVerificationBaseVC: UIViewController {
     let defaults = UserDefaults.standard
     var base64String:String = ""
     var verificationType:VerificationFlow = .register
-    //test
+    //change in live
     static let AlamoFireManager: Alamofire.Session = {
         let serverTrustPolicies: [String: ServerTrustEvaluating] = [
             "https://api.shuftipro.com/get/access/token": DisabledTrustEvaluator(), // Disable strict evaluation for this domain
