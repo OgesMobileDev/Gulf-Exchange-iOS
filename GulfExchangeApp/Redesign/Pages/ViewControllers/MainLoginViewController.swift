@@ -1135,11 +1135,6 @@ class MainLoginViewController: UIViewController,CLLocationManagerDelegate {
      //    */
         
         
-        //original disbled biometric hided for ind
-//                let params:Parameters =  ["partnerId":partnerId,"token":token,"requestTime":dateTime,"userID":self.userId,"source":"MOBILE","password":self.passw,"mpin":self.pin,"loginGEOLocation": self.addressString + "$Port:"+" "+"$IMEI:" + self.udid ,"loginCountry":str_country,"loginDevice":UIDevice.modelName,"ipAddress":"223.228.130.79","lockStatusIn":self.lockStatus,"loginDeviceType":"IOS","loginVersionName":"1.12"]
-        //newwwwww
-//        let params:Parameters =  ["partnerId":partnerId,"token":token,"requestTime":dateTime,"userID":self.userId,"source":"MOBILE","password":self.passw,"mpin":self.pin,"loginGEOLocation": self.addressString/* + "$Port:"+" "+"$IMEI:" + self.udid*/ ,"loginCountry":str_country,"loginDevice":UIDevice.modelName,"ipAddress":"223.228.130.79","lockStatusIn":self.lockStatus,"loginDeviceType":"IOS","loginVersionName":appVersion,"loginSessionID": self.udid]
-        
          //MARK: production params
         let params:Parameters =  ["partnerId":partnerId,"token":token,"requestTime":dateTime,"userID":self.userId,"source":"MOBILE","password":self.passw,"mpin":self.pin,"loginGEOLocation": self.addressString/* + "$Port:"+" "+"$IMEI:" + self.udid*/ ,"loginCountry":str_country,"loginDevice":UIDevice.modelName,"ipAddress":"223.228.130.79","lockStatusIn":self.lockStatus,"loginDeviceType":"IOS","loginVersionName":appVersion,"loginSessionID": self.udid]
        
@@ -1147,13 +1142,6 @@ class MainLoginViewController: UIViewController,CLLocationManagerDelegate {
         //MARK: uat params
         
 //        let params:Parameters =  ["partnerId":partnerId,"token":token,"requestTime":dateTime,"userID":self.userId,"source":"MOBILE","password":self.passw,"mpin":self.pin,"loginGEOLocation": self.addressString/* + "$Port:"+" "+"$IMEI:" + self.udid ,"loginCountry":"Qatar","loginDevice":UIDevice.modelName,"ipAddress":"223.228.130.79","lockStatusIn":self.lo*/ckStatus,"loginDeviceType":"IOS","loginVersionName":appVersion,"loginSessionID": self.udid]
-        
-        
-        
-        //       ind device
-//        let params:Parameters =  ["partnerId":partnerId,"token":token,"requestTime":dateTime,"userID":self.userId,"source":"MOBILE","password":self.passw,"mpin":self.pin,"loginGEOLocation": self.addressString/* + "$Port:"+" "+"$IMEI:" + self.udid*/ ,"loginCountry":"Qatar","loginDevice":UIDevice.modelName,"ipAddress":"223.228.130.79","lockStatusIn":self.lockStatus,"loginDeviceType":"IOS","loginVersionName":appVersion,"loginSessionID": self.udid]
-        
-        // let params:Parameters =  ["partnerId":partnerId,"token":token,"requestTime":dateTime,"userID":userID,"source":"MOBILE","password":password,"mpin":pin,"loginGEOLocation": "INDIA" ,"loginCountry":"INDIA","loginDevice":UIDevice.modelName,"ipAddress":"223.228.130.79","lockStatusIn":self.lockStatus]
         
         print("loginurl",url)
         print("logininput",params)
