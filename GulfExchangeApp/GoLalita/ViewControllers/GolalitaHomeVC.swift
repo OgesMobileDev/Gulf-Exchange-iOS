@@ -279,10 +279,10 @@ class GolalitaHomeVC: UIViewController,UITextFieldDelegate {
                                     // Call the fetchApi() function
                                     self.fetchAllAPIs()
                                 } else if errorMessage == "User already exists with this email, Try to reset the password !!" {
-                                    self.showAlert(title: "Error", message: errorMessage)
+                                    self.showAlertHome(title: "Error", message: errorMessage)
                                     print("Error: \(errorMessage)")
                                 }else{
-                                    self.showAlert(title: "Error", message: "User registration failed! Please try again")
+                                    self.showAlertHome(title: "Error", message: "User registration failed! Please try again")
                                     print("Error: \(errorMessage)")
                                 }
                             }
@@ -301,12 +301,12 @@ class GolalitaHomeVC: UIViewController,UITextFieldDelegate {
                             }
                             
                         } catch {
-                            self.showAlert(title: "Error", message: "User registration failed! Please try again")
+                            self.showAlertHome(title: "Error", message: "User registration failed! Please try again")
                             print("Failed to decode response: \(error)")
                         }
                         
                     } else {
-                        self.showAlert(title: "Error", message: "User registration failed! Please try again")
+                        self.showAlertHome(title: "Error", message: "User registration failed! Please try again")
                         print("Error: No data in response")
                     }
                     
@@ -346,7 +346,7 @@ class GolalitaHomeVC: UIViewController,UITextFieldDelegate {
                                 // Call getToken() if the response is successful
                                 self.fetchAllAPIs()
                             }else{
-                                self.showAlert(title: "Error", message: "User registration failed! Please try again")
+                                self.showAlertHome(title: "Error", message: "User registration failed! Please try again")
                             }
                         } else if let errorMessage = response.result?.error {
                             // Handle different error messages
@@ -356,7 +356,7 @@ class GolalitaHomeVC: UIViewController,UITextFieldDelegate {
                             } else {
                                 // Call checkEmail() for other error cases
                                 print("Error: \(errorMessage)")
-                                self.showAlert(title: "Error", message: "User registration failed! Please try again")
+                                self.showAlertHome(title: "Error", message: "User registration failed! Please try again")
                             }
                             
                         }

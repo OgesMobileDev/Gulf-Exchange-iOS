@@ -618,12 +618,7 @@ extension AllServicesViewController:UICollectionViewDelegate,UICollectionViewDat
                 SpeechHelper.shared.speak("Gold/FC Rate", languageCode: "en")
             }
             
-            navigationItem.backBarButtonItem = UIBarButtonItem(title: "", style: .plain, target: nil, action: nil)
-            let storyBoard : UIStoryboard = UIStoryboard(name: "TestDummy", bundle:nil)
-            let nextViewController = storyBoard.instantiateViewController(withIdentifier: "TransferPage1VC") as! TransferPage1VC
-            self.navigationController?.pushViewController(nextViewController, animated: true)
-            
-//            self.view.makeToast(NSLocalizedString("Coming Soon", comment: ""), duration: 3.0, position: .center)
+            self.view.makeToast(NSLocalizedString("Coming Soon", comment: ""), duration: 3.0, position: .center)
         case 10:
 //            self.view.makeToast(NSLocalizedString("Coming Soon", comment: ""), duration: 3.0, position: .center)
             
