@@ -13,12 +13,13 @@ var colorRed = UIColor.init(named: "color_dark_red")
 var notificationCount:Bool = false
 
 struct AppInfo { // change in live
-    static let isTesting = false
+    static let isTesting = true
 
     static var version: String {
         if isTesting {
-            return "1.0"
+//            return "2.0"
 //            return "1.37"
+            return "1.0"
         } else {
             return Bundle.main.infoDictionary?["CFBundleShortVersionString"] as? String ?? "1.0"
         }

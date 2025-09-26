@@ -233,6 +233,7 @@ class RegisterReviewVC: UIViewController {
             workAddressLbl.text =  defaults.string( forKey: "work_addr")!
             occupationLbl.text =  defaults.string( forKey: "str_occupationname")!
             actualOccLbl.text = defaults.string( forKey: "str_actualoccupationname")!
+            regCodeLbl.text = defaults.string( forKey: "reg_code")!
             
         
             strBase64 = defaults.string(forKey: "strBase64")

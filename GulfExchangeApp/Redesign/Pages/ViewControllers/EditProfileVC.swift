@@ -134,6 +134,7 @@ class EditProfileVC: UIViewController, GenderSelectionPopupViewDelegate, EditPro
     var str_buildingnotxtfd:String = ""
     var str_income:String = ""
     var str_zone:String = ""
+    var str_regCode:String = ""
     var strMobile:String = ""
     var dualnationalityselstr:String = ""
 //    no change
@@ -1504,6 +1505,65 @@ class EditProfileVC: UIViewController, GenderSelectionPopupViewDelegate, EditPro
             // alertMessage(title: NSLocalizedString("gulf_exchange", comment: ""), msg: "Select Actual Occupation", action: NSLocalizedString("ok", comment: ""))
             return
         }
+        
+        var strregcode = regCodeTF.text
+        strregcode = strregcode!.trimmingCharacters(in: CharacterSet.whitespacesAndNewlines)
+        print(strregcode)
+        // "this is the answer"
+        print("strexpxetedincome",strregcode)
+        regCodeTF.text =  strregcode
+        print("expIncomeTF.text",regCodeTF.text)
+        
+        
+        //extraspace remove
+        //extraspace remove
+        let startingStringregcodee = regCodeTF.text!
+        let processedStringregcodee = startingStringregcodee.removeExtraSpacesregisternumbernospace()
+        print("processedStringregcode:\(processedStringregcodee)")
+        regCodeTF.text = processedStringregcodee
+        
+
+        
+        
+        
+        //new
+        //(charactersIn: "@#$%+_.&'()*,/:;<=>?[]^`{|}~)(")
+        var charSetregcode = CharacterSet.init(charactersIn: "@#$%+_.&'()*,/:;<=>?[]^`{|}~)(")
+        var string2regcode = regCodeTF.text!
+
+            if let strvalue = string2regcode.rangeOfCharacter(from: charSetregcode)
+            {
+                print("true")
+//                    let alert = UIAlertController(title: "Alert", message: "Please enter valid employer", preferredStyle: UIAlertController.Style.alert)
+//                    alert.addAction(UIAlertAction(title: "ok", style: UIAlertAction.Style.default, handler: nil))
+//                    self.present(alert, animated: true, completion: nil)
+//                    print("check name",self.fullNameTF.text)
+//
+                
+                //alertMessage(title: NSLocalizedString("gulf_exchange", comment: ""), msg: NSLocalizedString("Please enter valid employer", comment: ""), action: NSLocalizedString("ok", comment: ""))
+                
+                let bottomOffset = CGPoint(x: 0, y: 460)
+                //OR
+                //let bottomOffset = CGPoint(x: 0, y: scrollView.frame.maxY)
+                self.scrollView.setContentOffset(bottomOffset, animated: true)
+                
+                self.regCodeTF.layer.borderColor = UIColor.rgba(198, 23, 30, 1).cgColor
+                Timer.scheduledTimer(withTimeInterval: 5.0, repeats: false) { (Timer) in
+                    self.regCodeTF.layer.borderColor = UIColor.rgba(232, 233, 233, 1).cgColor
+                }
+
+                self.view.makeToast("Please enter valid registration code", duration: 3.0, position: .center)
+                //self.view.makeToast(NSLocalizedString("Please enter valid employer", comment: ""), duration: 3.0, position: .center)
+
+                return
+                
+            }
+        else
+        {
+            self.regCodeTF.layer.borderWidth = 0.8
+            self.regCodeTF.layer.borderColor = UIColor.rgba(232, 233, 233, 1).cgColor
+        }
+        
         /*
         guard let id_exp_date = idExpTF.text,idExpTF.text?.count != 0 else
         {
@@ -1572,6 +1632,7 @@ class EditProfileVC: UIViewController, GenderSelectionPopupViewDelegate, EditPro
         self.str_working_address = self.workAddressTF.text!
         self.str_income = self.expIncomeTF.text!
         self.str_zone = self.zoneTF.text as! String
+        self.str_regCode = self.regCodeTF.text as! String
 //        self.strMobile = self.mobileTF.text!
 //        self.str_id_exp_date = self.convertDateFormater1(self.idExpTF.text!)
         print("1",str_id_no)
@@ -2334,6 +2395,15 @@ class EditProfileVC: UIViewController, GenderSelectionPopupViewDelegate, EditPro
                     {
                         self.buildingTF.text = myResult!["buildingNo"].stringValue
                     }
+                    if(myResult!["customerRegNo"].stringValue == "-") || (myResult!["customerRegNo"].stringValue == "<null>") || (myResult!["customerRegNo"].stringValue.isEmpty == true)
+                        
+                    {
+                        self.regCodeTF.text = ""
+                    }
+                    else
+                    {
+                        self.regCodeTF.text = myResult!["customerRegNo"].stringValue
+                    }
                     self.genderTF.text = myResult!["gender"].stringValue
                     self.str_gender = myResult!["gender"].stringValue
 //                    self.mobileTF.text = myResult!["customerMobile"].stringValue
@@ -2430,6 +2500,7 @@ class EditProfileVC: UIViewController, GenderSelectionPopupViewDelegate, EditPro
         print("18",str_working_address)
         print("19",str_income)
         print("20",str_zone)
+        print("21",str_regCode)
         
         //new
         // self.str_buildingnotxtfd = self.buildiongnotxtfd.text!
@@ -3070,99 +3141,4 @@ extension EditProfileVC: UITextFieldDelegate{
     }
 }
 
-/*
 
-actualOccupation = 00257;
-actualOccupationDesc = "<null>";
-occupation = 00039;
-customerNationality = 00016;
-buildingNo = 1;
-customerBirthPlace = 00016;
-customerBranch = ONLINE;
-customerCity = Doha;
-customerCountry = "<null>";
-customerCountryOfBirth = VIDEOS;
-customerDOB = "2004-05-09 00:00:00.0";
-customerFirstName = SHERIN;
-customerIDExpiryDate = "2025-08-27 00:00:00.0";
-customerIDIssuedBy = "QATAR MOFA";
-customerIDIssuedCountry = QAT;
-customerIDNo = 12345678003;
-customerIDType = QID;
-customerLastName = BOSE;
-customerMiddleName = "<null>";
-customerMobile = 97478944233;
-customerNameArabic = "\U0634\U064a\U0631\U064a\U0646 \U0628\U0648\U0633\U064a";
-
-customerPhone = 97478944233;
-customerRegNo = 33994528;
-customerZipCode = "<null>";
-email = "sherinmon007@hotmail.com";
-employerName = Oggg;
-expectedIncome = 10000;
-gender = Male;
-mZone = 7;
-messageDetail = "<null>";
-
-responseCode = S104;
-responseMessage = "CUSTOMER TRANSACTION IS VIEWED SUCCESSFULLY";
-street = 1;
-visaExpiryDate = "1990-01-01 00:00:00.0";
-visaIssuedBy = null;
-visaIssuedDate = "1990-01-01 00:00:00.0";
-visaNo = "27-08-2025";
-visaType = "09-05-2004";
-workingAddress1 = test11;
-workingAddress2 = "<null>";
-workingAddress3 = "SHERIN BOSE";
-
-{
-    "occupation": "TELLER",
-    "workingAddress2": "IT DEVELOPER",
-    "customerAddress": "22",
-    "customerIDNo": "29278801221",
-    "customerBirthPlace": "TUNISIA",
-    "password": "Pass@123#@!",
-    "customerCountryOfBirth": "VIDEOS",
-    "customerMobile": "97466836364",
-    "customerFullNameArabic": "عمر شبيل الحاج احمد",
-    "idImageBack": "",
-    "workingAddress1": "ALI BIN ABDULLAH STREET DOHA QATAR",
-    "customerMiddleName": "HADJ",
-    "customerIDIssuedCountry": "QAT",
-    "visaExpiryDate": "1990-01-01 00:00:00.0",
-    "idImageSelfie": "",
-    "customerFirstName": "OMAR",
-    "customerZipCode": "IOS",
-    "customerIDIssuedDate": "2025-09-08",
-    "customerIDIssuedBy": "QATAR MOI",
-    "customerLastName": "AHMED",
-    "customerCountry": "",
-    "customerIDType": "QID",
-    "expectedIncome": "5600",
-    "securityQuestion3": "17",
-    "idDocAdditional1": "",
-    "idDocAdditional2": "",
-    "customerIDExpiryDate": "2025-09-08",
-    "employerName": "GULF EXCHANGE COMPANY",
-    "partnerId": "echannel",
-    "mZone": "6",
-    "visaType": "01-12-1992",
-    "visaNo": "08-09-2025",
-    "visaIssuedBy": "GOV",
-    "customerRegNo": "75349724",
-    "workingAddress3": "OMAR HADJ AHMED",
-    "visaIssuedDate": "1990-01-01 00:00:00.0",
-    "email": "omar.elhadj.ahmed@gmail.com",
-    "customerDOB": "1992-12-01",
-    "customerPhone": Optional("1.34"),
-    "token": "P60xY@123#",
-    "customerCity": "Doha",
-    "gender": "Male",
-    "customerFullName": "OMAR HADJ AHMED",
-    "requestTime": "2025-05-21 15:09:56",
-    "customerNationality": "TUNISIA",
-    "mpin": "1990",
-    "idImageFront": ""
-}
-*/

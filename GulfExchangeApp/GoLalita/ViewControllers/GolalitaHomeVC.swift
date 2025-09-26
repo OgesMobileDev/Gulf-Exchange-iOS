@@ -275,10 +275,10 @@ class GolalitaHomeVC: UIViewController,UITextFieldDelegate {
                             
                             // Check if there is an error message
                             if let errorMessage = response.result?.error {
-                                if errorMessage == "User already exits with this email !!" || errorMessage == "User already exists with this email !!" {
+                                if errorMessage == "User already exits with this email !!" || errorMessage == "User already exists with this email !!" || errorMessage == "User already exists with this email, Try to reset the password !!"{
                                     // Call the fetchApi() function
                                     self.fetchAllAPIs()
-                                } else if errorMessage == "User already exists with this email, Try to reset the password !!" {
+                                } else if errorMessage == "remove User already exists with this email, Try to reset the password !!" {
                                     self.showAlertHome(title: "Error", message: errorMessage)
                                     print("Error: \(errorMessage)")
                                 }else{

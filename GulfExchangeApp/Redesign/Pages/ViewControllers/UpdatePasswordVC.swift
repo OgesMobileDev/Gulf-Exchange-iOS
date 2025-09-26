@@ -1280,7 +1280,8 @@ class UpdatePasswordVC: UIViewController, UITextFieldDelegate {
                 "new_password": self.newPassTF.text!
             ]
         ]
-        AF.request(url, method: .post, parameters: params, encoding: JSONEncoding.default, headers: nil).responseJSON(completionHandler: { (response) in
+        IDVerificationBaseVC.AlamoFireManager.request(url, method: .post, parameters: params, encoding: JSONEncoding.default, headers: nil).responseJSON(completionHandler: { (response) in
+            print("updateGolalitaPassword resp - \(response)")
             switch response.result {
             case .success:
                 print("Golalita Password Updated")

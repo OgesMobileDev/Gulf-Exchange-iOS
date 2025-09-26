@@ -65,11 +65,11 @@ class RegisterLoadingVC: UIViewController {
         addNavbar()
         setView()
         configureButton(button: okBtn, title: "OK", size: 16, font: .medium)
-        getToken()
+//        getToken()
         animationBaseView.clipsToBounds = true
         startLottieAnimation()
         startTimedSequence()
-//        noshufti() // change in live
+        noshufti() // change in live
     }
     
     override func viewWillAppear(_ animated: Bool) {
@@ -330,7 +330,7 @@ class RegisterLoadingVC: UIViewController {
     }
     
     func saveData(){
-        
+        documentNumber = documentNumber.replacingOccurrences(of: "\\s", with: "", options: .regularExpression)
         if verificationType == .register{
             self.defaults.removeObject(forKey: "shufti_reference")
             self.defaults.removeObject(forKey: "shufti_dob_conv")
@@ -358,6 +358,7 @@ class RegisterLoadingVC: UIViewController {
                 let nationality1 = nationality.uppercased()
                 self.defaults.set(nationality1, forKey: "shufti_nationality")
             }
+            
             
             self.defaults.set(dob1, forKey: "dob")
             self.defaults.set(dob1, forKey: "shufti_dob_conv")
