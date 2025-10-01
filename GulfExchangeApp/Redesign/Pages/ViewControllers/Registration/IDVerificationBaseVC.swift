@@ -38,35 +38,35 @@ class IDVerificationBaseVC: UIViewController {
     var verificationType:VerificationFlow = .register
     //change in live
 //    test
-    static let AlamoFireManager: Alamofire.Session = {
-        let serverTrustPolicies: [String: ServerTrustEvaluating] = [
-            "https://api.shuftipro.com/get/access/token": DisabledTrustEvaluator(), // Disable strict evaluation for this domain
-            "https://78.100.141.203:8181/gecomobileapi/": DisabledTrustEvaluator(), // Disable strict evaluation for this domain
-            "https://78.100.141.203:7171/gecomobileapicasmex": DisabledTrustEvaluator() // Disable strict evaluation for this domain
-        ]
-        
-        let serverTrustManager = ServerTrustManager(evaluators: serverTrustPolicies)
-        let manager = ServerTrustManager(evaluators: [
-            "78.100.141.203": DisabledTrustEvaluator(),
-            "ws.gulfexchange.com.qa": DisabledTrustEvaluator(),
-            "api.shuftipro.com": DisabledTrustEvaluator(),
-            "ns.shuftipro.com": DisabledTrustEvaluator(),
-            "gulfexchange.com.qa": DisabledTrustEvaluator()
-        ])
-        let configuration = URLSessionConfiguration.af.default
-        configuration.timeoutIntervalForRequest = 360 // Wait up to 3 minutes
-        configuration.timeoutIntervalForResource = 360 // Resource timeout (same as request)
-        
-        return Session(configuration: configuration, serverTrustManager: manager)
-    }()
+//    static let AlamoFireManager: Alamofire.Session = {
+//        let serverTrustPolicies: [String: ServerTrustEvaluating] = [
+//            "https://api.shuftipro.com/get/access/token": DisabledTrustEvaluator(), // Disable strict evaluation for this domain
+//            "https://78.100.141.203:8181/gecomobileapi/": DisabledTrustEvaluator(), // Disable strict evaluation for this domain
+//            "https://78.100.141.203:7171/gecomobileapicasmex": DisabledTrustEvaluator() // Disable strict evaluation for this domain
+//        ]
+//        
+//        let serverTrustManager = ServerTrustManager(evaluators: serverTrustPolicies)
+//        let manager = ServerTrustManager(evaluators: [
+//            "78.100.141.203": DisabledTrustEvaluator(),
+//            "ws.gulfexchange.com.qa": DisabledTrustEvaluator(),
+//            "api.shuftipro.com": DisabledTrustEvaluator(),
+//            "ns.shuftipro.com": DisabledTrustEvaluator(),
+//            "gulfexchange.com.qa": DisabledTrustEvaluator()
+//        ])
+//        let configuration = URLSessionConfiguration.af.default
+//        configuration.timeoutIntervalForRequest = 360 // Wait up to 3 minutes
+//        configuration.timeoutIntervalForResource = 360 // Resource timeout (same as request)
+//        
+//        return Session(configuration: configuration, serverTrustManager: manager)
+//    }()
     
 //    production
-//    static let AlamoFireManager: Alamofire.Session = {
-//        //        let manager = ServerTrustManager(evaluators: ["78.100.141.203": DisabledEvaluator()])
-//        let configuration = URLSessionConfiguration.af.default
-//        return Session(configuration: configuration)
-//        //        return Session(configuration: configuration, serverTrustManager: manager)
-//    }()
+    static let AlamoFireManager: Alamofire.Session = {
+        //        let manager = ServerTrustManager(evaluators: ["78.100.141.203": DisabledEvaluator()])
+        let configuration = URLSessionConfiguration.af.default
+        return Session(configuration: configuration)
+        //        return Session(configuration: configuration, serverTrustManager: manager)
+    }()
     
     
     

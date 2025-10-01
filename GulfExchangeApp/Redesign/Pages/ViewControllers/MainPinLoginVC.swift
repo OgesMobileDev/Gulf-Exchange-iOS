@@ -558,28 +558,28 @@ class MainPinLoginVC: UIViewController, CLLocationManagerDelegate {
                 print("token4  ",token)
                 
                 let storedUserId = UserDefaults.standard.string(forKey: "USERID") ?? ""
-                //change in live
+                // change in live
                 //MARK: test -
-                if let userId = self.userId, let password = self.passw, let pin = self.pin {
-                    self.callLogindirectappstore(userID: userId, password: password, pin: pin, access_token: token)
-                }
+//                if let userId = self.userId, let password = self.passw, let pin = self.pin {
+//                    self.callLogindirectappstore(userID: userId, password: password, pin: pin, access_token: token)
+//                }
                  
                 
                 //MARK: production -
-//                if storedUserId == "29278801221" /*|| storedUserId == "12345678913"*/{
-//                    print("Stored USERID is 29278801221")
-//                    
-//                    if let userId = self.userId, let password = self.passw, let pin = self.pin {
-//                        self.callLogindirectappstore(userID: userId, password: password, pin: pin, access_token: token)
-//                    }
-//                    
-//                } else {
-//                    print("Stored USERID is something else: \(storedUserId)")
-//                    
-//                    if let userId = self.userId, let password = self.passw, let pin = self.pin {
-//                        self.callLogin(userID: userId, password: password, pin: pin, access_token: token)
-//                    }
-//                }
+                if storedUserId == "29278801221"/*|| storedUserId == "12345678913"*/{
+                    print("Stored USERID is 29278801221")
+                    
+                    if let userId = self.userId, let password = self.passw, let pin = self.pin {
+                        self.callLogindirectappstore(userID: userId, password: password, pin: pin, access_token: token)
+                    }
+                    
+                } else {
+                    print("Stored USERID is something else: \(storedUserId)")
+                    
+                    if let userId = self.userId, let password = self.passw, let pin = self.pin {
+                        self.callLogin(userID: userId, password: password, pin: pin, access_token: token)
+                    }
+                }
                 
                 break
             case .failure:

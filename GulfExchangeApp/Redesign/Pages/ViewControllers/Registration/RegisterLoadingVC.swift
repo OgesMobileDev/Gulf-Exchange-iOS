@@ -65,11 +65,11 @@ class RegisterLoadingVC: UIViewController {
         addNavbar()
         setView()
         configureButton(button: okBtn, title: "OK", size: 16, font: .medium)
-//        getToken()
+        getToken()
         animationBaseView.clipsToBounds = true
         startLottieAnimation()
         startTimedSequence()
-        noshufti() // change in live
+//        noshufti() // change in live
     }
     
     override func viewWillAppear(_ animated: Bool) {

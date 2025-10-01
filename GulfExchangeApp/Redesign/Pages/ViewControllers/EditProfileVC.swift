@@ -220,6 +220,7 @@ class EditProfileVC: UIViewController, GenderSelectionPopupViewDelegate, EditPro
         super.viewDidLoad()
         addNavbar()
         setView()
+        
         let appleLanguages = UserDefaults.standard.object(forKey: "AppleLanguages") as! [String]
                let appLang = appleLanguages.count > 0 ? appleLanguages[0] : "en"
                if appLang == "ar" || appLang == "ur" {
@@ -325,7 +326,7 @@ class EditProfileVC: UIViewController, GenderSelectionPopupViewDelegate, EditPro
         self.buildingLbl.text = (NSLocalizedString("BuildingNumber", comment: ""))
         self.regCodeLbl.text = (NSLocalizedString("reg_code", comment: ""))
         */
-        
+        regCodeTF.isUserInteractionEnabled = false
         setTxtToSpeech()
         
     }
@@ -1505,7 +1506,8 @@ class EditProfileVC: UIViewController, GenderSelectionPopupViewDelegate, EditPro
             // alertMessage(title: NSLocalizedString("gulf_exchange", comment: ""), msg: "Select Actual Occupation", action: NSLocalizedString("ok", comment: ""))
             return
         }
-        
+        /* - not needed as per now
+         
         var strregcode = regCodeTF.text
         strregcode = strregcode!.trimmingCharacters(in: CharacterSet.whitespacesAndNewlines)
         print(strregcode)
@@ -1563,7 +1565,7 @@ class EditProfileVC: UIViewController, GenderSelectionPopupViewDelegate, EditPro
             self.regCodeTF.layer.borderWidth = 0.8
             self.regCodeTF.layer.borderColor = UIColor.rgba(232, 233, 233, 1).cgColor
         }
-        
+        */
         /*
         guard let id_exp_date = idExpTF.text,idExpTF.text?.count != 0 else
         {
