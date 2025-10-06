@@ -48,10 +48,10 @@
 			</dict>
 		</dict>
 	</dict>
-	<key>NSAppleMusicUsageDescription</key>
-	<string>Please allow this application to  access  your phone’s media library for profile photo upload.</string>
+<!--	<key>NSAppleMusicUsageDescription</key>-->
+<!--	<string>Please allow this application to  access  your phone’s media library for profile photo upload.</string>-->
 	<key>NSCameraUsageDescription</key>
-	<string>App would like to capture your photo for your profile photo upload.</string>
+	<string>The camera is used to scan your Qatar ID and capture a selfie video for identity verification.</string>
 	<key>NSExceptionDomains</key>
 	<dict>
 		<key>devportal</key>
@@ -69,17 +69,17 @@
 	<key>NSFaceIDUsageDescription</key>
 	<string>Please allow to continue with face id</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-	<string>App would like to use your current location to display it on the app, also for directions</string>
+	<string>Your location is used to verify that you are in Qatar, as our services are available only to users within Qatar.</string>
 	<key>NSLocationAlwaysUsageDescription</key>
-	<string>App would like to use your current location to display it on the app, also for directions</string>
+	<string>Your location is used to verify that you are in Qatar, as our services are available only to users within Qatar.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>App would like to use your current location to display it on the app, also for directions</string>
-	<key>NSMicrophoneUsageDescription</key>
-	<string>$(PRODUCT_NAME) microphone use</string>
-	<key>NSPhotoLibraryAddUsageDescription</key>
-	<string>Please allow this application to  access  your phone’s photo library for profile photo upload.</string>
-	<key>NSPhotoLibraryUsageDescription</key>
-	<string>Please allow this application to  access  your phone’s photo library for profile photo upload.</string>
+	<string>Your location is used to verify that you are in Qatar, as our services are available only to users within Qatar.</string>
+<!--	<key>NSMicrophoneUsageDescription</key>-->
+<!--	<string>$(PRODUCT_NAME) microphone use</string>-->
+<!--	<key>NSPhotoLibraryAddUsageDescription</key>-->
+<!--	<string>Please allow this application to  access  your phone’s photo library for profile photo upload.</string>-->
+<!--	<key>NSPhotoLibraryUsageDescription</key>-->
+<!--	<string>Please allow this application to  access  your phone’s photo library for profile photo upload.</string>-->
 	<key>UIAppFonts</key>
 	<array>
 		<string>Poppins-Black.ttf</string>
