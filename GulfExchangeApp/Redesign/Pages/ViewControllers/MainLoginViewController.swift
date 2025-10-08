@@ -67,6 +67,7 @@ class MainLoginViewController: UIViewController,CLLocationManagerDelegate {
     var loginBtnTapped:Bool = false
     var checkLoginSecond:Int = 0
     var loginLocationCount:Int = 0
+    private static var isAlertPresented = false
     
     //test
     static let AlamoFireManager: Alamofire.Session = {
@@ -335,6 +336,8 @@ class MainLoginViewController: UIViewController,CLLocationManagerDelegate {
         }
     }
     func checkBiometric(){
+       
+
         if ((self.defaults.string(forKey: "biometricenabled")?.isEmpty) != nil)
         {
             
@@ -360,14 +363,44 @@ class MainLoginViewController: UIViewController,CLLocationManagerDelegate {
             }
             else
             {
-                let ac = UIAlertController(title: "Unavailable", message: "You Cant Use This Feature!", preferredStyle: .alert)
-                ac.addAction(UIAlertAction(title: "OK", style: .default))
-                self.present(ac, animated: true)
+                
+                self.showNoBiometricsAlert()
                 
             }
         }
     }
-    
+    func showNoBiometricsAlert(){
+        guard !MainLoginViewController.isAlertPresented else { return }
+        MainLoginViewController.isAlertPresented = true
+
+                let ac = UIAlertController(
+                    title: "Biometrics Not Available",
+                    message: "Please enable Face ID or Touch ID to use this feature.",
+                    preferredStyle: .alert
+                )
+
+                ac.addAction(UIAlertAction(title: "OK", style: .default) { _ in
+                    MainLoginViewController.isAlertPresented = false
+                })
+
+                ac.addAction(UIAlertAction(title: "Open Settings", style: .default) { _ in
+                    MainLoginViewController.isAlertPresented = false
+                    DispatchQueue.main.async {
+                        if let settingsURL = URL(string: UIApplication.openSettingsURLString),
+                           UIApplication.shared.canOpenURL(settingsURL) {
+                            UIApplication.shared.open(settingsURL, options: [:], completionHandler: nil)
+                        }
+                    }
+                })
+
+                DispatchQueue.main.async {
+                    if let topVC = UIApplication.topViewController() {
+                        topVC.present(ac, animated: true)
+                    } else {
+                        MainLoginViewController.isAlertPresented = false // safety fallback
+                    }
+                }
+    }
     
     func addNavbar(){
         self.navigationController?.isNavigationBarHidden = false
@@ -1454,9 +1487,7 @@ class MainLoginViewController: UIViewController,CLLocationManagerDelegate {
                             }
                             else
                             {
-                                let ac = UIAlertController(title: "Unavailable", message: "You Cant Use This Feature!", preferredStyle: .alert)
-                                ac.addAction(UIAlertAction(title: "OK", style: .default))
-                                self.present(ac, animated: true)
+                                self.showNoBiometricsAlert()
                                 
                             }
                             
@@ -1667,9 +1698,7 @@ class MainLoginViewController: UIViewController,CLLocationManagerDelegate {
                             }
                             else
                             {
-                                let ac = UIAlertController(title: "Unavailable", message: "You Cant Use This Feature!", preferredStyle: .alert)
-                                ac.addAction(UIAlertAction(title: "OK", style: .default))
-                                self.present(ac, animated: true)
+                                self.showNoBiometricsAlert()
                                 
                             }
                             

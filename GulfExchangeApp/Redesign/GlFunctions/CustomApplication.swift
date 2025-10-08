@@ -133,7 +133,39 @@ class CustomApplication: UIApplication {
         }
 
         alertController.addAction(okAction)
-        rootViewController.present(alertController, animated: true, completion: nil)
-    }
+        DispatchQueue.main.async {
+            if let topVC = UIApplication.topViewController() {
+                topVC.present(alertController, animated: true)
+            }
+        }
 
+//        rootViewController.present(alertController, animated: true, completion: nil)
+    }
 }
+
+extension UIApplication {
+    class func topViewController(
+        base: UIViewController? = {
+            if #available(iOS 15.0, *) {
+                return UIApplication.shared.connectedScenes
+                    .compactMap { ($0 as? UIWindowScene)?.keyWindow }
+                    .first?.rootViewController
+            } else {
+                // Fallback for iOS 13–14
+                return UIApplication.shared.windows.first { $0.isKeyWindow }?.rootViewController
+            }
+        }()
+    ) -> UIViewController? {
+        if let nav = base as? UINavigationController {
+            return topViewController(base: nav.visibleViewController)
+        }
+        if let tab = base as? UITabBarController, let selected = tab.selectedViewController {
+            return topViewController(base: selected)
+        }
+        if let presented = base?.presentedViewController {
+            return topViewController(base: presented)
+        }
+        return base
+    }
+}
+

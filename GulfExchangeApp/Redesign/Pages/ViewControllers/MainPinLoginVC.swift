@@ -54,7 +54,7 @@ class MainPinLoginVC: UIViewController, CLLocationManagerDelegate {
     var str2:String = ""
     var lats : String = ""
     var longs : String = ""
-    
+    private static var isAlertPresented = false
     //test
        static let AlamoFireManager: Alamofire.Session = {
            let manager = ServerTrustManager(evaluators: ["78.100.141.203": DisabledEvaluator(),
@@ -492,6 +492,38 @@ class MainPinLoginVC: UIViewController, CLLocationManagerDelegate {
 //            self.presentOnRoot(with: popupone, descArray: arrayFilter)
         }
     }
+    func showNoBiometricsAlert(){
+        guard !MainPinLoginVC.isAlertPresented else { return }
+        MainPinLoginVC.isAlertPresented = true
+
+                let ac = UIAlertController(
+                    title: "Biometrics Not Available",
+                    message: "Please enable Face ID or Touch ID to use this feature.",
+                    preferredStyle: .alert
+                )
+
+                ac.addAction(UIAlertAction(title: "OK", style: .default) { _ in
+                    MainPinLoginVC.isAlertPresented = false
+                })
+
+                ac.addAction(UIAlertAction(title: "Open Settings", style: .default) { _ in
+                    MainPinLoginVC.isAlertPresented = false
+                    DispatchQueue.main.async {
+                        if let settingsURL = URL(string: UIApplication.openSettingsURLString),
+                           UIApplication.shared.canOpenURL(settingsURL) {
+                            UIApplication.shared.open(settingsURL, options: [:], completionHandler: nil)
+                        }
+                    }
+                })
+
+                DispatchQueue.main.async {
+                    if let topVC = UIApplication.topViewController() {
+                        topVC.present(ac, animated: true)
+                    } else {
+                        MainPinLoginVC.isAlertPresented = false // safety fallback
+                    }
+                }
+    }
     //MARK: - APi Calls
     func getLoginFailedCount() {
         self.activityIndicator(NSLocalizedString("loading", comment: ""))
@@ -830,9 +862,7 @@ class MainPinLoginVC: UIViewController, CLLocationManagerDelegate {
                             }
                             else
                             {
-                                let ac = UIAlertController(title: "Unavailable", message: "You Cant Use This Feature!", preferredStyle: .alert)
-                                                   ac.addAction(UIAlertAction(title: "OK", style: .default))
-                                self.present(ac, animated: true)
+                                self.showNoBiometricsAlert()
                                 
                             }
                             
@@ -1036,9 +1066,7 @@ class MainPinLoginVC: UIViewController, CLLocationManagerDelegate {
                                             }
                                             else
                                             {
-                                                let ac = UIAlertController(title: "Unavailable", message: "You Cant Use This Feature!", preferredStyle: .alert)
-                                                                   ac.addAction(UIAlertAction(title: "OK", style: .default))
-                                                self.present(ac, animated: true)
+                                                self.showNoBiometricsAlert()
                                                 
                                             }
                                             
@@ -1416,9 +1444,7 @@ class MainPinLoginVC: UIViewController, CLLocationManagerDelegate {
                             }
                             else
                             {
-                                let ac = UIAlertController(title: "Unavailable", message: "You Cant Use This Feature!", preferredStyle: .alert)
-                                                   ac.addAction(UIAlertAction(title: "OK", style: .default))
-                                self.present(ac, animated: true)
+                                self.showNoBiometricsAlert()
                                 
                             }
                             
@@ -1622,9 +1648,7 @@ class MainPinLoginVC: UIViewController, CLLocationManagerDelegate {
                                             }
                                             else
                                             {
-                                                let ac = UIAlertController(title: "Unavailable", message: "You Cant Use This Feature!", preferredStyle: .alert)
-                                                                   ac.addAction(UIAlertAction(title: "OK", style: .default))
-                                                self.present(ac, animated: true)
+                                                self.showNoBiometricsAlert()
                                                 
                                             }
                                             
@@ -2031,9 +2055,7 @@ class MainPinLoginVC: UIViewController, CLLocationManagerDelegate {
                         }
                         else
                         {
-                            let ac = UIAlertController(title: "Unavailable", message: "You Cant Use This Feature!", preferredStyle: .alert)
-                                               ac.addAction(UIAlertAction(title: "OK", style: .default))
-                            self.present(ac, animated: true)
+                            self.showNoBiometricsAlert()
                             
                         }
                         
@@ -2243,9 +2265,7 @@ class MainPinLoginVC: UIViewController, CLLocationManagerDelegate {
                             }
                             else
                             {
-                                let ac = UIAlertController(title: "Unavailable", message: "You Cant Use This Feature!", preferredStyle: .alert)
-                                                   ac.addAction(UIAlertAction(title: "OK", style: .default))
-                                self.present(ac, animated: true)
+                                self.showNoBiometricsAlert()
                                 
                             }
                             

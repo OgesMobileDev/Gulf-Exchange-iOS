@@ -25,6 +25,7 @@ class MoreSettingsVC: UIViewController {
     @IBOutlet weak var accessibilityBaseView: UIView!
     
     let defaults = UserDefaults.standard
+    private static var isAlertPresented = false
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -121,7 +122,6 @@ class MoreSettingsVC: UIViewController {
                if context.canEvaluatePolicy(.deviceOwnerAuthenticationWithBiometrics,error: &error)
                {
                 let reason = "Please Autherise With Touch Id"
-                   //context.evaluatePolicy(.deviceOwnerAuthenticationWithBiometrics, localizedReason: reason), reply: weak<#T##(Bool, Error?) -> Void#>)
                    context.evaluatePolicy(.deviceOwnerAuthenticationWithBiometrics, localizedReason: reason) {
                                [weak self] success, error in
                        DispatchQueue.main.async { [self] in
@@ -138,9 +138,7 @@ class MoreSettingsVC: UIViewController {
                }
                else
                {
-                   let ac = UIAlertController(title: "Unavailable", message: "You Cant Use This Feature!", preferredStyle: .alert)
-                                      ac.addAction(UIAlertAction(title: "OK", style: .default))
-                   self.present(ac, animated: true)
+                   self.showNoBiometricsAlert()
                    
                }
             
@@ -163,11 +161,42 @@ class MoreSettingsVC: UIViewController {
             if self.defaults.bool(forKey: "accessibilityenabled"){
                 SpeechHelper.shared.speak("accessibility", languageCode: "en")
             }
-         }
-         else {
-             self.defaults.set(false, forKey: "accessibilityenabled")
-         }
-        
-        
+        }
+        else {
+            self.defaults.set(false, forKey: "accessibilityenabled")
+        }
+    }
+    
+    func showNoBiometricsAlert(){
+        guard !MoreSettingsVC.isAlertPresented else { return }
+        MoreSettingsVC.isAlertPresented = true
+
+                let ac = UIAlertController(
+                    title: "Biometrics Not Available",
+                    message: "Please enable Face ID or Touch ID to use this feature.",
+                    preferredStyle: .alert
+                )
+
+                ac.addAction(UIAlertAction(title: "OK", style: .default) { _ in
+                    MoreSettingsVC.isAlertPresented = false
+                })
+
+                ac.addAction(UIAlertAction(title: "Open Settings", style: .default) { _ in
+                    MoreSettingsVC.isAlertPresented = false
+                    DispatchQueue.main.async {
+                        if let settingsURL = URL(string: UIApplication.openSettingsURLString),
+                           UIApplication.shared.canOpenURL(settingsURL) {
+                            UIApplication.shared.open(settingsURL, options: [:], completionHandler: nil)
+                        }
+                    }
+                })
+
+                DispatchQueue.main.async {
+                    if let topVC = UIApplication.topViewController() {
+                        topVC.present(ac, animated: true)
+                    } else {
+                        MoreSettingsVC.isAlertPresented = false // safety fallback
+                    }
+                }
     }
 }
